@@ -1,0 +1,45 @@
+﻿[
+  {
+    "Xml": "<Field ID='{604c977d-4d54-4000-9182-61f729fd0b1b}' Name='WorkFlowIdentifier' DisplayName='Identifiant' Type='Text' Required='TRUE' Group='_CONFIG WorkFlow Configuration'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{04c38524-b6d9-455b-be2e-cf6590bdd38a}' Name='StatusFieldName' DisplayName='column status' Type='Text' Required='TRUE' Group='_CONFIG WorkFlow Configuration'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{bba172be-5a0f-4320-b48d-1eac92a26d9b}' Name='SerializedStatusTasks' DisplayName='Taches' Type='Note' Required='TRUE' Group='_CONFIG WorkFlow Configuration'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{95ccdcc0-d356-4383-95e4-46c609b53ca1}' Name='ListRootName' DisplayName='Liste' Type='Text' Required='TRUE' Group='_CONFIG WorkFlow Configuration'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{ccf82a1c-4571-438e-a735-a7d2f78ab831}' Name='ListSiteUrl' DisplayName='Site' Type='Text' Required='TRUE' Group='_CONFIG WorkFlow Configuration'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{a855be54-2f62-4cfe-96e8-19bf230f02a5}' Name='ItemID' DisplayName='Element' Type='Text' Required='TRUE' Group='_CONFIG WorkFlow Configuration'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{9281d7d8-b69c-437d-9af6-9d25cc1779ae}' Name='WFInitiator' DisplayName='Initiateur' Type='User' UserSelectionMode='PeopleOnly'  Required='TRUE' Group='_CONFIG WorkFlow Configuration'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{8cbbb2a1-f46b-4689-9aa3-a7c94bb911d5}' Name='WFStartDate' DisplayName='Date de déclenchement' Type='DateTime' Required='TRUE' Group='_CONFIG WorkFlow Configuration'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{ab36141f-d60b-4a3c-9803-8acccf150ca2}' Name='WFLastUpdate' DisplayName='Date de la dernière modification' Type='DateTime'   Required='TRUE' Group='_CONFIG WorkFlow Configuration'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{84c63cb2-0049-4992-b850-855f85a3bbe8}' Name='WFState' DisplayName='Etat' Type='Choice' Group='_CONFIG WorkFlow Configuration'><CHOICES><CHOICE>En attente de tache utilisateur</CHOICE><CHOICE>Suspendu</CHOICE><CHOICE>Terminé</CHOICE><CHOICE>Commencé</CHOICE><CHOICE>En Cours</CHOICE></CHOICES></Field>"
+  },
+  {
+    "Xml": "<Field ID='{2c41412d-48ce-4e72-8552-358cfbfba1f7}' Name='WFTaskList' DisplayName='Liste de taches' Type='Text' Group='_CONFIG WorkFlow Configuration' Required='TRUE'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{b6fae438-3bc1-4c34-a121-beb228d04e66}' Name='WFHistoryList' DisplayName='Liste d historique des taches' Type='Text' Group='_CONFIG WorkFlow Configuration' Required='TRUE'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{d680851d-c6ff-4e90-b4b0-33abcf032aea}' Name='WFItemState' DisplayName='Etat de l element' Type='Text' Group='_CONFIG WorkFlow Configuration' Required='TRUE'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{a14c8eb2-93c2-4c2e-9d97-783879b71fa1}' Name='WFNote' DisplayName='Note' Type='Note' Group='_CONFIG WorkFlow Configuration'></Field>"
+  }
+  
+]

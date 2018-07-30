@@ -1,0 +1,13 @@
+{
+    "Name": "Bons de commandes",
+    "Title": "Commandes",
+    "Description": "",
+    "TemplateType": 100,
+    "ContentTypes": [],
+    "Views": [],
+    "RequiredFields": [  ],
+    "HiddenFields": [  ],
+    "NewFormFields": [  ],
+    "EditFormFields": [  ],
+    "DisplayFormFields": [  ]
+  }

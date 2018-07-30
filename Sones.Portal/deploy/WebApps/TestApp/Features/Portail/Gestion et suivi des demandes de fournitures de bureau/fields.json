@@ -1,0 +1,17 @@
+﻿[
+  {
+    "Xml": "<Field ID='{aa6c93a1-9bd9-4e90-97d1-0f5697db4742}' Name='DateDemandeFournitureBureau' DisplayName='Date de la demande' Type='DateTime' Format='DateOnly' Required='TRUE' Group='_SONES Demandes de fournitures de bureau'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{2a1b53bf-7e62-4d70-b0c7-a4f284ca0ada}' Name='StatutDemandeFournitureBureau' DisplayName='Statut' Type='Choice' Required='TRUE' Group='_SONES Demandes de fournitures de bureau'><CHOICES><CHOICE>Soumise</CHOICE><CHOICE>Validée Direction</CHOICE><CHOICE>Validée Achat</CHOICE><CHOICE>Validée Moyens Généraux</CHOICE><CHOICE>Livrée</CHOICE><CHOICE>Refusée</CHOICE></CHOICES></Field>"
+  },
+  {
+    "Xml": "<Field ID='{21602c7c-434e-4dce-b983-e62717069d03}' Name='CodeArticleFournitureBureau' DisplayName='Code Article' Type='Number' Required='TRUE' Group='_SONES Demandes de fournitures de bureau'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{bd175713-e000-413d-a5cf-ba131d987cc1}' Name='ArticleFournitureBureau' LinkToItem='TRUE'  DisplayName='Article' Type='Text' Required='TRUE' Group='_SONES Demandes de fournitures de bureau'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{b4e92035-f58d-49e6-b20f-60808ac48e05}' Name='SerializedArticlesFourniture' DisplayName='Articles' Type='Note' Required='TRUE' Group='_SONES Demandes de fournitures de bureau'></Field>"
+  }
+]

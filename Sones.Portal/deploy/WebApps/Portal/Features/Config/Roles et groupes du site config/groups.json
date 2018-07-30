@@ -1,0 +1,26 @@
+﻿[
+   { 
+    "Name": "Config SONES - Membres", 
+    "Description": "Les membres de ce groupe ont le droit d'accès en lecture au site de configuration la SONES", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin", "G_Portail_Utilisateurs"],
+    "Assignments": [
+                      {"ObjectType" : "Site", "ObjectName" : "/sites/config", "Roles" : ["Read"] }
+                   ]  
+  }, 
+  { 
+    "Name": "Config SONES - Contributeurs", 
+    "Description": "Les membres de ce groupe ont le droit d'accès en modification au site de configuration la SONES", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin"],
+    "Assignments": [
+                      {"ObjectType" : "Site", "ObjectName" : "/sites/config", "Roles" : ["Contribute"] }
+                   ]  
+  }, 
+  {
+    "Name": "Config SONES - Administrateurs", 
+    "Description": "Les membres de ce groupe ont un control total du site de configuration la SONES", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin","G_Portail_Admins"],
+    "Assignments": [
+                      {"ObjectType" : "Site", "ObjectName" : "/sites/config", "Roles" : ["Full Control"] }
+                   ] 
+  }
+]

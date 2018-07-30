@@ -1,0 +1,26 @@
+[
+  {
+    "Xml": "<Field ID='{E7D8798A-6B61-41E1-86C0-F0EC70178AF5}' Name='TitreLot' DisplayName='Titre' LinkToItem='TRUE' Type='Text' Required='TRUE' MaxLength='255' Group='_SONES'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{C9147CF3-47C4-4D7D-B151-E2ACE987DACE}' Name='Composante' DisplayName='Composante' Type='Choice' Required='TRUE' Group='_SONES'><CHOICES><CHOICE>Infra Production</CHOICE><CHOICE>Infra transfert</CHOICE><CHOICE>Infra Distribution</CHOICE><CHOICE>Gestion Projet</CHOICE><CHOICE>AME</CHOICE><CHOICE>Aspects Sociaux</CHOICE></CHOICES></Field>"
+  },
+  {
+    "Xml": "<Field ID='{9A92F4A9-6F7E-4A0A-A4EA-0D61A958A55F}' Name='DateDebutTravaux' DisplayName='Date début travaux' Type='DateTime' Required='FALSE' Format='DateOnly' Group='_SONES'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{BDA00D3B-8C0D-4449-A2D2-71703DCE8DF8}' Name='DateFinTravaux' DisplayName='Date fin travaux' Type='DateTime' Required='FALSE' Format='DateOnly' Group='_SONES'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{6C1FEF0D-E241-4584-849D-E9BEB37EC0AF}' Name='Bailleur' DisplayName='Bailleur' Type='Choice' Required='TRUE' Group='_SONES'><CHOICES><CHOICE>Bailleur 01</CHOICE><CHOICE>Bailleur 02</CHOICE><CHOICE>Bailleur 03</CHOICE></CHOICES></Field>"
+  },
+  {
+    "Xml": "<Field ID='{BC03C026-91D4-4313-87D0-6810631E33A9}'  Name='AvancementTechnique' DisplayName='Avancement technique' Type='Number' Required='FALSE' Min='.00' Max='1.00' Percentage='TRUE' Decimals='0' Group='_SONES'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{D92445EF-53A1-4708-AEE8-428CCC4EA3DE}'  Name='AvancementFinancier' DisplayName='Avancement financier' Type='Number' Required='FALSE' Min='.00' Max='1.00' Percentage='TRUE' Decimals='0' Group='_SONES'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{4E3014DC-02C4-430E-982D-EC6B871EE8EE}' Name='StatutLot' DisplayName='Statut' Type='Choice' Required='TRUE' Group='_SONES'><CHOICES><CHOICE>Passation terminée</CHOICE><CHOICE>Exécution en cours</CHOICE><CHOICE>Exécution terminée</CHOICE></CHOICES></Field>"
+  }
+]

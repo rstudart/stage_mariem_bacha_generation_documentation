@@ -1,0 +1,44 @@
+[
+  {
+    "ListName": "AppelsEnAbsence",
+    "SerializedItemAdded": [
+      {
+        "$type": "FieldGetter",
+        "OutPutKey": "Destinataire",
+        "Field": "Destinataire",
+        "Source":"Current"
+      },
+      {
+        "$type": "MoveToFolder",
+        "Destination": "{CTX-Destinataire-Name}",
+        "FolderCreatedFlagKey": "FolderCreated"
+      },
+      {
+        "$type": "FolderSecuritySetter",
+        "UseCondition": true,
+        "ConditiontKey": "FolderCreated",
+        "FolderPathKey": "Destinataire-Name",
+        "UsersAssignments": [
+          {
+            "Name": "{CTX-Destinataire-LoginName}",
+            "Roles": [
+              "Read"
+            ]
+          }
+        ],
+        "GroupAssignments": [
+          {
+            "Name": "Appels en absence - Standardistes",
+            "Roles": [
+              "Contribute"
+            ]
+          }
+        ]
+      },
+      {
+        "$type": "SendAlert",
+        "AlertIdentifier": "Appel en absence"        
+      }
+    ]
+  }
+]

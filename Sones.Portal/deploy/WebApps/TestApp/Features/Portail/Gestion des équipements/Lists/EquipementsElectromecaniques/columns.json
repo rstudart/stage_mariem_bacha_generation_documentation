@@ -1,0 +1,13 @@
+[
+    {
+      "Xml": "<Field ID='{8CD9BCD7-2587-43FF-A2FE-770362AF8D3C}' Name='LibelleEquipement' DisplayName='Libellé équipement'  LinkToItem='TRUE' Type='Text' Required='TRUE'  EnforceUniqueValues='TRUE' Indexed='TRUE' MaxLength='255' Group='_SONES Gestion des équipements'></Field>"
+    },
+    {
+      "Xml": "<Field ID='{A7F7F29C-18E5-469F-BA42-42C098EEE891}' Name='MarqueEquipement' DisplayName='Marque'  Type='Text' MaxLength='255' Group='_SONES Gestion des équipements'></Field>"
+    },
+    {
+      "Xml": "<Field ID='{DB267F09-5FC5-4B8B-9BC0-7295E5F76DF2}' Name='AnneeMiseOperation' DisplayName='Année de mise en operation' Type='Number' Group='_SONES Gestion des équipements'></Field>"
+    }
+  ]
+  
+  

@@ -1,0 +1,10 @@
+[
+    {
+        "Name" : "SetMasterPage",
+        "Properties" : { "masterpage" : "sones", "theme" : "palette013" }
+    },
+    {
+        "Name" : "SetListVersionning",
+        "Properties" : { "masterpage" : "sones", "theme" : "palette013" }
+    }
+]

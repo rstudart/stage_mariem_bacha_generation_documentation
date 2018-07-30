@@ -1,0 +1,11 @@
+[
+    {
+        "Xml": "<Field ID='{078dac3c-2282-45e1-84c7-2731386c1aae}' Name='CodeDirection' DisplayName='Code Direction' Type='Text' Required='TRUE' Group='_CONFIG Employes'></Field>"
+    },
+    {
+        "Xml": "<Field ID='{aa44e2d7-4ff6-4e84-8d7a-69d8ddfa9995}' Name='NameDirection' LinkToItem='TRUE' DisplayName='Direction' Type='Text' Required='TRUE' Group='_CONFIG Employes'></Field>"
+    },
+    {
+        "Xml": "<Field ID='{d0eb4e1a-bef6-458c-a98e-c4c60402773e}' Name='ResponsableDirection' DisplayName='Responsable' Type='User' UserSelectionMode='PeopleOnly'  Required='TRUE' Group='_CONFIG Employes'></Field>"
+    }
+]

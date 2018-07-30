@@ -1,0 +1,8 @@
+﻿[
+  {
+    "Id": "0x01003A4CE8C73971467AA3E2A18FE7BB68A4",
+    "Name": "Véhicule",
+    "Group": "_SONES",
+    "Fields": [ "MatriculeVehicule", "MarqueVehicule", "AnneeMiseCirculation", "PuissanceFiscale", "TypeCarburant" ]
+  } 
+]

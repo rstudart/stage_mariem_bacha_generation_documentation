@@ -1,0 +1,23 @@
+  <View Name="{DCDD86E2-5035-4795-BABC-3ADF92FE09E0}" Scope="Recursive" DefaultView="TRUE" MobileView="TRUE" Type="HTML" DisplayName="Demandes en cours" Url="/Lists/DemandeFourniture/DemandesEnCours.aspx" Level="1" BaseViewID="1" ContentTypeID="0x" ImageUrl="/_layouts/15/images/generic.png?rev=40">
+    <Query>
+      <Where>
+        <And>
+          <Neq>
+            <FieldRef Name="StatutDemandeFournitureBureau" />
+            <Value Type="Text">Livrée</Value>
+          </Neq>
+          <Neq>
+            <FieldRef Name="StatutDemandeFournitureBureau" />
+            <Value Type="Text">Refusée</Value>
+          </Neq>
+        </And>
+      </Where>
+    </Query>
+    <ViewFields>
+      <FieldRef Name="Direction" />
+      <FieldRef Name="DateDemandeFournitureBureau" />
+      <FieldRef Name="StatutDemandeFournitureBureau" />
+    </ViewFields>
+    <RowLimit Paged="TRUE">30</RowLimit>
+    <Aggregations Value="Off" />
+  </View>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "PSCO",
+  "Title": "Processus Sensibilisation et Communication",
+  "Description": "",
+  "TemplateType": 101,
+  "ContentTypes": [],
+  "DeployOrder":  1,
+  "Views": [],
+  "RequiredFields": [  ],
+  "HiddenFields": [  ],
+  "NewFormFields": [  ],
+  "EditFormFields": [  ],
+  "DisplayFormFields": [  ]
+}

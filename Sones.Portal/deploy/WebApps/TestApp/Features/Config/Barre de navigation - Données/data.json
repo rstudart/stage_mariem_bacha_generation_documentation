@@ -1,0 +1,9 @@
+﻿{
+	"List" : "NavigationLinks",
+	"Items": [
+              { "Title" : "Accueil", "Link" : "/", "ParentMenu" : "", "Ordre" : "1" },
+              { "Title" : "Config", "Link" : "/sites/config", "ParentMenu" : "", "Ordre" : "2" },
+              { "Title" : "Liens de navigation", "Link" : "/sites/config/Lists/NavigationLinks", "ParentMenu" : "Config", "Ordre" : "1" },
+              { "Title" : "Code", "Link" : "/sites/config/Code", "ParentMenu" : "Config", "Ordre" : "2" }
+           ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Vehicules",
+  "Title": "Vehicules",
+  "Description": "Liste des véhicules",
+  "TemplateType": 100,
+  "ContentTypes": [ "Véhicule" ],
+  "DeployOrder":  1,
+  "RequiredFields": [ "MatriculeVehicule", "MarqueVehicule", "AnneeMiseCirculation", "PuissanceFiscale", "TypeCarburant" ],
+  "HiddenFields": [  ],
+  "NewFormFields": [  ],
+  "EditFormFields": [  ],
+  "DisplayFormFields": [  ]
+}

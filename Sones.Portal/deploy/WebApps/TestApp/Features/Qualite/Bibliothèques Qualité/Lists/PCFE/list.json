@@ -1,0 +1,14 @@
+﻿{
+  "Name": "PCFE",
+  "Title": "Processus Contrôle du Fermier",
+  "Description": "",
+  "TemplateType": 101,
+  "ContentTypes": [],
+  "DeployOrder":  1,
+  "Views": [],
+  "RequiredFields": [  ],
+  "HiddenFields": [  ],
+  "NewFormFields": [  ],
+  "EditFormFields": [  ],
+  "DisplayFormFields": [  ]
+}

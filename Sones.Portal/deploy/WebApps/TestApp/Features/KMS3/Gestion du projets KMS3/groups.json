@@ -1,0 +1,20 @@
+﻿[
+  { 
+    "Name": "Projet KMS3 - Intervenants", 
+    "Description": "Les membres de ce groupe puvent visualiser les tâches qui leurs sont affectées et les modifier", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin"],
+    "Assignments": [
+                      {"ObjectType" : "List", "ObjectName" : "Lots", "Roles" : ["Read"] },
+                      {"ObjectType" : "List", "ObjectName" : "Taches", "Roles" : ["Read"] }
+                   ]  
+  }, 
+  { 
+    "Name": "Projet KMS3 - Gestionnaires", 
+    "Description": "Les membres de ce groupe peuvent visualiser toutes les tâches et les modifier", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin"],
+    "Assignments": [
+                      {"ObjectType" : "List", "ObjectName" : "Lots", "Roles" : ["Contribute"] },
+                      {"ObjectType" : "List", "ObjectName" : "Taches", "Roles" : ["Contribute"] } 
+                   ]  
+  }
+]

@@ -1,0 +1,20 @@
+﻿[
+  {
+    "Xml": "<Field ID='{B770AA32-BEB1-4440-B87B-956AA4A715D6}' Name='Destinataire' DisplayName='Destinataire' Type='User' UserSelectionMode='PeopleOnly' Required='TRUE' Group='_SONES Gestion des appels'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{C346F91C-1752-4524-840D-BB9F2CCF9909}' Name='Appelant' DisplayName='Appelant' LinkToItem='TRUE' Type='Text' Required='TRUE' MaxLength='100' Group='_SONES Gestion des appels'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{C24BD2F0-C3C7-45F4-8532-440E8D8226F2}' Name='Organisme' DisplayName='Organisme' Type='Text' Required='FALSE' MaxLength='100' Group='_SONES Gestion des appels'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{1700406B-45AD-4F03-837A-64290BAFD2E7}' Name='Action' DisplayName='Action' Type='Choice' Required='FALSE' Group='_SONES Gestion des appels'><CHOICES><CHOICE>a téléphoné</CHOICE><CHOICE>Est venu vous voir</CHOICE><CHOICE>Rappellera</CHOICE><CHOICE>Désire que vous alliez le voir</CHOICE><CHOICE>Demande que vous l'appeliez</CHOICE></CHOICES></Field>"
+  },
+  {
+    "Xml": "<Field ID='{2A1B54B0-3D95-4676-A2A3-D950C550C484}' Name='Urgent' DisplayName='Urgent' Type='Boolean' Required='FALSE' Group='_SONES Gestion des appels'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{0039450B-2620-4F43-896D-B9F21E6CEC26}' Name='Message' DisplayName='Message' Type='Note' RichText='FALSE' NumLines='6' Required='FALSE' Group='_SONES Gestion des appels'></Field>"
+  }
+]

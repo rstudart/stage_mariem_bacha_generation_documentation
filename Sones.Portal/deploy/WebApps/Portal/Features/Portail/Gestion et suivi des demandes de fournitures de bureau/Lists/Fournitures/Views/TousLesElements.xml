@@ -1,0 +1,15 @@
+  <Views>
+    <View Name="{FBF8B911-671E-4CBF-8690-EFD5BC568673}" DefaultView="TRUE" MobileView="TRUE" MobileDefaultView="TRUE" Type="HTML" DisplayName="Tous les éléments" Url="/Lists/Fournitures/AllItems.aspx" Level="1" BaseViewID="1" ContentTypeID="0x" ImageUrl="/_layouts/15/images/generic.png?rev=40">
+      <Query>
+        <OrderBy>
+          <FieldRef Name="ID" />
+        </OrderBy>
+      </Query>
+      <ViewFields>
+        <FieldRef Name="CodeArticleFournitureBureau" />
+        <FieldRef Name="ArticleFournitureBureau"/>
+      </ViewFields>
+      <Aggregations Value="Off" />
+      <RowLimit Paged="TRUE">30</RowLimit>     
+    </View>
+  </Views>

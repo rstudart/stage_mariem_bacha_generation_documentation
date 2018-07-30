@@ -1,0 +1,17 @@
+  <View Name="{1e17654f-ce99-49d4-8ed4-07d4ca11508c}" DefaultView="FALSE" MobileView="TRUE" Type="HTML" DisplayName="Tous les bons de commandes" Url="/Lists/BonDeCommande/TousLesBonsDeCommandes.aspx" Level="1" BaseViewID="1" ContentTypeID="0x" ImageUrl="/_layouts/15/images/generic.png?rev=40">
+    <ViewFields>
+      <FieldRef Name="NumeroBonDeCommande" />
+      <FieldRef Name="StatutBonDeCommande" />
+      <FieldRef Name="DA" />
+      <FieldRef Name="DateBonDeCommande" />
+      <FieldRef Name="Fournisseur" />
+      <FieldRef Name="MontantTTC" />
+      <FieldRef Name="MontantEnLettres" />
+      <FieldRef Name="MontantHTVA" />
+      <FieldRef Name="TVA" />
+      <FieldRef Name="TotalTVA" />
+      <FieldRef Name="Remarque" />      
+    </ViewFields>
+    <RowLimit Paged="TRUE">30</RowLimit>
+    <Aggregations Value="Off" />
+  </View>

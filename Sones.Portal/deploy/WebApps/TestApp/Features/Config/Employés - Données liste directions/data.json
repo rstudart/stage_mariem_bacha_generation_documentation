@@ -1,0 +1,55 @@
+{
+	"List" : "Directions",
+	"Items": [
+				{
+					"CodeDirection": "DG",
+					"NameDirection": "Direction Générale",
+					"ResponsableDirection":"charles.fall"
+				},
+				{
+					"CodeDirection": "PCA",
+					"NameDirection": "Président du Conseil d'Administration",
+					"ResponsableDirection":"charles.fall"
+				},
+				{
+					"CodeDirection": "DTX",
+					"NameDirection": "Direction des Travaux",
+					"ResponsableDirection":"fatou.ndiaye"
+				},
+				{
+					"CodeDirection": "DPCE",
+					"NameDirection": "Direction du Patrimoine et du Contrôle de l'Exploitation",
+					"ResponsableDirection":"biram.m.leye"
+				},
+				{
+					"CodeDirection": "DCHMG",
+					"NameDirection": "Direction du Capital Humain et des Moyens Généraux",
+					"ResponsableDirection":"oumar.diouf"
+				},
+				{
+					"CodeDirection": "SGL",
+					"NameDirection": "Secretariat Général",
+					"ResponsableDirection":"djiby.sy"
+				},
+				{
+					"CodeDirection": "DFC",
+					"NameDirection": "Direction des Finances et de la Comptabilité",
+					"ResponsableDirection":"abdourahmane.ndiaye"
+				},
+				{
+					"CodeDirection": "DPE",
+					"NameDirection": "Direction de la Planification et des Etudes",
+					"ResponsableDirection":"ada.ndao"
+				},
+				{
+					"CodeDirection": "CT",
+					"NameDirection": "Coordonateur Technique",
+					"ResponsableDirection":"abdoul.niang"
+				},
+				{
+					"CodeDirection": "UGP - KMS3",
+					"NameDirection": "Unité de Gestion du Projet - KMS3",
+					"ResponsableDirection":"abdoul.niang"
+				}
+			]
+}

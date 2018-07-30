@@ -1,0 +1,5 @@
+[
+    {
+        "Xml": "<Field ID='{e7437741-19de-4c4c-8f00-908b167ae7f7}' Name='JobExecuted' Type='Calculated' DisplayName='Exécuté' ResultType='Boolean' ><Formula>=[Prochain demarrage]=[Temps d éxecution]</Formula></Field>"
+    }
+]

@@ -1,0 +1,155 @@
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Deploy.exe.config
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Deploy.exe
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Deploy.pdb
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.SharePoint.Client.ServerRuntime.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.SharePoint.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\SharePoint.Utility.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.SharePoint.Search.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.Web.CommandUI.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.Data.Edm.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.IdentityModel.Extensions.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.BusinessData.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.Data.OData.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.SharePoint.Security.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\System.Spatial.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.Office.Server.Search.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.SharePoint.Taxonomy.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.Office.Server.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.SharePoint.Portal.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.SharePoint.Publishing.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.Office.Server.UserProfiles.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.SharePoint.Search.Extended.Administration.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.SharePoint.Search.Extended.Administration.ResourceStorage.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.Office.Server.Search.Applications.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.SharePoint.Client.Search.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.mshtml.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.SharePoint.Search.Extended.Administration.Common.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.Office.Server.Search.Connector.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.Office.DocumentManagement.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.Office.Policy.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.SharePoint.Client.Directory.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.Office.SecureStoreService.Server.Security.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\SharePoint.Utility.pdb
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.SharePoint.xml
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.SharePoint.Search.xml
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.Data.Edm.xml
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.BusinessData.xml
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.Data.OData.xml
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.SharePoint.Client.xml
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.SharePoint.Security.xml
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.SharePoint.Client.Runtime.xml
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\System.Spatial.xml
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.Office.Server.Search.xml
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.SharePoint.Taxonomy.xml
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.Office.Server.xml
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.SharePoint.Portal.xml
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.SharePoint.Publishing.xml
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.Office.Server.UserProfiles.xml
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.Office.Server.Search.Connector.xml
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.Office.DocumentManagement.xml
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Microsoft.Office.Policy.xml
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\de\System.Spatial.resources.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\es\System.Spatial.resources.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\fr\System.Spatial.resources.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\it\System.Spatial.resources.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\ja\System.Spatial.resources.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\ko\System.Spatial.resources.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\ru\System.Spatial.resources.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Public\Documents\Sones\Deploy\obj\x64\Debug\Deploy.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Sones\Deploy\obj\x64\Debug\Deploy.exe.config
+C:\Users\Public\Documents\Sones\Deploy\obj\x64\Debug\Deploy.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\Sones\Deploy\obj\x64\Debug\Deploy.exe
+C:\Users\Public\Documents\Sones\Deploy\obj\x64\Debug\Deploy.pdb
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\SharePoint.Utility.dll.config
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Info.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\app.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Sites\Portail.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Sites\Config.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Sites\Sites.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Config\Parametres du portail\types.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Config\Parametres du portail\Lists\Parametres\list.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Config\Gestion des alertes\Lists\Alerts\list.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Config\Entrepot de code\Lists\Code\list.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Config\Parametres du portail\fields.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Repertoire direction generale\Lists\RepertoireDG\Views\TousLesContacts.xml
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Repertoire telephonique\Lists\AnnuaireSONES\Views\ParDirection.xml
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Repertoire telephonique\Lists\AnnuaireSONES\Views\ParBatiment.xml
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Repertoire telephonique\Lists\AnnuaireSONES\Views\TousLesContacts.xml
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Gestion des appels\Lists\AppelsEnAbsence\Views\Ajourdhui.xml
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Gestion des appels\Lists\AppelsEnAbsence\Views\Appels.xml
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Gestion des appels\Lists\AppelsEnAbsence\Views\Mois.xml
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Gestion des appels\Lists\AppelsEnAbsence\Views\Semaine.xml
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Gestion des appels\Lists\AppelsEnAbsence\Views\TousLesAppels.xml
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Sites\KMS3.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Commun\Colonnes de site partagees\feature.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Commun\Colonnes de site partagees\fields.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Commun\Menu portail\feature.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Commun\Menu portail\menu.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Commun\Roles et groupes du portail\groups.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Commun\Roles et groupes du portail\roles.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Repertoire direction generale\feature.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Repertoire direction generale\fields.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Repertoire direction generale\groups.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Repertoire direction generale\Lists\RepertoireDG\list.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Repertoire direction generale\types.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Repertoire telephonique\feature.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Repertoire telephonique\groups.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Repertoire telephonique\Lists\AnnuaireSONES\list.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Repertoire telephonique\types.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Gestion des appels\groups.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Gestion des appels\roles.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Gestion des appels\Lists\AppelsEnAbsence\list.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Gestion des appels\feature.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Config\Entrepot de code\feature.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Config\Gestion des alertes\feature.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Config\Parametres du portail\feature.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Gestion des appels\Lists\AppelsEnAbsence\data.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Config\Barre de navigation\feature.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Gestion des appels\fields.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Portail\Gestion des appels\types.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Config\Menu\Upload\Code\Assets\_sones.png
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Config\Menu\Upload\Code\Css\_menu.css
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Config\Menu\Upload\Code\Css\_sones.css
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Config\Menu\Upload\Code\Javascript\Lib\jquery-3.2.1.min.js
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Config\Menu\Upload\Code\Javascript\NavBar.js
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Common\Master page\feature.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Common\Master page\Upload\_catalogs\masterpage\sones.master
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Common\Master page\Upload\_catalogs\masterpage\sones.preview
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Config\Menu\feature.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Config\Barre de navigation\Lists\NavigationLinks\Views\TouslesElements.xml
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Config\Barre de navigation\Lists\NavigationLinks\data.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Config\Barre de navigation\Lists\NavigationLinks\fields.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Config\Barre de navigation\Lists\NavigationLinks\list.json
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Public\Documents\Sones\Deploy\bin\x64\Debug\WebApps\Portal\Features\Config\Barre de navigation\Lists\BlaBla\list.json
+C:\Users\Public\Documents\Sones\Sones.Portal\deploy\Exe\Deploy.exe.config
+C:\Users\Public\Documents\Sones\Sones.Portal\deploy\Exe\Deploy.exe
+C:\Users\Public\Documents\Sones\Sones.Portal\deploy\Exe\Deploy.pdb

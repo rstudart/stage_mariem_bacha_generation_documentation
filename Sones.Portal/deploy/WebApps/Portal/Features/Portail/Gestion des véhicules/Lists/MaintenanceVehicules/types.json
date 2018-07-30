@@ -1,0 +1,8 @@
+﻿[
+  {
+    "Id": "0x0100A4D40C3356D944B888BF4BEB0080BD89",
+    "Name": "Opération maintenance véhicule",
+    "Group": "_SONES",
+    "Fields": [ "Vehicule", "TypeMaintenanceVehicule", "DateSimple", "CoutMaintenanceVehicule", "Description", "Observation"  ]
+  }  
+]

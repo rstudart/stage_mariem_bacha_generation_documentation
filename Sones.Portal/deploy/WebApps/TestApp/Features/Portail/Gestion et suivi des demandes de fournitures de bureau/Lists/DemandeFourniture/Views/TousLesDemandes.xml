@@ -1,0 +1,14 @@
+  <View Name="{17EB44D8-558A-42C4-9121-D78EF0AF7965}" Scope="Recursive" MobileView="TRUE" MobileDefaultView="TRUE" Type="HTML" DisplayName="Tous les éléments" Url="/Lists/DemandeFourniture/AllItems.aspx" Level="1" BaseViewID="1" ContentTypeID="0x" ImageUrl="/_layouts/15/images/generic.png?rev=40">
+    <Query>
+      <OrderBy>
+        <FieldRef Name="ID" />
+      </OrderBy>
+    </Query>
+    <ViewFields>
+      <FieldRef Name="Direction" />
+      <FieldRef Name="DateDemandeFournitureBureau" />
+      <FieldRef Name="StatutDemandeFournitureBureau" />
+    </ViewFields>
+    <RowLimit Paged="TRUE">30</RowLimit>
+    <Aggregations Value="Off" />
+  </View>

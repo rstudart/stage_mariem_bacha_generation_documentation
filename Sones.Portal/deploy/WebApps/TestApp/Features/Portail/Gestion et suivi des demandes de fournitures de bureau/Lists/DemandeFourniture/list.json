@@ -1,0 +1,15 @@
+{
+    "Name": "DemandeFourniture",
+    "Title": "Demandes de fournitures",
+    "Description": "",
+    "TemplateType": 100,
+    "ContentTypes": [
+      "Demandes de fournitures"
+    ],
+    "Views": [],
+    "RequiredFields": [],
+    "HiddenFields": [],
+    "NewFormFields": [],
+    "EditFormFields": [],
+    "DisplayFormFields": []
+  }

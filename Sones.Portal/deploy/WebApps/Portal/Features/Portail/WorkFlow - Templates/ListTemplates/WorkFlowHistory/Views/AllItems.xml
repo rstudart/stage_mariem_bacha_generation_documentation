@@ -1,0 +1,18 @@
+  <View Name="{ED418829-54F6-45E5-A7F0-FB47652D9993}" DefaultView="TRUE" MobileView="TRUE" MobileDefaultView="TRUE" Type="HTML" DisplayName="Tous les éléments" Url="/Lists/WorkFlowHistory/AllItems.aspx" Level="1" BaseViewID="1" ContentTypeID="0x" ImageUrl="/_layouts/15/images/generic.png?rev=40">
+    <Query>
+      <OrderBy>
+        <FieldRef Name="WFModificationDate" Ascending="FALSE" />
+        <FieldRef Name="ID" />
+      </OrderBy>
+    </Query>
+    <ViewFields>
+      <FieldRef Name="WFIdentifier" />
+      <FieldRef Name="WFItemOldState" />
+      <FieldRef Name="WFItemNewState" />
+      <FieldRef Name="WFNote" />
+      <FieldRef Name="WFEditionUser" />
+      <FieldRef Name="WFModificationDate" />
+    </ViewFields>
+    <RowLimit Paged="TRUE">30</RowLimit>
+    <Aggregations Value="Off" />
+  </View>

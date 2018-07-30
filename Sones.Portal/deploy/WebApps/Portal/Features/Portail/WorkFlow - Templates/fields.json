@@ -1,0 +1,32 @@
+﻿[
+  {
+    "Xml": "<Field ID='{157f60ee-29a0-4764-b224-275d3f47e752}' Name='WFInstanceID' DisplayName='Instance de workflow' Type='Integer' Group='_SONES WorkFlow - Templates'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{207b7d4c-6a4a-4ae4-acbe-be3cbfd5187c}' Name='WFIdentifier' DisplayName='Identifiant de workflow' Type='Text' Group='_SONES WorkFlow - Templates'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{3a140ed6-d694-4b37-accc-ef4055bd8c45}' Name='SerializedTaskInfo' DisplayName='Information de la tache' Type='Note' Group='_SONES WorkFlow - Templates'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{2fc17ac6-69f4-409e-9ccd-d6beb6ef87ac}' Name='WFModificationDate' DisplayName='Date' Type='DateTime' Group='_SONES WorkFlow - Templates'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{ae841339-0895-4d8b-b6d9-47f93b85e914}' Name='WFEditionUser' DisplayName='Utilisateur' Type='User' UserSelectionMode='PeopleOnly'  Group='_SONES WorkFlow - Templates'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{d605aaa6-1563-4988-aba1-7e6c89f819e4}' Name='WFItemOldState' DisplayName='Ancien état' Type='Text' Group='_SONES WorkFlow - Templates'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{07598889-9a41-4587-a235-ed4913a159aa}' Name='WFItemNewState' DisplayName='Nouvel état' Type='Text' Group='_SONES WorkFlow - Templates'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{7b02588f-68ba-4581-852b-8d06761c62b7}' Name='WFNote' DisplayName='Note' Type='Note' Group='_SONES WorkFlow - Templates'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{d919d8fa-16cd-48e4-8b83-3e13f479fa8b}' Name='SerializedItemInfo' DisplayName='Info sur l element' Type='Note' Group='_SONES WorkFlow - Templates'></Field>"
+  },
+  {
+    "Xml": "<Field Type='URL' DisplayName='Tache' Format='Hyperlink' ID='{f41ce380-4c60-4ee3-94ec-665b9a5c910d}' Name='WFTaskLink'  Group='_SONES WorkFlow - Templates'/>"
+  }
+]

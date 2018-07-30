@@ -1,0 +1,36 @@
+.sug-item {
+    text-align: left;
+}
+
+.ms-Suggestions-itemButton {
+    padding: 5px 12px !important;
+}
+
+.button-bar {
+    float: right;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+.ms-DatePicker-wrap button {
+    min-width: 0;
+}
+
+.ms-Table-div {
+    padding-top: 15px;
+}
+
+.errormessage {
+    font-size: 12px;
+    font-weight: 400;
+    color: #a80000;
+    margin: 0;
+    padding-top: 5px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    white-space: pre-wrap;
+    align-items: center;
+}

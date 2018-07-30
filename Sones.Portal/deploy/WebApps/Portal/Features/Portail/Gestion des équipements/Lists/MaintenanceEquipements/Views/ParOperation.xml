@@ -1,0 +1,23 @@
+<View Name="{E25FC7DB-8702-4566-94CA-4EA4BD086BE7}" MobileView="TRUE" Type="HTML" DisplayName="Par opération" Url="/Lists/MaintenanceEquipements/ParOperation.aspx" Level="1" BaseViewID="1" ContentTypeID="0x" ImageUrl="/_layouts/15/images/generic.png?rev=40">
+  <Query>
+    <GroupBy Collapse="TRUE" GroupLimit="30">
+      <FieldRef Name="TypeMaintenanceEquipement" />
+    </GroupBy>
+    <OrderBy>
+      <FieldRef Name="DateSimple" Ascending="FALSE" />
+      <FieldRef Name="EquipementElectromecanique" />
+    </OrderBy>
+  </Query>
+  <ViewFields>
+      <FieldRef Name="TypeMaintenanceEquipement" />
+      <FieldRef Name="DateSimple" />
+      <FieldRef Name="EquipementElectromecanique" />
+      <FieldRef Name="CoutMaintenanceEquipement" />
+      <FieldRef Name="Observation" />
+      <FieldRef Name="Description" />
+  </ViewFields>
+  <RowLimit Paged="TRUE">30</RowLimit>
+  <Aggregations Value="On">
+    <FieldRef Name="Cout" Type="SUM" />
+  </Aggregations>
+</View>

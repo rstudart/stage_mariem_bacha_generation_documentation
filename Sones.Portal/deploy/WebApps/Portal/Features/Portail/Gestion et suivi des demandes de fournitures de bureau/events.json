@@ -1,0 +1,17 @@
+[
+  {
+    "ListName": "DemandeFourniture",
+    "SerializedItemAdded": [
+      {
+        "$type": "FieldGetter",
+        "OutPutKey": "CodeDirection",
+        "Field": "CodeDirection"
+      },
+      {
+        "$type": "MoveToFolder",
+        "Destination": "{CTX-CodeDirection}",
+        "FolderCreatedFlagKey": "FolderCreated"
+      }
+    ]
+  }
+]

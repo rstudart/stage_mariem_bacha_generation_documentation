@@ -1,0 +1,464 @@
+{
+	"List" : "AnnuaireSONES",
+	"Items": [
+                {
+                    "CodeDirection": "Salles de réunion",
+                    "NomPrenom": "SALLE CA",
+                    "FonctionEmploye": "",
+                    "Batiment": "A",
+                    "Etage": "3",
+                    "Telephone": "200",
+                    "AdresseMail": ""
+                },
+                {
+                    "CodeDirection": "Salles de réunion",
+                    "NomPrenom": "Salle de réunion UGP",
+                    "FonctionEmploye": "",
+                    "Batiment": "C",
+                    "Etage": "0",
+                    "Telephone": "203",
+                    "AdresseMail": ""
+                },
+                {
+                    "CodeDirection": "PCA",
+                    "NomPrenom": "Mody SY",
+                    "FonctionEmploye": "PCA",
+                    "Batiment": "A",
+                    "Etage": "3",
+                    "Telephone": "103",
+                    "AdresseMail": "msy@sones.sn"
+                },
+                {
+                    "CodeDirection": "PCA",
+                    "NomPrenom": "Mody SY",
+                    "FonctionEmploye": "PCA",
+                    "Batiment": "A",
+                    "Etage": "3",
+                    "Telephone": "126",
+                    "AdresseMail": "msy@sones.sn"
+                },
+                {
+                    "CodeDirection": "PCA",
+                    "NomPrenom": "Nafissatou Sy DIEYE",
+                    "FonctionEmploye": "SEC. PCA",
+                    "Batiment": "A",
+                    "Etage": "3",
+                    "Telephone": "104",
+                    "AdresseMail": "nsy@sones.sn"
+                },
+                {
+                    "CodeDirection": "DG",
+                    "NomPrenom": "Charles FALL",
+                    "FonctionEmploye": "DG",
+                    "Batiment": "A",
+                    "Etage": "3",
+                    "Telephone": "101",
+                    "AdresseMail": "charles.fall@sones.sn"
+                },
+                {
+                    "CodeDirection": "DG",
+                    "NomPrenom": "Charles FALL",
+                    "FonctionEmploye": "DG",
+                    "Batiment": "A",
+                    "Etage": "3",
+                    "Telephone": "125",
+                    "AdresseMail": ""
+                },
+                {
+                    "CodeDirection": "DG",
+                    "NomPrenom": "Ndeye Marie Thiam LO",
+                    "FonctionEmploye": "SEC.DG",
+                    "Batiment": "A",
+                    "Etage": "3",
+                    "Telephone": "102",
+                    "AdresseMail": "nthiam@sones.sn"
+                },
+                {
+                    "CodeDirection": "DG",
+                    "NomPrenom": "Abdou Aziz NDIAYE",
+                    "FonctionEmploye": "CAJ",
+                    "Batiment": "A",
+                    "Etage": "2",
+                    "Telephone": "105",
+                    "AdresseMail": "aandiaye@sones.sn"
+                },
+                {
+                    "CodeDirection": "DG",
+                    "NomPrenom": "Marie Kristine KALY",
+                    "FonctionEmploye": "Sec. Courrier",
+                    "Batiment": "A",
+                    "Etage": "3",
+                    "Telephone": "132",
+                    "AdresseMail": "mkaly@sones.sn"
+                },
+                {
+                    "CodeDirection": "DG",
+                    "NomPrenom": "Malick SO",
+                    "FonctionEmploye": "CMET",
+                    "Batiment": "A",
+                    "Etage": "2",
+                    "Telephone": "130",
+                    "AdresseMail": "mso@sones.sn"
+                },
+                {
+                    "CodeDirection": "DG",
+                    "NomPrenom": "Yacine DIA",
+                    "FonctionEmploye": "Assit.C.COM",
+                    "Batiment": "A",
+                    "Etage": "0",
+                    "Telephone": "135",
+                    "AdresseMail": "ydia@sones.sn"
+                },
+                {
+                    "CodeDirection": "DG",
+                    "NomPrenom": "Modou THIAM",
+                    "FonctionEmploye": "RQ",
+                    "Batiment": "A",
+                    "Etage": "2",
+                    "Telephone": "197",
+                    "AdresseMail": "mthiam@sones.sn"
+                },
+                {
+                    "CodeDirection": "DG",
+                    "NomPrenom": "Habib Demba FALL",
+                    "FonctionEmploye": "C COM",
+                    "Batiment": "A",
+                    "Etage": "2",
+                    "Telephone": "131",
+                    "AdresseMail": "hfall@sones"
+                },
+                {
+                    "CodeDirection": "DG",
+                    "NomPrenom": "Khalifa FAYE",
+                    "FonctionEmploye": "Chargé Patrimoine",
+                    "Batiment": "A",
+                    "Etage": "2",
+                    "Telephone": "127",
+                    "AdresseMail": "kfaye@sones.sn"
+                },
+                {
+                    "CodeDirection": "DG",
+                    "NomPrenom": "Mouhamadou Alioune BA",
+                    "FonctionEmploye": "Cellule Audit interne",
+                    "Batiment": "A",
+                    "Etage": "2",
+                    "Telephone": "109",
+                    "AdresseMail": "maba@sones.sn"
+                },
+                {
+                    "CodeDirection": "DG",
+                    "NomPrenom": "Ndeye Fatou Nguinda Thioye",
+                    "FonctionEmploye": "Compta Matière",
+                    "Batiment": "C",
+                    "Etage": "0",
+                    "Telephone": "192",
+                    "AdresseMail": "nthioye@sones.sn"
+                },
+                {
+                    "CodeDirection": "DG",
+                    "NomPrenom": "Marie Hélène NGOM",
+                    "FonctionEmploye": "Sec-CT",
+                    "Batiment": "A",
+                    "Etage": "2",
+                    "Telephone": "196",
+                    "AdresseMail": "mngom@sones.sn"
+                },
+                {
+                    "CodeDirection": "DG",
+                    "NomPrenom": "Abdoul NIANG",
+                    "FonctionEmploye": "CT",
+                    "Batiment": "A",
+                    "Etage": "2",
+                    "Telephone": "115",
+                    "AdresseMail": "aniang@sones.sn"
+                },
+                {
+                    "CodeDirection": "DG",
+                    "NomPrenom": "Ibra DIAGNE",
+                    "FonctionEmploye": "Chargé Mission",
+                    "Batiment": "A",
+                    "Etage": "2",
+                    "Telephone": "193",
+                    "AdresseMail": "idiagne@sones.sn"
+                },
+                {
+                    "CodeDirection": "DG",
+                    "NomPrenom": "Khady NDIAYE",
+                    "FonctionEmploye": "Assist-Com",
+                    "Batiment": "A",
+                    "Etage": "0",
+                    "Telephone": "199",
+                    "AdresseMail": "kndiaye@sones.sn"
+                },
+                {
+                    "CodeDirection": "DG",
+                    "NomPrenom": "Dominique Antoine Tine",
+                    "FonctionEmploye": "CPSM",
+                    "Batiment": "A",
+                    "Etage": "2",
+                    "Telephone": "164",
+                    "AdresseMail": "dtine@sones.sn"
+                },
+                {
+                    "CodeDirection": "DG",
+                    "NomPrenom": "Absa LO",
+                    "FonctionEmploye": "SEC-CPSM",
+                    "Batiment": "C",
+                    "Etage": "0",
+                    "Telephone": "193",
+                    "AdresseMail": "alo@sones.sn"
+                },
+                {
+                    "CodeDirection": "DG",
+                    "NomPrenom": "Oumar BA",
+                    "FonctionEmploye": "Ass-CPSM",
+                    "Batiment": "C",
+                    "Etage": "0",
+                    "Telephone": "210",
+                    "AdresseMail": "oba@sones.sn"
+                },
+                {
+                    "CodeDirection": "DG",
+                    "NomPrenom": "Khady Séne",
+                    "FonctionEmploye": "Audit Interne",
+                    "Batiment": "C",
+                    "Etage": "0",
+                    "Telephone": "204",
+                    "AdresseMail": "ksene@sones.sn"
+                },
+                {
+                    "CodeDirection": "DG",
+                    "NomPrenom": "Absa Lô",
+                    "FonctionEmploye": "Sec UGP",
+                    "Batiment": "C",
+                    "Etage": "0",
+                    "Telephone": "193",
+                    "AdresseMail": "alo@sones.sn "
+                },
+                {
+                    "CodeDirection": "DG",
+                    "NomPrenom": "Poste vigile",
+                    "FonctionEmploye": "DG",
+                    "Batiment": "A",
+                    "Etage": "3",
+                    "Telephone": "134",
+                    "AdresseMail": ""
+                },
+                {
+                    "CodeDirection": "DG",
+                    "NomPrenom": "Bureau du courrier",
+                    "FonctionEmploye": "",
+                    "Batiment": "A",
+                    "Etage": "0",
+                    "Telephone": "167",
+                    "AdresseMail": ""
+                },
+                {
+                    "CodeDirection": "UGP KMS 3",
+                    "NomPrenom": "Abdoul NIANG",
+                    "FonctionEmploye": "Coordonnateur UGP",
+                    "Batiment": "A",
+                    "Etage": "2",
+                    "Telephone": "115",
+                    "AdresseMail": "aniang@sones.sn"
+                },
+                {
+                    "CodeDirection": "UGP KMS 3",
+                    "NomPrenom": "Anne-Marie Diop DIOUF",
+                    "FonctionEmploye": "Sec UGP",
+                    "Batiment": "C",
+                    "Etage": "0",
+                    "Telephone": "187",
+                    "AdresseMail": "amdiop@sones.sn"
+                },
+                {
+                    "CodeDirection": "UGP KMS 3",
+                    "NomPrenom": "Abdou DIOUF",
+                    "FonctionEmploye": "CP UGP",
+                    "Batiment": "C",
+                    "Etage": "0",
+                    "Telephone": "150",
+                    "AdresseMail": "adioufjr@sones.sn"
+                },
+                {
+                    "CodeDirection": "UGP KMS 3",
+                    "NomPrenom": "Babou Amy NGOM",
+                    "FonctionEmploye": "CP UGP",
+                    "Batiment": "C",
+                    "Etage": "0",
+                    "Telephone": "157",
+                    "AdresseMail": "bngom@sones.sn"
+                },
+                {
+                    "CodeDirection": "UGP KMS 3",
+                    "NomPrenom": "Ousmane DIALLO",
+                    "FonctionEmploye": "CP UGP",
+                    "Batiment": "C",
+                    "Etage": "0",
+                    "Telephone": "206",
+                    "AdresseMail": "oudiallo@sones.sn"
+                },
+                {
+                    "CodeDirection": "UGP KMS 3",
+                    "NomPrenom": "Ndeye Aby Guèye",
+                    "FonctionEmploye": "E-S-S",
+                    "Batiment": "C",
+                    "Etage": "1",
+                    "Telephone": "207",
+                    "AdresseMail": "ngueye@sones.sn"
+                },
+                {
+                    "CodeDirection": "UGP KMS 3",
+                    "NomPrenom": "Ndeye Awa Diagne",
+                    "FonctionEmploye": "Suivi-Evaluation",
+                    "Batiment": "C",
+                    "Etage": "0",
+                    "Telephone": "209",
+                    "AdresseMail": "ndiagne@sones.sn"
+                },
+                {
+                    "CodeDirection": "UGP KMS 3",
+                    "NomPrenom": "AMO",
+                    "FonctionEmploye": "",
+                    "Batiment": "C",
+                    "Etage": "0",
+                    "Telephone": "186",
+                    "AdresseMail": ""
+                },
+                {
+                    "CodeDirection": "SG",
+                    "NomPrenom": "Djiby SY",
+                    "FonctionEmploye": "SG",
+                    "Batiment": "A",
+                    "Etage": "2",
+                    "Telephone": "106",
+                    "AdresseMail": "dsy@sones.sn"
+                },
+                {
+                    "CodeDirection": "SG",
+                    "NomPrenom": "Fatou NDIAYE DIOP",
+                    "FonctionEmploye": "Sec SG",
+                    "Batiment": "A",
+                    "Etage": "2",
+                    "Telephone": "110",
+                    "AdresseMail": "fdiop@sones"
+                },
+                {
+                    "CodeDirection": "SG",
+                    "NomPrenom": "Ousmane DIENG",
+                    "FonctionEmploye": "C-Gestion",
+                    "Batiment": "A",
+                    "Etage": "2",
+                    "Telephone": "159",
+                    "AdresseMail": "odieng@sones.sn"
+                },
+                {
+                    "CodeDirection": "SG",
+                    "NomPrenom": "Oulimata Kandji NGOM",
+                    "FonctionEmploye": "CSRI",
+                    "Batiment": "A",
+                    "Etage": "0",
+                    "Telephone": "191",
+                    "AdresseMail": "okandji@sones.sn"
+                },
+                {
+                    "CodeDirection": "SG",
+                    "NomPrenom": "Youssouph FALL",
+                    "FonctionEmploye": "Chargé Adm / Dev",
+                    "Batiment": "C",
+                    "Etage": "1",
+                    "Telephone": "182",
+                    "AdresseMail": "yfall@sones.sn"
+                },
+                {
+                    "CodeDirection": "SG",
+                    "NomPrenom": "Fatou Hann SARR",
+                    "FonctionEmploye": "Assit DOC",
+                    "Batiment": "C",
+                    "Etage": "0",
+                    "Telephone": "119",
+                    "AdresseMail": "fsarr@sones.sn"
+                },
+                {
+                    "CodeDirection": "SG",
+                    "NomPrenom": "Aliou DIOUF",
+                    "FonctionEmploye": "STAND",
+                    "Batiment": "A",
+                    "Etage": "0",
+                    "Telephone": "100",
+                    "AdresseMail": "aldiouf@sones.sn"
+                },
+                {
+                    "CodeDirection": "SG",
+                    "NomPrenom": "Albert Assondj MANSALY",
+                    "FonctionEmploye": "DAD",
+                    "Batiment": "C",
+                    "Etage": "0",
+                    "Telephone": "189",
+                    "AdresseMail": "amansaly@sones.sn"
+                },
+                {
+                    "CodeDirection": "DFC",
+                    "NomPrenom": "Abdourahmane NDIAYE",
+                    "FonctionEmploye": "DFC",
+                    "Batiment": "A",
+                    "Etage": "0",
+                    "Telephone": "117",
+                    "AdresseMail": "andiaye@sones.sn"
+                },
+                {
+                    "CodeDirection": "DFC",
+                    "NomPrenom": "Maty Lakh KANE",
+                    "FonctionEmploye": "SF",
+                    "Batiment": "A",
+                    "Etage": "0",
+                    "Telephone": "111",
+                    "AdresseMail": "mkane@sones.sn"
+                },
+                {
+                    "CodeDirection": "DFC",
+                    "NomPrenom": "Fatou Bintou MBODJ",
+                    "FonctionEmploye": "SEC. DFC",
+                    "Batiment": "A",
+                    "Etage": "0",
+                    "Telephone": "118",
+                    "AdresseMail": "fmbodj@sones.sn"
+                },
+                {
+                    "CodeDirection": "DFC",
+                    "NomPrenom": "Amadou Mamadou BOCOUM",
+                    "FonctionEmploye": "CSC",
+                    "Batiment": "A",
+                    "Etage": "0",
+                    "Telephone": "170",
+                    "AdresseMail": "abocoum@sones.sn"
+                },
+                {
+                    "CodeDirection": "DFC",
+                    "NomPrenom": "Fatou DIOP",
+                    "FonctionEmploye": "SF",
+                    "Batiment": "A",
+                    "Etage": "0",
+                    "Telephone": "153",
+                    "AdresseMail": "fadiop@sones.sn"
+                },
+                {
+                    "CodeDirection": "DFC",
+                    "NomPrenom": "Ciré NDIAYE",
+                    "FonctionEmploye": "SC",
+                    "Batiment": "A",
+                    "Etage": "0",
+                    "Telephone": "154",
+                    "AdresseMail": "cndiaye@sones.sn"
+                },
+                {
+                    "CodeDirection": "DFC",
+                    "NomPrenom": "Mouhamadou Lamine NIANG",
+                    "FonctionEmploye": "CSF",
+                    "Batiment": "A",
+                    "Etage": "0",
+                    "Telephone": "180",
+                    "AdresseMail": "mniang@sones.sn"
+                }
+            ]
+}

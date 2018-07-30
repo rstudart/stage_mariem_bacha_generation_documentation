@@ -1,0 +1,5 @@
+﻿{
+  "Name": "Répertoire téléphonique SONES",
+  "DependentOn" : ["Colonnes de sites partagées du portail"],
+  "Site":"Portail"
+}

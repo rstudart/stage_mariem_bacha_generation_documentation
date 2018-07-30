@@ -1,0 +1,18 @@
+  <View Name="{F57F27F3-C16E-40BE-AA0B-684DE0CE4007}" DefaultView="TRUE" MobileView="TRUE" MobileDefaultView="TRUE" Type="HTML" DisplayName="Tous les éléments" Url="/sites/config/Lists/EventReceiverConfig/AllItems.aspx" Level="1" BaseViewID="1" ContentTypeID="0x" ImageUrl="/_layouts/15/images/generic.png?rev=40">
+    <Query>
+      <OrderBy>
+        <FieldRef Name="ListName" />
+      </OrderBy>
+    </Query>
+    <ViewFields>
+      <FieldRef Name="ListName" />
+      <FieldRef Name="SerializedItemAdding" />
+      <FieldRef Name="SerializedItemAdded" />
+      <FieldRef Name="SerializedItemUpdating" />
+      <FieldRef Name="SerializedItemUpdated" />
+      <FieldRef Name="SerializedItemDeleting" />
+      <FieldRef Name="SerializedItemDeleted" />
+    </ViewFields>
+    <RowLimit Paged="TRUE">30</RowLimit>
+    <Aggregations Value="Off" />
+  </View>

@@ -1,0 +1,104 @@
+﻿[
+  {
+    "Title": "Contenu du site",
+    "Header": "Système",
+    "Url": "/_layouts/15/viewlsts.aspx",
+    "Audiance": [ ]
+  },
+  {
+    "Title": "Pramètres du site",
+    "Header": "Système",
+    "Url": "/_layouts/15/settings.aspx",
+    "Audiance": [ ]
+  },
+  {
+    "Title": "Employés",
+    "Header": "Référentiel SONES",
+    "Url": "/Lists/Employes",
+    "Audiance": [ ]
+  },
+  {
+    "Title": "Directions",
+    "Header": "Référentiel SONES",
+    "Url": "/Lists/Directions",
+    "Audiance": [ ]
+  },
+  {
+    "Title": "Alertes",
+    "Header": "Configuration",
+    "Url": "/Lists/AlertConfig",
+    "Audiance": [ ]
+  },
+  {
+    "Title": "Modèles de rapports",
+    "Header": "Configuration",
+    "Url": "/Lists/TemplateImpression",
+    "Audiance": [ ]
+  },
+  {
+    "Title": "Tâches planifiées",
+    "Header": "Configuration",
+    "Url": "/Lists/JobConfig",
+    "Audiance": [ ]
+  },
+  {
+    "Title": "Tâches planifiées",
+    "Header": "Journaux",
+    "Url": "/Lists/JobHistory",
+    "Audiance": [ ]
+  },
+  {
+    "Title": "Gestionnaires d'évènements",
+    "Header": "Configuration",
+    "Url": "/Lists/EventReceiverConfig",
+    "Audiance": [ ]
+  },
+  {
+    "Title": "Alertes",
+    "Header": "Journaux",
+    "Url": "/Lists/AlertInstances",
+    "Audiance": [ ]
+  },
+  {
+    "Title": "Barre de navigation superieure",
+    "Header": "Configuration",
+    "Url": "/Lists/navigationLinks",
+    "Audiance": [ ]
+  },
+  {
+    "Title": "Compteurs automatiques",
+    "Header": "Journaux",
+    "Url": "/Lists/Counters",
+    "Audiance": [ ]
+  },
+  {
+    "Title": "Journal de log",
+    "Header": "Journaux",
+    "Url": "/Lists/ApplicationLog",
+    "Audiance": [ ]
+  },
+  {
+    "Title": "Entrepot de Code",
+    "Header": "",
+    "Url": "/Code",
+    "Audiance": [ ]
+  },
+  {
+    "Title": "Configuration Workflow",
+    "Header": "Configuration",
+    "Url": "/Lists/WorkflowConfiguration",
+    "Audiance": [ ]
+  },
+  {
+    "Title": "Association Workflow",
+    "Header": "Configuration",
+    "Url": "/Lists/WorkflowAssignment",
+    "Audiance": [ ]
+  },
+  {
+    "Title": "Instances de Workflow",
+    "Header": "Journaux",
+    "Url": "/Lists/WorkflowInstance",
+    "Audiance": [ ]
+  }
+]

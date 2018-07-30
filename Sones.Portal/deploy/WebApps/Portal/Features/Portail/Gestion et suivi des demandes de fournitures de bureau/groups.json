@@ -1,0 +1,65 @@
+[
+  {
+    "Name": "Demandes de fournitures de bureau - Secrétaires", 
+    "Description": "Les secrétaires peuvent soumettre des demandes de fournitures", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin","G_Fournit_Secretaire"],
+    "Assignments": [
+                      {"ObjectType" : "List", "ObjectName" : "DemandeFourniture", "Roles" : ["Contribute"] },
+                      {"ObjectType" : "List", "ObjectName" : "Fournitures", "Roles" : ["Read"] }
+                   ] 
+  },
+  { 
+    "Name": "Demandes de fournitures de bureau - Chefs des services généraux", 
+    "Description": "Les chefs des services généraux peuvent valider les demandes de fournitures à l'état Validée Achat", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin","G_Fournit_CS_Gener"],
+    "Assignments": [
+                      {"ObjectType" : "List", "ObjectName" : "DemandeFourniture", "Roles" : ["Contribute"] },
+                      {"ObjectType" : "List", "ObjectName" : "Fournitures", "Roles" : ["Read"] },
+                      {"ObjectType" : "Folder", "ObjectName" : "Lists/DemandeFourniture/PCA", "Roles" : ["Read", "Contribute"] },
+                      {"ObjectType" : "Folder", "ObjectName" : "Lists/DemandeFourniture/DTX", "Roles" : ["Read", "Contribute"] },
+                      {"ObjectType" : "Folder", "ObjectName" : "Lists/DemandeFourniture/DPCE", "Roles" : ["Read", "Contribute"] },
+                      {"ObjectType" : "Folder", "ObjectName" : "Lists/DemandeFourniture/DCHMG", "Roles" : ["Read", "Contribute"] },
+                      {"ObjectType" : "Folder", "ObjectName" : "Lists/DemandeFourniture/SGL", "Roles" : ["Read", "Contribute"] },
+                      {"ObjectType" : "Folder", "ObjectName" : "Lists/DemandeFourniture/DFC", "Roles" : ["Read", "Contribute"] },
+                      {"ObjectType" : "Folder", "ObjectName" : "Lists/DemandeFourniture/DPE", "Roles" : ["Read", "Contribute"] },
+                      {"ObjectType" : "Folder", "ObjectName" : "Lists/DemandeFourniture/CT", "Roles" : ["Read", "Contribute"] },
+                      {"ObjectType" : "Folder", "ObjectName" : "Lists/DemandeFourniture/UGP - KMS3", "Roles" : ["Read", "Contribute"] }
+                   ]  
+  },
+  {
+    "Name": "Demandes de fournitures de bureau - Chefs de division achats", 
+    "Description": "Les chefs de division achats peuvent valider les demandes de fournitures à l'état Validée Direction", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin","G_Fournit_CD_Achats"],
+    "Assignments": [
+                      {"ObjectType" : "List", "ObjectName" : "DemandeFourniture", "Roles" : ["Contribute"] },
+                      {"ObjectType" : "List", "ObjectName" : "Fournitures", "Roles" : ["Read"] },
+                      {"ObjectType" : "Folder", "ObjectName" : "Lists/DemandeFourniture/PCA", "Roles" : ["Read", "Contribute"] },
+                      {"ObjectType" : "Folder", "ObjectName" : "Lists/DemandeFourniture/DTX", "Roles" : ["Read", "Contribute"] },
+                      {"ObjectType" : "Folder", "ObjectName" : "Lists/DemandeFourniture/DPCE", "Roles" : ["Read", "Contribute"] },
+                      {"ObjectType" : "Folder", "ObjectName" : "Lists/DemandeFourniture/DCHMG", "Roles" : ["Read", "Contribute"] },
+                      {"ObjectType" : "Folder", "ObjectName" : "Lists/DemandeFourniture/SGL", "Roles" : ["Read", "Contribute"] },
+                      {"ObjectType" : "Folder", "ObjectName" : "Lists/DemandeFourniture/DFC", "Roles" : ["Read", "Contribute"] },
+                      {"ObjectType" : "Folder", "ObjectName" : "Lists/DemandeFourniture/DPE", "Roles" : ["Read", "Contribute"] },
+                      {"ObjectType" : "Folder", "ObjectName" : "Lists/DemandeFourniture/CT", "Roles" : ["Read", "Contribute"] },
+                      {"ObjectType" : "Folder", "ObjectName" : "Lists/DemandeFourniture/UGP - KMS3", "Roles" : ["Read", "Contribute"] }
+                   ] 
+  },
+  { 
+    "Name": "Demandes de fournitures de bureau - Directeurs", 
+    "Description": "Les directeurs peuvent valider les demandes de fournitures à l'état Soumise", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin","G_Fournit_Directeurs"],
+    "Assignments": [
+                      {"ObjectType" : "List", "ObjectName" : "DemandeFourniture", "Roles" : ["Contribute"] },
+                      {"ObjectType" : "List", "ObjectName" : "Fournitures", "Roles" : ["Read"] }
+                   ]  
+  },
+  { 
+    "Name": "Demandes de fournitures de bureau - Gestionnaires", 
+    "Description": "Les gestionnaires ont un droit de contribution aux listes Fournitures", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin","G_Fournit_Gest"],
+    "Assignments": [
+                      {"ObjectType" : "List", "ObjectName" : "Fournitures", "Roles" : ["Contribute"] }
+                   ]  
+  }
+]
+  

@@ -1,0 +1,16 @@
+{
+    "Name": "Employes",
+    "Title": "Employés",
+    "Description": "",
+    "TemplateType": 100,
+    "ContentTypes": [
+        "Employé"
+    ],
+    "DeployOrder": 2,
+    "ShowInSearchResults": false,
+    "RequiredFields": [],
+    "HiddenFields": [],
+    "NewFormFields": [],
+    "EditFormFields": [],
+    "DisplayFormFields": []
+}

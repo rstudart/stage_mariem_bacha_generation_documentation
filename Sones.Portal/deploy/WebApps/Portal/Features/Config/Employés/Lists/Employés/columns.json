@@ -1,0 +1,17 @@
+[
+    {
+        "Xml": "<Field ID='{f1cb36ca-a1fb-4e83-8bd3-5aae1cc2c5e1}' Name='Employe' DisplayName='Employé' Type='User' UserSelectionMode='PeopleOnly'  Required='TRUE' Group='_CONFIG Employes'></Field>"
+    },
+    {
+        "Xml": "<Field ID='{b1da07c5-8928-4edc-8533-89c8a2e1e97d}' Name='LookUpDirection' DisplayName='Direction' Type='Lookup' Required='TRUE' Group='_CONFIG Employes' ShowField='CodeDirection' List='Directions' Overwrite='TRUE' ></Field>"
+    },
+    {
+        "Xml": "<Field ID='{cddcd84f-f165-4176-a857-238c2d5129a6}' Name='Matricule' DisplayName='Matricule' Type='Text' Required='True' Group='_CONFIG Employes'></Field>"
+    },
+    {
+        "Xml": "<Field ID='{be246aea-b716-4fbf-a9d2-5bcdc5dcfcfb}' Name='Emploi' DisplayName='Emploi' Type='Text' Required='True' Group='_CONFIG Employes'></Field>"
+    },
+    {
+        "Xml": "<Field ID='{F8F4F9A1-B5CB-4565-B803-0E9AEFD9C6AA}' Name='NomPrenom' DisplayName='Nom et Prénom' LinkToItem='TRUE' Type='Text' Required='True' MaxLength='100' Group='_SONES'></Field>"
+    }
+]

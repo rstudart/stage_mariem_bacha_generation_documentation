@@ -1,0 +1,13 @@
+﻿{
+  "Name": "EquipementsElectromecaniques",
+  "Title": "Equipements électromecaniques",
+  "Description": "Liste des équipements électromécaniques",
+  "TemplateType": 100,
+  "ContentTypes": [ "Equipement électromécanique" ],
+  "DeployOrder":  1,
+  "RequiredFields": [ "LibelleEquipement", "MarqueEquipement", "AnneeMiseOperation" ],
+  "HiddenFields": [  ],
+  "NewFormFields": [  ],
+  "EditFormFields": [  ],
+  "DisplayFormFields": [  ]
+}

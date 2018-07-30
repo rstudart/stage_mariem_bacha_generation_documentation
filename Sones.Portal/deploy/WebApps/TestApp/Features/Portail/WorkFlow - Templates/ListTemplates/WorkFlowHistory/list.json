@@ -1,0 +1,12 @@
+{
+    "Name": "WorkFlowHistory",
+    "Title": "Historique des flux de travail",
+    "Description": "",
+    "TemplateType": 100,
+    "ContentTypes": [ "Historique de taches" ],
+    "RequiredFields": [  ],
+    "HiddenFields": [  ],
+    "NewFormFields": [  ],
+    "EditFormFields": [  ],
+    "DisplayFormFields": [  ]
+  }

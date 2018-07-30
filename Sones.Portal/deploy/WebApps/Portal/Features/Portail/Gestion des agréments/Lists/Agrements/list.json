@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Agrements",
+  "Title": "Agréments",
+  "Description": "Liste des agréments",
+  "TemplateType": 100,
+  "ContentTypes": [ "Agrément" ],
+  "DeployOrder":  1,
+  "RequiredFields": [ "Nom", "Adresse", "DomaineActivité", "Telephone", "AdresseMail", "RegistreCommerce", "NINEA" ],
+  "HiddenFields": [  ],
+  "NewFormFields": [  ],
+  "EditFormFields": [  ],
+  "DisplayFormFields": [  ]
+}

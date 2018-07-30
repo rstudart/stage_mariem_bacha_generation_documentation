@@ -1,0 +1,25 @@
+  <View Name="{f9e52949-aa9e-4cfe-b308-32bffc7b9f9c}" DefaultView="TRUE" MobileView="TRUE" Type="HTML" DisplayName="Bons de commandes en cours" Url="/Lists/BonDeCommande/BonDeCommandesEnCours.aspx" Level="1" BaseViewID="1" ContentTypeID="0x" ImageUrl="/_layouts/15/images/generic.png?rev=40">
+    <Query>
+      <Where>
+        <Neq>
+          <FieldRef Name="StatutBonDeCommande" />
+          <Value Type="Text">Validé</Value>
+        </Neq>
+      </Where>
+    </Query>
+    <ViewFields>
+      <FieldRef Name="NumeroBonDeCommande" />
+      <FieldRef Name="DateBonDeCommande" />
+      <FieldRef Name="DA" />
+      <FieldRef Name="StatutBonDeCommande" />
+      <FieldRef Name="Fournisseur" />
+      <FieldRef Name="MontantTTC" />
+      <FieldRef Name="MontantEnLettres" />
+      <FieldRef Name="MontantHTVA" />
+      <FieldRef Name="TVA" />
+      <FieldRef Name="TotalTVA" />
+      <FieldRef Name="Remarque" />    
+    </ViewFields>
+    <RowLimit Paged="TRUE">30</RowLimit>
+    <Aggregations Value="Off" />
+  </View>

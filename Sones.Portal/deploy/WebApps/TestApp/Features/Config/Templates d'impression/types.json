@@ -1,0 +1,11 @@
+﻿[
+  {
+    "Id": "0x010013b41e2d691e4247af5961ce4ff4f569",
+    "Name": "Template d impression",
+    "Group": "_CONFIG Template d impression",
+    "Fields": [
+      "IdentifiantTemplate",
+      "Template"
+    ]
+  }
+]

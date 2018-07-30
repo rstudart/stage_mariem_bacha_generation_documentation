@@ -1,0 +1,4 @@
+﻿[
+  { "Name": "Lecture de liste", "Description": "", "Permissions": [ "ViewListItems", "ViewPages", "CreateAlerts" ] },
+  { "Name": "Edition de liste", "Description": "", "Permissions": ["ViewListItems","ViewPages","CreateAlerts"] }
+]

@@ -1,0 +1,14 @@
+﻿[
+  {
+    "Xml": "<Field ID='{15CA530F-CEFB-47A9-9240-E3C805815BB1}' Name='DateAgrement' DisplayName='Date agrément' Type='DateTime' Required='TRUE' Format='DateTime' Group='_SONES Gestion des agréments'><Default>[today]</Default></Field>"
+  },
+  {
+    "Xml": "<Field ID='{7BB31084-193E-4A0A-9FEB-7B3B449F017D}' Name='RegistreCommerce' DisplayName='Registre de commerce' Type='Text' Required='TRUE' MaxLength='100' Group='_SONES Gestion des agréments'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{B60AF785-C47B-4B36-852E-8A9DDFB721E4}' Name='NINEA' DisplayName='NINEA' Type='Text' Required='TRUE' MaxLength='100' Group='_SONES Gestion des agréments'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{20364F5E-6581-4809-9B88-F81356210EE6}' Name='DomaineActivite' DisplayName='Domaine activité' Type='Choice' Required='FALSE' Group='_SONES Gestion des agréments'><CHOICES><CHOICE>Prestations intellectuelles</CHOICE><CHOICE>Fourniture et services</CHOICE><CHOICE>Travaux</CHOICE></CHOICES></Field>"
+  }
+]

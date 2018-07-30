@@ -1,0 +1,98 @@
+{
+    "List": "WorkFlowConfiguration",
+    "Items": [
+        {
+            "StatusFieldName": "StatutBonDeCommande",
+            "WorkFlowIdentifier": "Bon de commande",
+            "SerializedStatusTasks": [
+                {
+                    "State": "Soumis",
+                    "Tasks": [
+                        {
+                            "$type": "GroupGetter",
+                            "GroupeName": "Bons de commandes - Secrétaires",
+                            "OutPutKey": "GroupToAssign"
+                        },
+                        {
+                            "$type": "FieldGetter",
+                            "Field": "NumeroBonDeCommande",
+                            "OutPutKey": "NumeroBonDeCommande"
+                        },
+                        {
+                            "$type": "CreateUserTask",
+                            "AssignedTo": "GroupToAssign",
+                            "RelatedItems": [
+                                "Current"
+                            ],
+                            "TaskConfiguration": {
+                                "Title": "Validation du bon de commande N° {CTX-NumeroBonDeCommande}",
+                                "Fields": [
+                                    {
+                                        "Label": "Date",
+                                        "InternalName": "DateBonDeCommande"
+                                    },
+                                    {
+                                        "Label": "Fournisseur",
+                                        "InternalName": "Fournisseur"
+                                    }
+                                ],
+                                "Actions": [
+                                    {
+                                        "DispalyText": "Valider",
+                                        "NextStatus": "Validé"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "State": "Cloturé",
+                    "IsLast": true,
+                    "Tasks": []
+                },
+                {
+                    "State": "Validé",
+                    "Tasks": [
+                        {
+                            "$type": "GroupGetter",
+                            "GroupeName": "Bons de commandes - Secrétaires",
+                            "OutPutKey": "GroupToAssign"
+                        },
+                        {
+                            "$type": "FieldGetter",
+                            "Field": "NumeroBonDeCommande",
+                            "OutPutKey": "NumeroBonDeCommande"
+                        },
+                        {
+                            "$type": "CreateUserTask",
+                            "AssignedTo": "GroupToAssign",
+                            "RelatedItems": [
+                                "Current"
+                            ],
+                            "TaskConfiguration": {
+                                "Title": "Cloture du bon de commande N° {CTX-NumeroBonDeCommande}",
+                                "Fields": [
+                                    {
+                                        "Label": "Date",
+                                        "InternalName": "DateBonDeCommande"
+                                    },
+                                    {
+                                        "Label": "Fournisseur",
+                                        "InternalName": "Fournisseur"
+                                    }
+                                ],
+                                "Actions": [
+                                    {
+                                        "DispalyText": "Cloturer",
+                                        "NextStatus": "Cloturé"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

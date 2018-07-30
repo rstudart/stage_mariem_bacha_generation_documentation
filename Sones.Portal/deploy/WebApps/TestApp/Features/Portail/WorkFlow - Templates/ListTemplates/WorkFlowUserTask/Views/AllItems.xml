@@ -1,0 +1,21 @@
+<View Name="{c0415853-6659-4fe9-9e2a-31836d8d7bb7}" DefaultView="TRUE" MobileView="TRUE" Type="HTML" DisplayName="Toutes tâches" Url="/Lists/UserTask/AllItems.aspx" Level="1" BaseViewID="1" ContentTypeID="0x" ImageUrl="/_layouts/15/images/issues.png?rev=40">
+    <Query>
+      <OrderBy>
+        <FieldRef Name="Priority" Ascending="FALSE" />
+        <FieldRef Name="DueDate" />
+        <FieldRef Name="ID" />
+      </OrderBy>
+    </Query>
+    <ViewFields>
+      <FieldRef Name="WFTaskLink" />
+      <FieldRef Name="AssignedTo" />
+      <FieldRef Name="Status" />
+      <FieldRef Name="Priority" />
+      <FieldRef Name="PercentComplete" />
+      <FieldRef Name="StartDate" />
+      <FieldRef Name="DueDate" />
+      <FieldRef Name="Body" />
+    </ViewFields>
+    <RowLimit Paged="TRUE">30</RowLimit>
+    <Aggregations Value="Off" />
+  </View>

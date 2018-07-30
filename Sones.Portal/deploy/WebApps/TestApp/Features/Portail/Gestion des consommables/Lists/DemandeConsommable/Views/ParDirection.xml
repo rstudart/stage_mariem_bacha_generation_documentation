@@ -1,0 +1,19 @@
+  <View Name="{1C4290AA-6154-4DCA-B93A-FC3DAFDD7116}" Type="HTML" DisplayName="Par direction" Url="/Lists/DemandeConsommable/ParDirection.aspx" Level="1" BaseViewID="1" ContentTypeID="0x" ImageUrl="/_layouts/15/images/generic.png?rev=40">
+    <Query>
+      <GroupBy Collapse="TRUE" GroupLimit="30">
+        <FieldRef Name="Direction" />
+      </GroupBy>
+      <OrderBy>
+        <FieldRef Name="Direction" />
+        <FieldRef Name="Demandeur" />
+      </OrderBy>
+    </Query>
+    <ViewFields>
+      <FieldRef Name="Demandeur" />
+      <FieldRef Name="Direction" />
+      <FieldRef Name="CouleurConsommable" />
+      <FieldRef Name="StatutDemandeConsommable" />
+    </ViewFields>
+    <RowLimit Paged="TRUE">30</RowLimit>
+    <Aggregations Value="Off" />
+  </View>

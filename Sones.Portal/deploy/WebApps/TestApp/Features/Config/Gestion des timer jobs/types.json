@@ -1,0 +1,28 @@
+﻿[
+  {
+    "Id": "0x01004f41d08d219f4e9591b8a4282a52bda9",
+    "Name": "Configuration des timer jobs",
+    "Group": "_CONFIG Gestion des timer jobs",
+    "Fields": [
+      "JobName",
+      "JobType",
+      "JobSchedule",
+      "SerializedJobInfo",
+      "JobStatut",
+      "JobNextExecutionTime",
+      "JobEnabled",
+      "LastExecTime",
+      "LastExecResult"
+    ]
+  },
+  {
+    "Id": "0x0100e14655184eff4b7983f60b528cc6e1cd",
+    "Name": "Historique de timer jobs",
+    "Group": "_CONFIG Gestion des timer jobs",
+    "Fields": [
+      "JobName",      
+      "LastExecTime",
+      "LastExecResult"
+    ]
+  }
+]

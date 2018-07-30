@@ -1,0 +1,32 @@
+<View Name="{0062920e-1d96-4891-9cdb-b6ba763a35f3}" MobileView="TRUE" MobileDefaultView="TRUE" Type="HTML" DisplayName="Mes tâches" Url="/Lists/UserTask/MyItems.aspx" Level="1" BaseViewID="6" ContentTypeID="0x" ImageUrl="/_layouts/15/images/issues.png?rev=40">
+   <Query>
+      <Where>
+         <Or>
+            <Eq>
+               <FieldRef Name="AssignedTo" />
+               <Value Type="Integer">
+                  <UserID />
+               </Value>
+            </Eq>
+            <Membership Type="CurrentUserGroups">
+               <FieldRef Name="AssignedTo" />
+            </Membership>
+         </Or>
+      </Where>
+      <OrderBy>
+        <FieldRef Name="Priority" Ascending="FALSE" />
+        <FieldRef Name="DueDate" />
+        <FieldRef Name="ID" />
+      </OrderBy>
+   </Query>
+   <ViewFields>
+      <FieldRef Name="WFTaskLink" />
+      <FieldRef Name="Status" />
+      <FieldRef Name="Priority" />
+      <FieldRef Name="PercentComplete" />
+      <FieldRef Name="StartDate" />
+      <FieldRef Name="DueDate" />
+      <FieldRef Name="Body" />
+   </ViewFields>
+   <RowLimit Paged="TRUE">30</RowLimit>
+</View>

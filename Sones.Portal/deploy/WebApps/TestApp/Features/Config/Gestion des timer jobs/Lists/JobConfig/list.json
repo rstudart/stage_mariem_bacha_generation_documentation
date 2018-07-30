@@ -1,0 +1,17 @@
+{
+  "Name": "JobConfig",
+  "Title": "Configuration des timer jobs",
+  "Description": "Liste configuration des timer jobs",
+  "TemplateType": 100,
+  "ContentTypes": [
+    "Configuration des timer jobs"
+  ],
+  "DeployOrder": 1,
+  "ShowInSearchResults": false,
+  "Views": [],
+  "RequiredFields": [],
+  "HiddenFields": [],
+  "NewFormFields": [],
+  "EditFormFields": [],
+  "DisplayFormFields": []
+}

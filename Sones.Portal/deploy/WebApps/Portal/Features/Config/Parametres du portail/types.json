@@ -1,0 +1,8 @@
+﻿[
+  {
+    "Id": "0x0100D5DB9F8586364EE1836872B87464FB7C",
+    "Name": "ConfigItem",
+    "Group": "_CONFIG",
+    "Fields": [ "Key", "Value"]
+  }
+]

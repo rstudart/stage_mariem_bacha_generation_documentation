@@ -1,0 +1,18 @@
+﻿[
+  { 
+    "Name": "Gestion des consommables - Demandeurs", 
+    "Description": "Les membres de ce groupe ont le droit de créer des demandes de consommables", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin","G_Consom_Demandeurs"],
+    "Assignments": [
+                      {"ObjectType" : "List", "ObjectName" : "DemandeConsommable", "Roles" : ["Contribute"] }
+                   ]  
+  }, 
+  { 
+    "Name": "Gestion des consommables - Gestionnaires", 
+    "Description": "Les membres de ce groupe on le gérer les demandes de consommables", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin","G_Consom_Gest"],
+    "Assignments": [
+                      {"ObjectType" : "List", "ObjectName" : "DemandeConsommable", "Roles" : ["Contribute"] }
+                   ]  
+  } 
+]

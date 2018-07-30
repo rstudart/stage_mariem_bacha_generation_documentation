@@ -1,0 +1,17 @@
+  <View Name="{B737CCE9-E8F9-4BEF-9194-ADBAF7CE0F52}"  Scope="Recursive" MobileView="TRUE" Type="HTML" DisplayName="Demandes livrées" Url="/Lists/DemandeFourniture/DemandesLivrees.aspx" Level="1" BaseViewID="1" ContentTypeID="0x" ImageUrl="/_layouts/15/images/generic.png?rev=40">
+    <Query>
+      <Where>
+        <Eq>
+          <FieldRef Name="StatutDemandeFournitureBureau" />
+          <Value Type="Text">Livrée</Value>
+        </Eq>
+      </Where>
+    </Query>
+    <ViewFields>
+      <FieldRef Name="Direction" />
+      <FieldRef Name="DateDemandeFournitureBureau" />
+      <FieldRef Name="StatutDemandeFournitureBureau" />
+      </ViewFields>
+    <RowLimit Paged="TRUE">30</RowLimit>
+    <Aggregations Value="Off" />
+  </View>

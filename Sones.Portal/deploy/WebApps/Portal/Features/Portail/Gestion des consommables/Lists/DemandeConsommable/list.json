@@ -1,0 +1,13 @@
+﻿{
+  "Name": "DemandeConsommable",
+  "Title": "Demandes de consommables",
+  "Description": "Liste des demandes de consommables",
+  "TemplateType": 100,
+  "ContentTypes": [ "Demande de consommables" ],
+  "DeployOrder":  1,
+  "RequiredFields": [ ],
+  "HiddenFields": [  ],
+  "NewFormFields": [  "Created", "CreatedBy","Demandeur", "Direction", "CouleurConsommable" ],
+  "EditFormFields": [ "Created", "CreatedBy", "Demandeur", "Direction", "CouleurConsommable", "StatutDemandeConsommable" ],
+  "DisplayFormFields": [ "Created", "CreatedBy", "Demandeur", "Direction", "CouleurConsommable", "StatutDemandeConsommable" ]
+}

@@ -1,0 +1,26 @@
+﻿[
+  {
+    "Xml": "<Field ID='{66c3ac7e-fb18-4296-8fd1-7effc6dbc629}' Name='ListName' LinkToItem='TRUE' DisplayName='Liste' Type='Text' Required='TRUE' Group='_CONFIG EventReciver'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{85f0aa3a-8c6c-444c-a4e6-774ba0f7f9d3}' Name='Counter' DisplayName='Compteur' Type='Text' Required='True' Group='_CONFIG EventReciver'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{8b6387b4-0b7f-4f41-bf3a-ffbffdf4c4b6}' Name='SerializedItemAdded' DisplayName='Item Added' Type='Note'  Group='_CONFIG EventReciver'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{d38e9010-fd80-4107-a289-82aae965f469}' Name='SerializedItemAdding' DisplayName='Item Adding' Type='Note'  Group='_CONFIG EventReciver'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{580ecb32-5a1b-407f-942f-4a36f54a877c}' Name='SerializedItemDeleted' DisplayName='Item Deleted' Type='Note' Group='_CONFIG EventReciver'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{8850c0b0-02fa-485f-83ce-feea4c785da4}' Name='SerializedItemDeleting' DisplayName='Item Deleting' Type='Note'  Group='_CONFIG EventReciver'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{24e46374-7cb1-4d36-9314-bc76be0359b9}' Name='SerializedItemUpdating' DisplayName='Item Updating' Type='Note'  Group='_CONFIG EventReciver'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{5d8f4d95-6ba5-4da8-9bc5-b7a03134a300}' Name='SerializedItemUpdated' DisplayName='Item Updated' Type='Note'  Group='_CONFIG EventReciver'></Field>"
+  }
+]

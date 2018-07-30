@@ -1,0 +1,36 @@
+﻿[
+  {
+    "Id": "0x010091e4fe4f5e6744a290eb262c62b03ff1",
+    "Name": "Fournisseur",
+    "Group": "_SONES Bons de commandes",
+    "EditFormUrl":"/Pages/BonDeCommande.aspx",
+    "NewFormUrl":"/Pages/BonDeCommande.aspx",
+    
+    "DisplayFormUrl":"/Pages/BonDeCommande.aspx",
+    "Fields": [
+      "FournisseurName",
+      "FournisseurAddress",
+      "FournisseurPhone"
+    ]
+  },
+  {
+    "Id": "0x0100150F5296F78B487E93B71CBA760BC26D",
+    "Name": "Bon de commande",
+    "Group": "_SONES Bons de commandes",
+    "Fields": [
+      "NumeroBonDeCommande",
+      "DateBonDeCommande",
+      "DA",
+      "Fournisseur",
+      "FournisseurID",
+      "Remarque",
+      "SerializedArticlesBonDeCommande",
+      "MontantHTVA",
+      "MontantTTC",
+      "MontantEnLettres",
+      "TVA",
+      "TotalTVA",
+      "StatutBonDeCommande"
+    ]
+  }
+]

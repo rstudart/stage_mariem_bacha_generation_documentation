@@ -1,0 +1,5 @@
+﻿{
+  "Name": "Gestion et suivi des bons de commandes",
+  "DependentOn" : ["Colonnes de sites partagées du portail"],
+  "Site":"Portail"
+}

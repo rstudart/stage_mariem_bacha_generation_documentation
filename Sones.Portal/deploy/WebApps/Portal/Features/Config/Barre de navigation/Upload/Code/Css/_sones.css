@@ -1,0 +1,224 @@
+﻿/* Custom Top Menu ------------------------------------------------------------------------------------------- */
+.spHmenu, .spHmenu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+    .spHmenu li, .spHmenu ul a {
+        position: relative;
+    }
+
+    .spHmenu > li {
+        float: left;
+        text-transform: uppercase;
+    }
+
+        .spHmenu > li.floatr {
+            float: right;
+        }
+
+    .spHmenu li > a {
+        display: block;
+    }
+
+    .spHmenu ul {
+        position: absolute;
+        display: none;
+        width: 200px;
+    }
+
+        .spHmenu ul ul {
+            top: 0;
+            left: 170px;
+        }
+
+    .spHmenu li:hover > ul {
+        display: block;
+    }
+
+    .spHmenu a {
+        text-decoration: none;
+    }
+
+    .spHmenu > li > a {
+        color: #0064B1;
+        line-height: 18px;
+        padding: 6px 15px;
+    }
+
+    .spHmenu > li:hover > a {
+        color: #0064B1;
+        text-transform: uppercase;
+        border-left: none;
+        padding-left: 15px;
+        border-right: 0px solid #707070;
+        margin: 0px 0 0 0px;
+    }
+
+ul.spHmenu li a {
+    -webkit-transition: background-color 80ms ease-in-out;
+    -moz-transition: background-color 80ms ease-in-out;
+    -o-transition: background-color 80ms ease-in-out;
+    -ms-transition: background-color 80ms ease-in-out;
+    transition: background-color 80ms ease-in-out;
+}
+
+.spHmenu ul li a {
+    -webkit-transition: background-color 20ms ease-in-out, color 20ms ease-in-out;
+    -moz-transition: background-color 20ms ease-in-out, color 20ms ease-in-out;
+    -o-transition: background-color 20ms ease-in-out, color 20ms ease-in-out;
+    -ms-transition: background-color 20ms ease-in-out, color 20ms ease-in-out;
+    transition: background-color 20ms ease-in-out, color 20ms ease-in-out;
+    text-align: left;
+}
+
+.spHmenu ul {
+    background-color: #008001;
+    border: 1px solid #e0e0e0;
+    border-top: none;
+    left: -1px;
+    z-index: 999;
+    border-radius: 0 0 2px 2px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.04);
+    box-shadow: 0 1px 1px rgba(0,0,0,0.04);
+}
+
+    .spHmenu ul a {
+        color: #DFF0D8;
+        font-size: 11px;
+        line-height: 15px;
+        padding: 9px 12px;
+        border-top: 0px solid #e6e6e6;
+    }
+
+        .spHmenu ul a:hover {
+            background-color: #0064B1;
+            color: #DFF0D8;
+        }
+/* Header ------------------------------------------------------------------------------------------- */
+.o365cs-topnavBGColor-2.o365cs-base {
+    background-color: #00A600 !important;
+}
+
+.o365cs-nav-topItem {
+    background-color: #00A600 !important;
+}
+/* Icons ------------------------------------------------------------------------------------------- */
+.ms-core-form-heading {
+    color: #393;
+}
+
+/* links ------------------------------------------------------------------------------------------- */
+a, .ms-link:visited {
+    color: #393;
+}
+
+.ms-alternatingstrong .ms-vb a:link, .ms-alternatingstrong .ms-vb2 a:link, .ms-alternatingstrong .ms-vb-user a:link, .ms-alternatingstrong .ms-vb a:visited, .ms-alternatingstrong .ms-vb2 a:visited, .ms-alternatingstrong .ms-vb-user a:visited, .ms-alternatingstrong .ms-vb a:hover:visited, .ms-alternatingstrong .ms-vb2 a:hover:visited, .ms-alternatingstrong .ms-vb-user a:hover:visited {
+    color: #DFF0D8;
+}
+/*Navigation ------------------------------------------------------------------------------------------- */
+.ms-core-listMenu-item, .ms-core-listMenu-item:link, .ms-core-listMenu-item:visited, .ms-tv-item:link, .ms-tv-item:visited, .ms-tv-header:link, .ms-tv-header:visited {
+    color: #03427A;
+}
+
+/* Web Part Header ------------------------------------------------------------------------------------------- */
+.ms-webpart-titleText.ms-webpart-titleText, .ms-webpart-titleText > a {
+    color: #0064B1;
+}
+/* Quick launch -----------------------------------------------------------------------------------------------*/
+.ms-core-listMenu-verticalBox > .ms-core-listMenu-root > li > .ms-core-listMenu-item, .ms-core-listMenu-verticalBox > .ms-core-listMenu-root > li > .ms-core-listMenuEdit, .ms-core-listMenu-heading, .ms-tv-header {
+
+    color: green;
+    font-weight: bold;
+}
+
+.ms-webpart-titleText {
+    background-color: #DFF0D8;
+    color: #0064B1 !important;
+    padding: 0px 8px;
+    margin-bottom: 18px;
+    font-size: 22px;
+}
+
+#siteIcon {
+    margin-right: 87px;
+}
+
+.ms-siteicon-img {
+    max-width: 180px;
+    max-height: 120px;
+}
+
+#sideNavBox {
+    margin-top: 50px;
+}
+
+.ms-core-pageTitle, .ms-core-pageTitle a {
+    color: #0064B1;
+}
+
+.ms-pivotControl-surfacedOpt:hover, .ms-pivotControl-overflowDot:hover, .ms-pivotControl-surfacedOpt-selected {
+    color: #393;
+}
+
+.ms-pivotControl-surfacedOpt, .ms-pivotControl-overflowDot {
+    color: #393;
+}
+
+
+.ms-listviewtable th {
+    background-color: #DFF0D8;
+    color: #0064B1;
+    border-left: 1px solid white;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+    .ms-listviewtable th a {
+        color: #0064B1;
+        font-weight: bold;
+        font-size: 13px;
+    }
+
+    .ms-listviewtable th:first-child {
+        border-left: 1px solid #DFF0D8;
+    }
+
+.s4-itm-selected > .ms-vb-imgFirstCell.ms-vb-imgFirstCell {
+    background-color: #DFF0D8;
+    border-right-color: #DFF0D8;
+}
+
+.Editable-Table tr, .ms-listviewtable tr {
+    height: 30px;
+}
+
+.Editable-Table td, .ms-listviewtable td {
+    padding: 5px;
+}
+
+.Editable-Table input, .ms-listviewtable input {
+    width: 90%;
+}
+
+.ms-alternatingstrong {
+    background-color: #F2F1EC !important;
+}
+
+.ms-alternating {
+    background-color: #F2F1EC;
+}
+
+.ms-menutoolbar {
+    margin-bottom: 10px;
+}
+
+a.o365cs-nav-appTileMedium, a.o365cs-nav-appTile {
+    background-color: #00A600 !important;
+}
+.ms-vb a.ms-listlink, .ms-vb2 a.ms-listlink, .ms-vb-user a.ms-listlink, .ms-vb a.ms-listlink:visited, .ms-vb a.ms-listlink:hover:visited
+{
+    color:#393;
+    text-decoration: none;
+}

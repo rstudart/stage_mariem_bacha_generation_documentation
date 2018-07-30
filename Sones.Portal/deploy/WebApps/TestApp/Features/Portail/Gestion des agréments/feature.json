@@ -1,0 +1,5 @@
+﻿{
+  "Name": "Gestion des agréments",
+  "DependentOn" : ["Colonnes de sites partagées du portail"],
+  "Site":"Portail"
+}

@@ -1,0 +1,31 @@
+﻿[
+  {
+    "Id": "0x010091e4fe4f5e6744a290eb262c62b03ff1",
+    "Name": "Fournisseur",
+    "Group": "Bons de commandes",
+    "Fields": [
+      "Name",
+      "Address",
+      "Phone"
+    ]
+  },
+  {
+    "Id": "0x0100150F5296F78B487E93B71CBA760BC26D",
+    "Name": "Bon de commande",
+    "Group": "Bons de commandes",
+    "Fields": [
+      "Numero",
+      "Date",
+      "DA",
+      "Fournisseur",
+      "Remarque",
+      "SerializedArticles",
+      "MontantHTVA",
+      "MontantTTC",
+      "MontantEnLettres",
+      "TVA",
+      "TotalTVA",
+      "Statut"
+    ]
+  }
+]

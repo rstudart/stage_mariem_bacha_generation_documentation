@@ -1,0 +1,16 @@
+{
+    "Name": "Counters",
+    "Title": "Compteurs",
+    "Description": "",
+    "TemplateType": 100,
+    "ContentTypes": [
+        "Compteur"
+    ],
+    "DeployOrder": 1,
+    "ShowInSearchResults": false,
+    "RequiredFields": [],
+    "HiddenFields": [],
+    "NewFormFields": [],
+    "EditFormFields": [],
+    "DisplayFormFields": []
+}

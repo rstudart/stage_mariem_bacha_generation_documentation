@@ -1,0 +1,106 @@
+﻿[
+   { 
+    "Name": "Portail SONES - Membres", 
+    "Description": "Les membres de ce groupe ont le droit d'accès au portail de la SONES, et peuvent consulter son contenu", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin"],
+    "Assignments": [
+                      {"ObjectType" : "Site", "ObjectName" : "/", "Roles" : ["Read"] }
+                   ]  
+  }, 
+  { 
+    "Name": "Portail SONES - Contributeurs", 
+    "Description": "Les membres de ce groupe ont le droit d'accès au portail de la SONES, et peuvent consulter et modifier son contenu", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin"],
+    "Assignments": [
+                      {"ObjectType" : "Site", "ObjectName" : "/", "Roles" : ["Contribute"] }
+                   ]  
+  }, 
+  {
+    "Name": "Portail SONES - Administrateurs", 
+    "Description": "Les membres de ce groupe ont un control total du portail de la SONES", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin"],
+    "Assignments": [
+                      {"ObjectType" : "Site", "ObjectName" : "/", "Roles" : ["Full Control"] }
+                   ] 
+  },
+  { 
+    "Name": "Portail SONES - Direction DG", 
+    "Description": "Les membres de la direction Direction Générale", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin"],
+    "Assignments": [
+                      {"ObjectType" : "Folder", "ObjectName" : "Lists/DemandeFourniture/DG", "Roles" : ["Read", "Contribute"] }
+                   ]  
+  }, 
+  { 
+    "Name": "Portail SONES - Direction PCA", 
+    "Description": "Les membres de la direction Président du Conseil d'Administration", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin"],
+    "Assignments": [
+                      {"ObjectType" : "Folder", "ObjectName" : "Lists/DemandeFourniture/PCA", "Roles" : ["Read", "Contribute"] }
+                   ]  
+  }, 
+  { 
+    "Name": "Portail SONES - Direction DTX", 
+    "Description": "Les membres de la direction Direction des Travaux", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin"],
+    "Assignments": [
+                      {"ObjectType" : "Folder", "ObjectName" : "Lists/DemandeFourniture/DTX", "Roles" : ["Read", "Contribute"] }
+                   ]  
+  }, 
+  { 
+    "Name": "Portail SONES - Direction DPCE", 
+    "Description": "Les membres de la direction Direction du Patrimoine et du Contrôle de l'Exploitation", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin"],
+    "Assignments": [
+                      {"ObjectType" : "Folder", "ObjectName" : "Lists/DemandeFourniture/DPCE", "Roles" : ["Read", "Contribute"] }
+                   ]  
+  }, 
+  { 
+    "Name": "Portail SONES - Direction DCHMG", 
+    "Description": "Les membres de la direction Direction du Capital Humain et des Moyens Généraux", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin"],
+    "Assignments": [
+                      {"ObjectType" : "Folder", "ObjectName" : "Lists/DemandeFourniture/DCHMG", "Roles" : ["Read", "Contribute"] }
+                   ]  
+  }, 
+  { 
+    "Name": "Portail SONES - Direction SGL", 
+    "Description": "Les membres de la direction Secretariat Général", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin"],
+    "Assignments": [
+                      {"ObjectType" : "Folder", "ObjectName" : "Lists/DemandeFourniture/SGL", "Roles" : ["Read", "Contribute"] }
+                   ]  
+  }, 
+  { 
+    "Name": "Portail SONES - Direction DFC", 
+    "Description": "Les membres de la direction Direction des Finances et de la Comptabilité", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin"],
+    "Assignments": [
+                      {"ObjectType" : "Folder", "ObjectName" : "Lists/DemandeFourniture/DFC", "Roles" : ["Read", "Contribute"] }
+                   ]  
+  }, 
+  { 
+    "Name": "Portail SONES - Direction DPE", 
+    "Description": "Les membres de la direction Direction de la Planification et des Etudes", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin"],
+    "Assignments": [
+                      {"ObjectType" : "Folder", "ObjectName" : "Lists/DemandeFourniture/DPE", "Roles" : ["Read", "Contribute"] }
+                   ]  
+  }, 
+  { 
+    "Name": "Portail SONES - Direction CT", 
+    "Description": "Les membres de la direction Coordonateur Technique", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin"],
+    "Assignments": [
+                      {"ObjectType" : "Folder", "ObjectName" : "Lists/DemandeFourniture/CT", "Roles" : ["Read", "Contribute"] }
+                   ]  
+  }, 
+  { 
+    "Name": "Portail SONES - Direction UGP - KMS3", 
+    "Description": "Les membres de la direction Unité de Gestion du Projet / KMS3", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin"],
+    "Assignments": [
+                      {"ObjectType" : "Folder", "ObjectName" : "Lists/DemandeFourniture/UGP - KMS3", "Roles" : ["Read", "Contribute"] }
+                   ]  
+  }
+]

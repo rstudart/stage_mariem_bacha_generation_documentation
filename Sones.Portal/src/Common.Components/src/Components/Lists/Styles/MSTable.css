@@ -1,0 +1,43 @@
+.ms-Table {
+    display: table;
+    width: 100%;
+    border-collapse: collapse
+}
+
+.ms-Table--fixed {
+    table-layout: fixed
+}
+
+.ms-Table-row {
+    display: table-row;
+    line-height: 30px;
+    font-size: 12px;
+    color: rgb(51, 51, 51);
+}
+
+.ms-Table-row:nth-of-type(odd) {
+    background-color: #F2F1EC;
+}
+
+.ms-Table-cell {
+    display: table-cell;
+    padding: 0 10px
+}
+
+.ms-Table-head .ms-Table-cell {
+    background-color: #DFF0D8;
+    color: #0064B1;
+    border-left: 1px solid white;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+.ms-Table-head .ms-Table-cell:hover {
+    text-decoration: underline;
+}
+
+.ms-Table-row-hover:hover {
+    background-color: rgba(203, 237, 203, 0.50);
+    outline: 1px solid transparent;
+    
+}

@@ -1,0 +1,122 @@
+﻿body {
+    font-size: 100%;
+    color: black;
+    counter-reset: h4;
+}
+
+h1 {
+    font-family: verdana, sans-serif;
+    font-size: 40px !important;
+    color: rgb(112,48,160) !important;
+    text-align: center;
+}
+
+.centred-title {
+    text-align: center;
+}
+
+    .centred-title > h2 {
+        color: black !important;
+    }
+
+h2 {
+    font-family: verdana, sans-serif;
+    font-size: 35px !important;
+    color: rgb(112,48,160) !important;
+}
+
+h3 {
+    font-family: verdana, sans-serif;
+    font-size: 30px !important;
+    color: rgb(89,89,89) !important;
+    text-align: left;
+    counter-reset: h4;
+}
+
+h4 {
+    font-family: verdana, sans-serif;
+    font-size: 27px !important;
+    color: rgb(192, 0, 0) !important;
+    text-align: left;
+    counter-reset: h5;
+}
+
+    h4:before {
+        content: counter(h4,upper-roman) ".\0000a0\0000a0";
+        counter-increment: h4;
+    }
+
+h5 {
+    font-size: 23px !important;
+    font-weight: bold;
+    counter-reset: h6;
+    counter-increment: h5;
+}
+
+    h5:before {
+        content: counter(h4,upper-roman) "." counter(h5) ".\0000a0\0000a0";
+    }
+
+h6 {
+    font-size: 20px !important;
+    color: black !important;
+    counter-increment: h6;
+}
+
+.h7 {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.h8 {
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.h9 {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+h6:before {
+    content: counter(h4,upper-roman) "." counter(h5) "." counter(h6) ".\0000a0\0000a0";
+}
+
+
+
+p {
+    font-family: verdana, sans-serif;
+    font-size:15px;
+    color: black;
+    text-align: left;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+table {
+    border-collapse: collapse;
+    border-color: rgb(155,187,89) !important;
+    width: 100%;
+    color: black !important;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+    border-color: rgb(155,187,89) !important;
+}
+
+tr:nth-child(even) {
+    background-color: rgb(234,241,221)
+}
+
+tr:nth-child(odd) {
+    background-color: white
+}
+
+th {
+    background-color: rgb(155,187,89);
+    border-color: rgb(155,187,89) !important;
+    color: white !important;
+}

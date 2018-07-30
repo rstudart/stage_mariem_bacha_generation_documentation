@@ -1,0 +1,32 @@
+﻿[
+  {
+    "Xml": "<Field ID='{27976ef7-77c5-4ddd-a168-91d352e99023}' Name='BodyTemplate' DisplayName='Template du contenu' Type='Note' Required='TRUE' Group='_CONFIG Gestion des alertes'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{8b6ca757-8e02-472d-9b90-d986693e258e}' Name='ObjectTemplate' DisplayName='Template de l objet' Type='Text' Required='True' Group='_CONFIG Gestion des alertes'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{b4346498-3ae3-44c2-b469-6644a287bc63}' Name='RecipientsGroups' DisplayName='Groupes destinataires' Type='Note' Group='_CONFIG Employes'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{faebc6eb-a88b-466d-abdb-f2b7344aee0c}' Name='RecipientsUsers' DisplayName='Utilisateurs destinataires' Type='Note' Group='_CONFIG Employes'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{a7613939-21bd-4984-894c-6cf3672f8b18}' Name='SerializedDataObject' DisplayName='Objet de données' Type='Note' Required='True' Group='_CONFIG Gestion des alertes'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{4a4d47fe-369d-4407-8cde-831b67b5a488}' Name='SerializedDataObjectConfig' DisplayName='Configuration de l objet de données' Type='Note' Required='True' Group='_CONFIG Gestion des alertes'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{8a69c8ca-30cf-4d49-ae41-d639095b4529}' Name='SiteUrl' DisplayName='Site Url' Required='True' Type='Text' Group='_CONFIG Gestion des alertes'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{d6998b28-3a1c-4c90-bedf-9c385dc83237}' Name='MailSent' DisplayName='Mail envoyé' Type='Note'  Group='_CONFIG Gestion des alertes'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{3591bfd8-2ca2-4b7a-a164-5adac591471e}' Name='Sent' DisplayName='Envoyée' Type='Boolean' Required='True' Group='_CONFIG Gestion des alertes'><Default>0</Default></Field>"
+  },
+  {
+    "Xml": "<Field ID='{a0fbd0f2-c886-4242-8e23-104ea2d64746}' Name='AlertIdentifier' linkToItem='TRUE' DisplayName='Identifiant d alerte' Required='True' Type='Text' Group='_CONFIG Gestion des alertes'></Field>"
+  }
+]

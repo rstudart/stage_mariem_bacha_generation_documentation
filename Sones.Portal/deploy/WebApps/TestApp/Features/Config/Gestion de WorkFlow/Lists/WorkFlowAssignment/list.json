@@ -1,0 +1,16 @@
+{
+    "Name": "WorkFlowAssignment",
+    "Title": "Affectation de WorkFlow",
+    "Description": "",
+    "TemplateType": 100,
+    "ContentTypes": [
+        "WorkFlow Assignment"
+    ],
+    "DeployOrder": 1,
+    "ShowInSearchResults": false,
+    "RequiredFields": [],
+    "HiddenFields": [],
+    "NewFormFields": [],
+    "EditFormFields": [],
+    "DisplayFormFields": []
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "BonDeCommandeHistory",
+    "Title": "Historique Bon de commande",
+    "Description": "",
+    "CustomTemplate": "Historique des flux de travail",
+    "ContentTypes": [
+        "Historique de taches"
+    ],
+    "RequiredFields": [],
+    "HiddenFields": [],
+    "NewFormFields": [],
+    "EditFormFields": [],
+    "DisplayFormFields": []
+}

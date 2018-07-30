@@ -1,0 +1,14 @@
+﻿{
+  "Name": "PPAS",
+  "Title": "Processus Pilotage et Amélioration du Système",
+  "Description": "",
+  "TemplateType": 101,
+  "ContentTypes": [],
+  "DeployOrder":  1,
+  "Views": [],
+  "RequiredFields": [  ],
+  "HiddenFields": [  ],
+  "NewFormFields": [  ],
+  "EditFormFields": [  ],
+  "DisplayFormFields": [  ]
+}

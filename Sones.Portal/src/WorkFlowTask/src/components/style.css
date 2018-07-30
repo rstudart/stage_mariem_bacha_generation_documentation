@@ -1,0 +1,8 @@
+.WF-Buttons * {
+    float: right !important;
+}
+
+.WF-Buttons {
+    padding-top: 10px;
+    padding-right: 0px !important;
+}

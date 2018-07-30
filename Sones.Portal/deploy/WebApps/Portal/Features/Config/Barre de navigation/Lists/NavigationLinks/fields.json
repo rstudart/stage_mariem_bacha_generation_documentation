@@ -1,0 +1,12 @@
+﻿[
+  {
+    "Xml": "<Field ID='{313aa863-ccfb-4c3b-be66-4a5a24b9e5e5}' Name='Link' DisplayName='Lien' Type='Text' Required='TRUE' Group='_CONFIG'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{76106dad-9115-4634-a985-d41bb5941558}' Name='ParentMenu' DisplayName='Parent' Type='Lookup' Required='FALSE' Group='_CONFIG' ShowField='Title' List='NavigationLinks' Overwrite='TRUE' ></Field>"
+  },
+  {
+    "Xml": "<Field ID='{7a1d1bc5-afc3-40a2-bdf2-7e2e8a0d6e37}' Name='Ordre' DisplayName='Ordre' Type='Number' Required='True' Group='_CONFIG'></Field>"
+  }
+]
+

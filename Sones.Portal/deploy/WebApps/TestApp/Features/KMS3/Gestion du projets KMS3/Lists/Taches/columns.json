@@ -1,0 +1,14 @@
+[
+    {
+    "Xml": "<Field ID='{5143D185-A0FF-4A9E-8246-634C8884F775}' Name='TitreTache' DisplayName='Titre' LinkToItem='TRUE' Type='Text' Required='TRUE' MaxLength='255' Group='_SONES'></Field>"
+    },
+    {
+    "Xml": "<Field ID='{15B2E66D-C440-4738-849B-22D0A27C6B09}' Name='StatutTache' DisplayName='Statut' Type='Choice' Required='TRUE' Group='_SONES'><CHOICES><CHOICE>Soumise</CHOICE><CHOICE>En cours</CHOICE><CHOICE>Terminée</CHOICE></CHOICES></Field>"
+    },
+    {
+      "Xml": "<Field ID='{A97E00D4-1E2D-4F02-AC7E-F86A8DABA6B1}' Name='LotLookup' DisplayName='Lot' Type='Lookup' Required='FALSE' ShowField='TitreLot' List='Lots' Overwrite='TRUE' Group='_SONES'></Field>"
+    },
+    {
+      "Xml": "<Field ID='{DA389CE0-B931-4834-A22B-51C95367EFB6}' Name='ComposanteLookup' DisplayName='Composante' Type='Lookup' Required='FALSE' ShowField='Composante' List='Lots' Overwrite='TRUE' Group='_SONES'></Field>"
+    }
+  ]

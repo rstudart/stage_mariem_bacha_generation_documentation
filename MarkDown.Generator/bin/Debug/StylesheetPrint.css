@@ -1,0 +1,12 @@
+﻿@media print {
+    .header {
+        page-break-after: always;
+        margin-top: 50%;
+        width: 75%;
+        
+
+    }
+    .table-de-matiere {
+        page-break-after: always;
+    }
+}

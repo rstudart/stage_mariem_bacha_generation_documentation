@@ -1,0 +1,18 @@
+﻿[
+   { 
+    "Name": "Qualité SONES - Membres", 
+    "Description": "Les membres de ce groupe ont le droit d'accès en lecture au site de configuration la SONES", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "modou.thiam", "aydadmin", "G_Portail_Utilisateurs"],
+    "Assignments": [
+                      {"ObjectType" : "Site", "ObjectName" : "/sites/qualite", "Roles" : ["Read"] }
+                   ]  
+  }, 
+  {
+    "Name": "Qualité SONES - Administrateurs", 
+    "Description": "Les membres de ce groupe ont un control total du site de configuration la SONES", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "modou.thiam", "aydadmin","G_Portail_Admins"],
+    "Assignments": [
+                      {"ObjectType" : "Site", "ObjectName" : "/sites/qualite", "Roles" : ["Full Control"] }
+                   ] 
+  }
+]

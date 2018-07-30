@@ -1,0 +1,9 @@
+﻿[
+  {
+    "Xml": "<Field ID='{cfe36235-a091-4797-83d3-3487e5a4e8b2}' Name='IdentifiantTemplate' LinkToItem='TRUE' DisplayName='Identifiant' Type='Text' Required='TRUE' Group='_CONFIG Template d impression'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{d0d5be85-c09a-4a1b-83d4-8e2adba84f16}' Name='Template' DisplayName='Template' Type='Note' Required='True' Group='_CONFIG Template d impression'></Field>"
+  }
+]
+

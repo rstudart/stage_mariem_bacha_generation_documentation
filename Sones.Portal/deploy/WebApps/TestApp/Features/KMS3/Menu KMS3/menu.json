@@ -1,0 +1,44 @@
+﻿[
+  {
+    "Title": "Lots en cours",
+    "Header": "Lots",
+    "Url": "/Lists/Lots/LotsEnCours.aspx",
+    "Audiance": []
+  },
+  {
+    "Title": "Par composante",
+    "Header": "Lots",
+    "Url": "/Lists/Lots/ParComposante.aspx",
+    "Audiance": []
+  },
+  {
+    "Title": "Tous les lots",
+    "Header": "Lots",
+    "Url": "/Lists/Lots/TousLesLots.aspx",
+    "Audiance": []
+  },
+  {
+    "Title": "Tâches actives",
+    "Header": "Tâches",
+    "Url": "/Lists/Taches/TachesActives.aspx",
+    "Audiance": []
+  },
+  {
+    "Title": "Tâches en retard",
+    "Header": "Tâches",
+    "Url": "/Lists/Taches/TachesEnRetard.aspx",
+    "Audiance": []
+  },
+  {
+    "Title": "Tâches par lot",
+    "Header": "Tâches",
+    "Url": "/Lists/Taches/TachesParLot.aspx",
+    "Audiance": []
+  },
+  {
+    "Title": "Toutes les tâches",
+    "Header": "Tâches",
+    "Url": "/Lists/Taches/ToutesLesTaches.aspx",
+    "Audiance": []
+  }
+]

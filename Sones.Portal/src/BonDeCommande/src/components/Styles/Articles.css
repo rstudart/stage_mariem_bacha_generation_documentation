@@ -1,0 +1,56 @@
+.button-bar {
+    float: right;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+.button-no-margin{
+    margin-left: 0px !important;
+}
+.article-form{
+    background: #DFF0D8;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.ms-Suggestions-itemButton {
+    padding: 5px 12px !important;
+}
+
+
+.sug-item {
+    text-align: left;
+}
+
+.info-bar {
+    padding-top: 15px;
+}
+
+.ms-DatePicker-day .ms-Button {
+    min-width: 0 !important;
+}
+
+.ms-Table-div {
+    padding-top: 15px;
+}
+
+.errormessage {
+    font-size: 12px;
+    font-weight: 400;
+    color: #a80000;
+    margin: 0;
+    padding-top: 5px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    white-space: pre-wrap;
+    align-items: center;
+}
+
+.invalid .ms-TextField-fieldGroup, .invalid .ms-SelectionZone {
+    border-color: #a80000;
+    border-top-color: rgb(168, 0, 0);
+    border-right-color: rgb(168, 0, 0);
+    border-bottom-color: rgb(168, 0, 0);
+    border-left-color: rgb(168, 0, 0);
+}

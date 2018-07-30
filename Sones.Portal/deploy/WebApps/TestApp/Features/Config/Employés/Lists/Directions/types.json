@@ -1,0 +1,8 @@
+﻿[
+  {
+    "Id": "0x0100c14b440cb88e487aad7fb2f49e599ef7",
+    "Name": "Direction",
+    "Group": "_CONFIG Employes",
+    "Fields": [ "CodeDirection", "NameDirection","ResponsableDirection"]
+  }
+]

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "PGSI",
+  "Title": "Processus Gestion du Système d’Information",
+  "Description": "",
+  "TemplateType": 101,
+  "ContentTypes": [],
+  "DeployOrder":  1,
+  "Views": [],
+  "RequiredFields": [  ],
+  "HiddenFields": [  ],
+  "NewFormFields": [  ],
+  "EditFormFields": [  ],
+  "DisplayFormFields": [  ]
+}

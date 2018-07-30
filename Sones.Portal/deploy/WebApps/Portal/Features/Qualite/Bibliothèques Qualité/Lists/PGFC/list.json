@@ -1,0 +1,14 @@
+﻿{
+  "Name": "PGFC",
+  "Title": "Processus Gestion des Finances et de la Comptabilité",
+  "Description": "",
+  "TemplateType": 101,
+  "ContentTypes": [],
+  "DeployOrder":  1,
+  "Views": [],
+  "RequiredFields": [  ],
+  "HiddenFields": [  ],
+  "NewFormFields": [  ],
+  "EditFormFields": [  ],
+  "DisplayFormFields": [  ]
+}

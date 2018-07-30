@@ -1,0 +1,30 @@
+﻿[
+  {
+    "Xml": "<Field ID='{176cc638-15bd-47fb-8cf9-f78839b71dd9}' Name='JobName' LinkToItem='TRUE' DisplayName='Nom du job' Type='Text' Required='TRUE' Group='_CONFIG Gestion des timer jobs'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{3e35138c-cc21-47f6-8478-e915bca76fbc}' Name='JobType' DisplayName='Type du job' Type='Text' Required='TRUE' Group='_CONFIG Gestion des timer jobs'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{75b6d558-892d-4e69-a785-6a600895eb51}' Name='JobSchedule'  Required='TRUE' DisplayName='Cron' Type='Text' Group='_CONFIG Gestion des timer jobs'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{e9b1d86c-f275-45c2-9361-d27d4018ac5a}' Name='SerializedJobInfo' DisplayName='Information du job' Type='Note'  Group='_CONFIG Gestion des timer jobs'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{1a537816-3641-4a11-9801-bf05d1740826}' Name='JobStatut' DisplayName='Statut du Job' Type='Text' Group='_CONFIG Gestion des timer jobs'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{691a00b8-369d-4816-9949-45d2853ad722}' Name='LastExecTime' DisplayName='Temps d éxecution' Type='DateTime'  Group='_CONFIG Gestion des timer jobs'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{89593080-fa23-4560-824c-fb30bf22e513}' Name='LastExecResult' DisplayName='Résultat de l exécution' Type='Note'  Group='_CONFIG Gestion des timer jobs'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{2f7f111c-fd29-4f11-9bb1-4496f60a52fe}' Name='JobEnabled' DisplayName='Activé' Required='TRUE' Type='Boolean' Group='_CONFIG Gestion des timer jobs'><Default>0</Default></Field>"
+  },
+  {
+    "Xml": "<Field ID='{15930d33-9f65-424d-94c0-f20cb6c628d2}' Name='JobNextExecutionTime' DisplayName='Prochain demarrage' Type='DateTime' Group='_CONFIG Gestion des timer jobs'></Field>"
+  }
+]
+

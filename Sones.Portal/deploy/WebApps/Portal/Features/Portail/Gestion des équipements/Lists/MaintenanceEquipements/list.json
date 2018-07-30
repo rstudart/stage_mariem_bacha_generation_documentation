@@ -1,0 +1,13 @@
+﻿{
+  "Name": "MaintenanceEquipements",
+  "Title": "Maintenance équipements électromécaniques",
+  "Description": "Liste des opérations de maintenance effectuées sur les équipements électromécaniques",
+  "TemplateType": 100,
+  "DeployOrder":  2,
+  "ContentTypes": [ "Opération maintenance équipement" ],
+  "RequiredFields": [ "TypeMaintenanceEquipement", "DateSimple", "EquipementElectromecanique", "CoutMaintenanceEquipement" ],
+  "HiddenFields": [  ],
+  "NewFormFields": [  ],
+  "EditFormFields": [  ],
+  "DisplayFormFields": [  ]
+}

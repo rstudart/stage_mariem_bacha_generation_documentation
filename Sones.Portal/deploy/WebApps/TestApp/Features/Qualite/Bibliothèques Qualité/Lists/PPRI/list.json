@@ -1,0 +1,14 @@
+﻿{
+  "Name": "PPRI",
+  "Title": "Processus Planification et Réalisation des Investissements",
+  "Description": "",
+  "TemplateType": 101,
+  "ContentTypes": [],
+  "DeployOrder":  1,
+  "Views": [],
+  "RequiredFields": [  ],
+  "HiddenFields": [  ],
+  "NewFormFields": [  ],
+  "EditFormFields": [  ],
+  "DisplayFormFields": [  ]
+}

@@ -1,0 +1,14 @@
+﻿[
+  {
+    "Xml": "<Field ID='{FADE1CC3-D04C-4177-B598-FC9B396F4E33}' Name='LogSource' DisplayName='Site' Type='Text' Required='FALSE' MaxLength='255' Group='_CONFIG Log Entry'></Field>"
+  },  
+  {
+    "Xml": "<Field ID='{F707608E-81F0-4717-90B8-BB9B22DEE768}' Name='LogCategory' DisplayName='Category' Type='Text' Required='FALSE' MaxLength='255' Group='_CONFIG Log Entry'></Field>"
+  },  
+  {
+    "Xml": "<Field ID='{8FFB0CA5-2B3A-432B-9A41-7D83C93D265F}' Name='LogLevel' DisplayName='Level' Type='Text' Required='FALSE' MaxLength='255' Group='_CONFIG Log Entry'></Field>"
+  },  
+  {
+    "Xml": "<Field ID='{2A2E06C6-3788-4F85-B9B8-A9A0CABFEE7B}' Name='LogMessage' DisplayName='Message' Type='Note' RichText='FALSE' NumLines='6' Group='_CONFIG Log Entry'></Field>"
+  }
+]

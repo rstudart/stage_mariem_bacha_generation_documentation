@@ -1,0 +1,8 @@
+﻿[
+  {              
+    "Id": "0x01004201E0896B9C43FF97F3DE0EB1068221",
+    "Name": "Demande de consommables",
+    "Group": "_SONES",
+    "Fields": [ "Demandeur", "Direction", "CouleurConsommable", "DateRemiseConsommable", "StatutDemandeConsommable" ]
+  }
+]

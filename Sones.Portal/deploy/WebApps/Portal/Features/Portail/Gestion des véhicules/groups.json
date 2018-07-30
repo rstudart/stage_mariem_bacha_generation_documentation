@@ -1,0 +1,20 @@
+﻿[
+  {
+    "Name": "Gestion des véhicules - Lecteurs", 
+    "Description": "Les membres de ce groupe on le droit de lecture aux listes Vehicules et Maintenance véhicules", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin","G_Vehic_Lect"],
+    "Assignments": [
+                      {"ObjectType" : "List", "ObjectName" : "Vehicules", "Roles" : ["Read"] },
+                      {"ObjectType" : "List", "ObjectName" : "MaintenanceVehicules", "Roles" : ["Read"] }
+                   ] 
+  },
+  { 
+    "Name": "Gestion des véhicules - Gestionnaires", 
+    "Description": "Les membres de ce groupe ont le droit de contribution aux listes Vehicules et Maintenance véhicules", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin","G_Vehic_Gest"],
+    "Assignments": [
+                      {"ObjectType" : "List", "ObjectName" : "Vehicules", "Roles" : ["Contribute"] },
+                      {"ObjectType" : "List", "ObjectName" : "MaintenanceVehicules", "Roles" : ["Contribute"] }
+                   ]  
+  }
+]

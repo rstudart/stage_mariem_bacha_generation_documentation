@@ -1,0 +1,31 @@
+﻿[
+  {
+    "Id": "0x01009971e9f7a0234c3abbcd180a5e78e554",
+    "Name": "Configuration des alertes",
+    "Group": "_CONFIG Gestion des alertes",
+    "Fields": [
+      "BodyTemplate",
+      "ObjectTemplate",
+      "RecipientsUsers",
+      "RecipientsGroups",
+      "SerializedDataObjectConfig",
+      "AlertIdentifier"
+    ]
+  },
+  {
+    "Id": "0x010075e61bd46e624b45aa4e2b602eef3eec",
+    "Name": "Instance des alertes",
+    "Group": "_CONFIG Gestion des alertes",
+    "Fields": [
+      "BodyTemplate",
+      "ObjectTemplate",
+      "RecipientsUsers",
+      "RecipientsGroups",
+      "SiteUrl",
+      "Sent",
+      "MailSent",
+      "SerializedDataObject",
+      "AlertIdentifier"
+    ]
+  }
+]

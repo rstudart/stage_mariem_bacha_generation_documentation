@@ -1,0 +1,13 @@
+﻿{
+  "Name": "AnnuaireSONES",
+  "Title": "Annuaire SONES",
+  "Description": "Liste d'informations de contact des employés de la SONES",
+  "TemplateType": 100,
+  "ContentTypes": [ "Contact employé" ],
+  "DeployOrder":  1,
+  "RequiredFields": [  ],
+  "HiddenFields": [  ],
+  "NewFormFields": [  ],
+  "EditFormFields": [  ],
+  "DisplayFormFields": [  ]
+}

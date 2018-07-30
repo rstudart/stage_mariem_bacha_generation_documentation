@@ -1,0 +1,92 @@
+﻿[
+  {
+    "Id": "{D6ED57F4-3AE6-470F-8BFB-1C6AA1BE80D2}",
+    "Name": "Name",
+    "Group": "Bons de commandes",
+    "Xml": "<Field ID='{D6ED57F4-3AE6-470F-8BFB-1C6AA1BE80D2}' Name='Name' DisplayName='Nom' Type='Text' Required='TRUE' Group='Bons de commandes'></Field>"
+  },
+  {
+    "Id": "{8d029ae4-3306-406a-8279-34414c89d4e4}",
+    "Name": "Address",
+    "Group": "Bons de commandes",
+    "Xml": "<Field ID='{8d029ae4-3306-406a-8279-34414c89d4e4}' Name='Address' DisplayName='Adresse' Type='Text' Required='TRUE' Group='Bons de commandes'></Field>"
+  },
+  {
+    "Id": "{8b15770e-c6fc-43ab-a1a4-a5ad881bee53}",
+    "Name": "Phone",
+    "Group": "Bons de commandes",
+    "Xml": "<Field ID='{8b15770e-c6fc-43ab-a1a4-a5ad881bee53}' Name='Phone' DisplayName='Téléphone' Type='Text' Required='TRUE' Group='Bons de commandes'></Field>"
+  },
+  {
+    "Id": "{d98dbe8d-945a-47bb-b4df-bcff9e61724d}",
+    "Name": "Numero",
+    "Group": "Bons de commandes",
+    "Xml": "<Field ID='{d98dbe8d-945a-47bb-b4df-bcff9e61724d}' Name='Numero' DisplayName='Numero de bon de commande' Type='Text' Required='TRUE' Group='Bons de commandes'></Field>"
+  },
+  {
+    "Id": "{DD4F46F2-C90A-45E5-82F5-2C53DE9B083E}",
+    "Name": "Date",
+    "Group": "Bons de commandes",
+    "Xml": "<Field ID='{DD4F46F2-C90A-45E5-82F5-2C53DE9B083E}' Name='Date' DisplayName='Date de bon de commande' Type='DateTime' Format='DateOnly' Required='TRUE' Group='Bons de commandes'></Field>"
+  },
+  {
+    "Id": "{bd3103d7-5543-4d7c-8aa5-0ac2d975f6c9}",
+    "Name": "DA",
+    "Group": "Bons de commandes",
+    "Xml": "<Field ID='{bd3103d7-5543-4d7c-8aa5-0ac2d975f6c9}' Name='DA' DisplayName='DA' Type='Text' Required='TRUE' Group='Bons de commandes'></Field>"
+  },
+  {
+    "Id": "{9fd34414-b5b8-4fc0-91a4-bab00bb09a7d}",
+    "Name": "Fournisseur",
+    "Group": "Bons de commandes",
+    "Xml": "<Field ID='{9fd34414-b5b8-4fc0-91a4-bab00bb09a7d}' Name='Fournisseur' DisplayName='Fournisseur' Type='Lookup' Required='TRUE'  Group='Bons de commandes' ShowField='Name' List='Lists/Fournisseurs' ></Field>"
+  },
+  {
+    "Id": "{dbdde320-25ae-4b72-92f6-0e824882ef98}",
+    "Name": "Remarque",
+    "Group": "Bons de commandes",
+    "Xml": "<Field ID='{dbdde320-25ae-4b72-92f6-0e824882ef98}' Name='Remarque' DisplayName='Remarque' Type='Note' Required='FALSE' Group='Bons de commandes'></Field>"
+  },
+  {
+    "Id": "{f2513453-e710-4731-8c86-f752b3b0fde3}",
+    "Name": "SerializedArticles",
+    "Group": "Bons de commandes",
+    "Xml": "<Field ID='{f2513453-e710-4731-8c86-f752b3b0fde3}' Name='SerializedArticles' DisplayName='Articles' Type='Note' Required='TRUE' Group='Bons de commandes'></Field>"
+  },
+  {
+    "Id": "{b7665765-d9c6-43f4-b374-b12e1f9144dd}",
+    "Name": "MontantHTVA",
+    "Group": "Bons de commandes",
+    "Xml": "<Field ID='{b7665765-d9c6-43f4-b374-b12e1f9144dd}' Name='MontantHTVA' DisplayName='Montant H. TVA' Type='Number' Required='TRUE' Group='Bons de commandes'></Field>"
+  },
+  {
+    "Id": "{c2534c7c-678f-4d3e-a0d8-59eff27b507c}",
+    "Name": "MontantTTC",
+    "Group": "Bons de commandes",
+    "Xml": "<Field ID='{c2534c7c-678f-4d3e-a0d8-59eff27b507c}' Name='MontantTTC' DisplayName='Montant TTC' Type='Number' Required='TRUE' Group='Bons de commandes'></Field>"
+  },
+  {
+    "Id": "{830fd7c1-dea1-4b4a-ba7c-0f324fa8bfb0}",
+    "Name": "MontantTTC",
+    "Group": "Bons de commandes",
+    "Xml": "<Field ID='{830fd7c1-dea1-4b4a-ba7c-0f324fa8bfb0}' Name='TVA' DisplayName='TVA' Type='Number' Required='TRUE' Group='Bons de commandes'></Field>"
+  },
+  {
+    "Id": "{f873f311-f37b-4cb7-a1b1-ab6eb4cccb8d}",
+    "Name": "TotalTVA",
+    "Group": "Bons de commandes",
+    "Xml": "<Field ID='{f873f311-f37b-4cb7-a1b1-ab6eb4cccb8d}' Name='TotalTVA' DisplayName='Total TVA' Type='Number' Required='TRUE' Group='Bons de commandes'></Field>"
+  },
+  {
+    "Id": "{f873f311-f37b-4cb7-a1b1-ab6eb4cccb8d}",
+    "Name": "Statut",
+    "Group": "Bons de commandes",
+    "Xml": "<Field ID='{f873f311-f37b-4cb7-a1b1-ab6eb4cccb8d}' Name='Statut' DisplayName='Statut' Type='Text' Required='TRUE' Group='Bons de commandes'></Field>"
+  },
+  {
+    "Id": "{8bfdb0e5-fbf9-481e-a2c5-e5c5a4422f6a}",
+    "Name": "MontantEnLettres",
+    "Group": "Bons de commandes",
+    "Xml": "<Field ID='{8bfdb0e5-fbf9-481e-a2c5-e5c5a4422f6a}' Name='MontantEnLettres' DisplayName='Montant en lettres' Type='Text' Required='TRUE' Group='Bons de commandes'></Field>"
+  }
+]

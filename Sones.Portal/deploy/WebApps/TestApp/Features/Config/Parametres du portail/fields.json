@@ -1,0 +1,15 @@
+﻿[
+  {
+    "Id": "{2AE31688-68D0-4725-84E8-CC643B600056}",
+    "Name": "Key",
+    "Group": "_CONFIG",
+    "Xml": "<Field ID='{2AE31688-68D0-4725-84E8-CC643B600056}' Name='Key' DisplayName='Key' Type='Note' RichText='FALSE' NumLines='6' Required='TRUE' Group='_CONFIG'></Field>"
+  },
+  {
+    "Id": "{F9832EF4-8102-49BA-B952-FBCC2DD4E793}",
+    "Name": "Value",
+    "Group": "_CONFIG",
+    "Xml": "<Field ID='{F9832EF4-8102-49BA-B952-FBCC2DD4E793}' Name='Value' DisplayName='Value' Type='Note' RichText='FALSE' NumLines='6' Required='FALSE' Group='_CONFIG'></Field>"
+  }
+]
+

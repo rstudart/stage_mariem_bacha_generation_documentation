@@ -1,0 +1,5 @@
+﻿{
+  "Name": "Gestion des véhicules",
+  "DependentOn" : ["Colonnes de sites partagées du portail"],
+  "Site":"Portail"
+}

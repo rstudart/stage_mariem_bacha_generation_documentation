@@ -1,0 +1,11 @@
+{
+	"List": "JobConfig",
+	"Items": [
+		{
+			"JobName": "Envoie automatique des alertes",
+			"JobType": "SendAlert",
+			"JobSchedule":"*/3 * * * *",
+			"JobEnabled":true		
+		}
+	]
+}

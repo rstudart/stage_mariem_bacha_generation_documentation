@@ -1,0 +1,51 @@
+﻿[
+  {
+    "Xml": "<Field ID='{D6ED57F4-3AE6-470F-8BFB-1C6AA1BE80D2}' Name='FournisseurName' LinkToItem='TRUE'  DisplayName='Nom' Type='Text' Required='TRUE' Group='_SONES Bons de commandes'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{8d029ae4-3306-406a-8279-34414c89d4e4}' Name='FournisseurAddress' DisplayName='Adresse' Type='Text' Required='TRUE' Group='_SONES Bons de commandes'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{8b15770e-c6fc-43ab-a1a4-a5ad881bee53}' Name='FournisseurPhone' DisplayName='Téléphone' Type='Text' Required='TRUE' Group='_SONES Bons de commandes'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{d98dbe8d-945a-47bb-b4df-bcff9e61724d}' Name='NumeroBonDeCommande' LinkToItem='TRUE'  DisplayName='Numero de bon de commande' Type='Text' Required='TRUE' Group='_SONES Bons de commandes'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{DD4F46F2-C90A-45E5-82F5-2C53DE9B083E}' Name='DateBonDeCommande' DisplayName='Date de bon de commande' Type='DateTime' Format='DateOnly' Required='TRUE' Group='_SONES Bons de commandes'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{bd3103d7-5543-4d7c-8aa5-0ac2d975f6c9}' Name='DA' DisplayName='Demande d’approvisionnement' Type='Text' Required='TRUE' Group='_SONES Bons de commandes'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{9fd34414-b5b8-4fc0-91a4-bab00bb09a7d}' Name='Fournisseur' DisplayName='Fournisseur' Type='Text' Required='TRUE'  Group='_SONES Bons de commandes'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{9B268A74-C6B6-472F-9910-50301B936FC0}' Name='FournisseurID' DisplayName='FournisseurID' Type='Number' Required='TRUE'  Group='_SONES Bons de commandes'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{dbdde320-25ae-4b72-92f6-0e824882ef98}' Name='Remarque' DisplayName='Remarque' Type='Note' Required='FALSE' Group='_SONES Bons de commandes'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{859f93ad-356f-44ba-a1d5-1bfd94088f33}' Name='SerializedArticlesBonDeCommande' DisplayName='Articles' Type='Note' Required='TRUE' Group='_SONES Bons de commandes'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{b7665765-d9c6-43f4-b374-b12e1f9144dd}' Name='MontantHTVA' DisplayName='Montant H. TVA' Type='Number' Required='TRUE' Group='_SONES Bons de commandes'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{c2534c7c-678f-4d3e-a0d8-59eff27b507c}' Name='MontantTTC' DisplayName='Montant TTC' Type='Number' Required='TRUE' Group='_SONES Bons de commandes'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{830fd7c1-dea1-4b4a-ba7c-0f324fa8bfb0}' Name='TVA' DisplayName='TVA' Type='Number' Required='TRUE' Group='_SONES Bons de commandes'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{f873f311-f37b-4cb7-a1b1-ab6eb4cccb8d}' Name='TotalTVA' DisplayName='Total TVA' Type='Number' Required='TRUE' Group='_SONES Bons de commandes'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{4F4CD590-2773-4E98-BCC0-06438500B636}' Name='StatutBonDeCommande' DisplayName='Statut' Type='Choice' Required='TRUE' Group='_SONES Bons de commandes'><CHOICES><CHOICE>Soumis</CHOICE><CHOICE>En signature directeur MG</CHOICE><CHOICE>En signature contrôleur de gestion</CHOICE><CHOICE>En signature DG</CHOICE><CHOICE>Validé</CHOICE></CHOICES></Field>"
+  },
+  {
+    "Xml": "<Field ID='{8bfdb0e5-fbf9-481e-a2c5-e5c5a4422f6a}' Name='MontantEnLettres' DisplayName='Montant en lettres' Type='Text' Required='TRUE' Group='_SONES Bons de commandes'></Field>"
+  }
+  
+]

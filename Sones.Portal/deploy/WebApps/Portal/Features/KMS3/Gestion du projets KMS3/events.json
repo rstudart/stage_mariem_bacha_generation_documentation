@@ -1,0 +1,75 @@
+[
+    {
+        "ListName": "Taches",
+        "SerializedItemAdded": [
+            {
+                "$type": "FieldGetter",
+                "OutPutKey": "AssignedTo",
+                "Field": "AssignedTo",
+                "Source":"Current"
+            },
+            {
+                "$type": "MoveToFolder",
+                "Destination": "{CTX-AssignedTo-Name}",
+                "FolderCreatedFlagKey": "FolderCreated"
+            },
+            {
+                "$type": "FolderSecuritySetter",
+                "UseCondition": true,
+                "ConditiontKey": "FolderCreated",
+                "FolderPathKey": "AssignedTo-Name",
+                "UsersAssignments": [
+                {
+                    "Name": "{CTX-AssignedTo-LoginName}",
+                    "Roles": [
+                    "Contribute"
+                    ]
+                }
+                ],
+                "GroupAssignments": [
+                {
+                    "Name": "Projet KMS3 - Gestionnaires",
+                    "Roles": [
+                    "Contribute"
+                    ]
+                }
+                ]
+            }
+        ],
+        "SerializedItemUpdated": [
+            {
+                "$type": "FieldGetter",
+                "OutPutKey": "AssignedTo",
+                "Field": "AssignedTo",
+                "Source":"Current"
+            },
+            {
+                "$type": "MoveToFolder",
+                "Destination": "{CTX-AssignedTo-Name}",
+                "FolderCreatedFlagKey": "FolderCreated"
+            },
+            {
+                "$type": "FolderSecuritySetter",
+                "UseCondition": true,
+                "ConditiontKey": "FolderCreated",
+                "FolderPathKey": "AssignedTo-Name",
+                "UsersAssignments": [
+                {
+                    "Name": "{CTX-AssignedTo-LoginName}",
+                    "Roles": [
+                    "Contribute"
+                    ]
+                }
+                ],
+                "GroupAssignments": [
+                {
+                    "Name": "Projet KMS3 - Gestionnaires",
+                    "Roles": [
+                    "Contribute"
+                    ]
+                }
+                ]
+            }
+        ]
+    }
+]

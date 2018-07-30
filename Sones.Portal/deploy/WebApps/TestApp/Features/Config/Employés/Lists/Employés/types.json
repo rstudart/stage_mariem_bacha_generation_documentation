@@ -1,0 +1,14 @@
+﻿[
+  {
+    "Id": "0x0100588b77e03fbb46959c6303220d11ac6c",
+    "Name": "Employé",
+    "Group": "_CONFIG Employes",
+    "Fields": [
+      "Employe",
+      "NomPrenom",
+      "LookUpDirection",
+      "Matricule",
+      "Emploi"
+    ]
+  }
+]

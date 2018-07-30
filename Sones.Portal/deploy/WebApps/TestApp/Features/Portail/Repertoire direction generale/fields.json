@@ -1,0 +1,26 @@
+﻿[
+  {
+    "Xml": "<Field ID='{30EEF5ED-4558-4AFD-B9B7-4AB17A753E63}' Name='Structure' DisplayName='Structure' Type='Text' Required='TRUE' MaxLength='250' Group='_SONES_Rep_DG'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{5F85B7D0-2E7E-4DEC-9BC9-E82FC95C111F}' Name='FonctionContact' DisplayName='Fonction' Type='Text' Required='FALSE' MaxLength='250' Group='_SONES_Rep_DG'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{AAB10EE1-A5E7-4197-91CC-35E0AFAFA084}' Name='TelephoneMobile' DisplayName='Téléphone mobile' Type='Text' Required='FALSE' MaxLength='30' Group='_SONES_Rep_DG'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{C9C9D4C0-7E29-43CC-AB6B-FF08C4166777}' Name='TelephoneProfessionnel' DisplayName='Téléphone professionnel' Type='Text' Required='FALSE' MaxLength='30' Group='_SONES_Rep_DG'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{89B6D30A-0079-471F-A1FB-5BF8D6C6768F}' Name='TelephoneDomicile' DisplayName='Téléphone domicile' Type='Text' Required='FALSE' MaxLength='30' Group='_SONES_Rep_DG'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{B6446C49-3053-4C53-AB29-44B2F3355BFF}' Name='Fax' DisplayName='Fax' Type='Text' Required='FALSE' MaxLength='30' Group='_SONES_Rep_DG'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{0BA262CC-F76A-4AF1-B9A1-C5BCD843626D}' Name='EmailProfessionnel' DisplayName='E-Mail professionnel' Type='Text' Required='FALSE' MaxLength='100' Group='_SONES_Rep_DG'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{A4218551-2B7C-4C13-B5AF-E45070C1FDE8}' Name='EmailPersonnel' DisplayName='E-mail personnel' Type='Text' Required='FALSE' MaxLength='100' Group='_SONES_Rep_DG'></Field>"
+  }
+]

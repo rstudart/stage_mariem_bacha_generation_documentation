@@ -1,0 +1,16 @@
+{
+    "Name": "WorkFlowInstance",
+    "Title": "Instances de WorkFlow",
+    "Description": "",
+    "TemplateType": 100,
+    "ContentTypes": [
+        "WorkFlow Instance"
+    ],
+    "DeployOrder": 2,
+    "ShowInSearchResults": false,
+    "RequiredFields": [],
+    "HiddenFields": [],
+    "NewFormFields": [],
+    "EditFormFields": [],
+    "DisplayFormFields": []
+}

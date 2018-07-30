@@ -1,0 +1,13 @@
+  <View Name="{8BACD525-20A1-4A85-9D52-F6878EF0512C}" DefaultView="TRUE" MobileView="TRUE" MobileDefaultView="TRUE" Type="HTML" DisplayName="Tous les éléments" Url="/sites/config/Lists/Counters/AllItems.aspx" Level="1" BaseViewID="1" ContentTypeID="0x" ImageUrl="/_layouts/15/images/generic.png?rev=40">
+    <Query>
+      <OrderBy>
+        <FieldRef Name="ListName" />
+      </OrderBy>
+    </Query>
+    <ViewFields>
+      <FieldRef Name="ListName" />
+      <FieldRef Name="Counter" />
+    </ViewFields>
+    <RowLimit Paged="TRUE">30</RowLimit>
+    <Aggregations Value="Off" />
+  </View>

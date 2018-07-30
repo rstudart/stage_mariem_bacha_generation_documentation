@@ -1,0 +1,14 @@
+  <View Name="{2BA5F765-E4C0-4130-8B8B-23AB866E3C9A}" DefaultView="TRUE" MobileView="TRUE" MobileDefaultView="TRUE" Type="HTML" DisplayName="Tous les éléments" Url="/sites/config/Lists/Directions/AllItems.aspx" Level="1" BaseViewID="1" ContentTypeID="0x" ImageUrl="/_layouts/15/images/generic.png?rev=40">
+    <Query>
+      <OrderBy>
+        <FieldRef Name="NameDirection" />
+      </OrderBy>
+    </Query>
+    <ViewFields>
+      <FieldRef Name="NameDirection" />
+      <FieldRef Name="CodeDirection" />
+      <FieldRef Name="ResponsableDirection" />
+    </ViewFields>
+    <RowLimit Paged="TRUE">30</RowLimit>
+    <Aggregations Value="Off" />
+  </View>

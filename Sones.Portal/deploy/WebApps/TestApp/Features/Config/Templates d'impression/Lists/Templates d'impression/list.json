@@ -1,0 +1,16 @@
+{
+    "Name": "TemplateImpression",
+    "Title": "Template d impression",
+    "Description": "",
+    "TemplateType": 100,
+    "ContentTypes": [
+        "Template d impression"
+    ],
+    "DeployOrder": 1,
+    "ShowInSearchResults": false,
+    "RequiredFields": [],
+    "HiddenFields": [],
+    "NewFormFields": [],
+    "EditFormFields": [],
+    "DisplayFormFields": []
+}

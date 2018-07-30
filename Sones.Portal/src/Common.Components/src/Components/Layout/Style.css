@@ -1,0 +1,8 @@
+.ms-row {
+    padding-left: 0% !important;
+    padding-right: 0% !important;
+}
+.ms-DatePicker-wrap button {
+    min-width: 0;
+    
+}

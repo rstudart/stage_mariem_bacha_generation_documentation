@@ -1,0 +1,14 @@
+{
+    "Name": "Fournisseurs",
+    "Title": "Fournisseurs",
+    "Description": "",
+    "TemplateType": 100,
+    "ContentTypes": ["Fournisseur"],
+    "DeployOrder":  1,
+    "Views": [],
+    "RequiredFields": [  ],
+    "HiddenFields": [  ],
+    "NewFormFields": [  ],
+    "EditFormFields": [  ],
+    "DisplayFormFields": [  ]
+  }

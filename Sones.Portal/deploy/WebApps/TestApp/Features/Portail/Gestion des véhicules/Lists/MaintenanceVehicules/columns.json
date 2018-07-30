@@ -1,0 +1,13 @@
+[
+    {
+      "Xml": "<Field ID='{CFF80E41-8D07-4D68-A56E-6C4A102C6298}' Name='Vehicule' DisplayName='Vehicule' Type='Lookup' Required='TRUE' ShowField='MatriculeVehicule' List='Vehicules' Overwrite='TRUE' Group='_SONES Gestion des véhicules'></Field>"
+    },
+    {
+      "Xml": "<Field ID='{D8537905-B54E-4DE4-90AC-F6E5C087A476}' Name='TypeMaintenanceVehicule' DisplayName='Type opération' LinkToItem='TRUE' Type='Choice' Required='TRUE' Group='_SONES Gestion des véhicules'><CHOICES><CHOICE>Révision</CHOICE><CHOICE>Réparation</CHOICE></CHOICES></Field>"
+    },
+    {
+      "Xml": "<Field ID='{A0BF4799-D16E-455E-815C-31BEB1D80E03}' Name='CoutMaintenanceVehicule' DisplayName='Coût' Type='Number' Decimals='0' Required='TRUE' Group='_SONES Gestion des véhicules'></Field>"
+    }
+  ]
+  
+  

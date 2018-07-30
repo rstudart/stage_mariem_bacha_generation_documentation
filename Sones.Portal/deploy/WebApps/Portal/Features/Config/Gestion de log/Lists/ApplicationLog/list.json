@@ -1,0 +1,14 @@
+﻿{
+  "Name": "ApplicationLog",
+  "Title": "Journal de log",
+  "Description": "Journal de log des applications du portail",
+  "TemplateType": 100,
+  "ContentTypes": ["Log Entry"],
+  "DeployOrder":  1,
+  "ShowInSearchResults": false,
+  "RequiredFields": [ ],
+  "HiddenFields": [  ],
+  "NewFormFields": [ "LogSource", "LogCategory", "LogLevel", "LogMessage" ],
+  "EditFormFields": [ "LogSource", "LogCategory", "LogLevel", "LogMessage" ],
+  "DisplayFormFields":  [ "LogSource", "LogCategory", "LogLevel", "LogMessage" ]
+}

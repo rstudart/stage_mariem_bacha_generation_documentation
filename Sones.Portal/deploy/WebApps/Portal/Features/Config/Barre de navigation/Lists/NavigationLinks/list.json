@@ -1,0 +1,14 @@
+﻿{
+  "Name": "NavigationLinks",
+  "Title": "Liens de navigation",
+  "Description": "Liens de navigation au niveau de la bar supérieur",
+  "TemplateType": 100,
+  "ContentTypes": [ ],
+  "ShowInSearchResults": false,
+  "DeployOrder":  1,
+  "RequiredFields": [ "Title", "Ordre", "Link" ],
+  "HiddenFields": [  ],
+  "NewFormFields": [ "Title","Link","ParentMenu", "Ordre" ],
+  "EditFormFields": [ "Title","Link","ParentMenu", "Ordre" ],
+  "DisplayFormFields":  [ "Title","Link","ParentMenu", "Ordre" ]
+}

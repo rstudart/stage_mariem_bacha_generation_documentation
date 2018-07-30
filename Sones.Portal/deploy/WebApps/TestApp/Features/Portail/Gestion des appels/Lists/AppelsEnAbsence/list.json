@@ -1,0 +1,13 @@
+﻿{
+  "Name": "AppelsEnAbsence",
+  "Title": "Appels en absence",
+  "Description": "Liste des appels en absence reçus par le standardiste",
+  "TemplateType": 100,
+  "ContentTypes": [ "Appel" ],
+  "DeployOrder":  1,
+  "RequiredFields": [  ],
+  "HiddenFields": [  ],
+  "NewFormFields": [  ],
+  "EditFormFields": [  ],
+  "DisplayFormFields": [  ]
+}

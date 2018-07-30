@@ -1,0 +1,8 @@
+﻿[
+  {
+    "Id": "0x01004E2D28046BD24E509DE696ED8081C064",
+    "Name": "Lot",
+    "Group": "_SONES",
+    "Fields": [ "TitreLot", "Composante", "DateDebutTravaux", "DateFinTravaux", "Bailleur", "AvancementTechnique", "AvancementFinancier", "StatutLot" ]
+  }
+]

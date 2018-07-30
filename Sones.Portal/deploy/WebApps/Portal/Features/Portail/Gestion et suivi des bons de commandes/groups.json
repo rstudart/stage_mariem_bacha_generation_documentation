@@ -1,0 +1,37 @@
+﻿[
+  {
+    "Name": "Bons de commandes - Secrétaires", 
+    "Description": "Les secrétaires peuvent soumettre des bons de commandes", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin","G_Cmd_Secretaires"],
+    "Assignments": [
+                      {"ObjectType" : "List", "ObjectName" : "BonDeCommande", "Roles" : ["Contribute"] },
+                      {"ObjectType" : "List", "ObjectName" : "Fournisseurs", "Roles" : ["Contribute"] }
+                   ] 
+  },
+  { 
+    "Name": "Bons de commandes - Chefs du service des moyens généraux", 
+    "Description": "Les Chefs du service des moyens généraux peuvent démarrer le processus d’approbation", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin","G_Cmd_CS_MG"],
+    "Assignments": [
+                      {"ObjectType" : "List", "ObjectName" : "BonDeCommande", "Roles" : ["Contribute"] },
+                      {"ObjectType" : "List", "ObjectName" : "Fournisseurs", "Roles" : ["Read"] }
+                   ]  
+  },   
+  {
+    "Name": "Bons de commandes - Lecteurs", 
+    "Description": "Les membres de ce groupe on le droit de lecture aux listes Bon de commandes et Fournisseurs", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin","G_Cmd_Lect"],
+    "Assignments": [
+                      {"ObjectType" : "List", "ObjectName" : "BonDeCommande", "Roles" : ["Read"] },
+                      {"ObjectType" : "List", "ObjectName" : "Fournisseurs", "Roles" : ["Read"] }
+                   ] 
+  },
+  { 
+    "Name": "Bons de commandes - Gestionnaires", 
+    "Description": "Les gestionnaires ont un droit de contribution aux listes Fournisseurs", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin","G_Cmd_Gest"],
+    "Assignments": [
+                      {"ObjectType" : "List", "ObjectName" : "Fournisseurs", "Roles" : ["Contribute"] }
+                   ]  
+  }
+]

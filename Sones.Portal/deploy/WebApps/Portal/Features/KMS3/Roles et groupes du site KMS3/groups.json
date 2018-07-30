@@ -1,0 +1,26 @@
+﻿[
+   { 
+    "Name": "Projet KMS3 - Membres", 
+    "Description": "Les membres de ce groupe ont le droit d'accès au site de gestion projet KMS3, et peuvent consulter son contenu", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin"],
+    "Assignments": [
+                      {"ObjectType" : "Site", "ObjectName" : "/", "Roles" : ["Read"] }
+                   ]  
+  }, 
+  { 
+    "Name": "Projet KMS3 - Contributeurs", 
+    "Description": "Les membres de ce groupe ont le droit d'accès au site de gestion projet KMS3, et peuvent consulter et modifier son contenu", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin"],
+    "Assignments": [
+                      {"ObjectType" : "Site", "ObjectName" : "/", "Roles" : ["Contribute"] }
+                   ]  
+  }, 
+  {
+    "Name": "Projet FMS3 - Administrateurs", 
+    "Description": "Les membres de ce groupe ont un control total du site de gestion projet KMS3", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin"],
+    "Assignments": [
+                      {"ObjectType" : "Site", "ObjectName" : "/", "Roles" : ["Full Control"] }
+                   ] 
+  }
+]

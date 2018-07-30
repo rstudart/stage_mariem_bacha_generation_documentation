@@ -1,0 +1,19 @@
+[
+    {
+      "Xml": "<Field ID='{850CD716-DF73-4F4F-851B-7FBEF72A8D4C}' Name='MarqueVehicule' DisplayName='Marque' Type='Choice' Required='FALSE' Group='_SONES Gestion des véhicules'><CHOICES><CHOICE>Toyota Yaris</CHOICE><CHOICE>Toyota Corolla</CHOICE></CHOICES></Field>"
+    },
+    {
+      "Xml": "<Field ID='{389BBB2C-7A3A-47FA-937E-827FBF5F1568}' Name='AnneeMiseCirculation' DisplayName='Année de mise en circulation' Type='Number' Required='TRUE' Group='_SONES Gestion des véhicules'></Field>"
+    },
+    {
+      "Xml": "<Field ID='{D5963935-E8D7-48B5-BFBE-8A6A644C3039}' Name='MatriculeVehicule' DisplayName='Matricule'  LinkToItem='TRUE' Type='Text' Required='TRUE'  EnforceUniqueValues='TRUE' Indexed='TRUE' MaxLength='20' Group='_SONES Gestion des véhicules'></Field>"
+    },
+    {
+      "Xml": "<Field ID='{66757FE5-C124-4A1F-890F-9383734E2D29}' Name='PuissanceFiscale' DisplayName='Puissance fiscale' Type='Number' Required='TRUE' Group='_SONES Gestion des véhicules'></Field>"
+    },
+    {
+      "Xml": "<Field ID='{60B1FA8A-13EE-446A-BD86-35D7B061510B}' Name='TypeCarburant' DisplayName='Type carburant' Type='Choice' Required='TRUE' Group='_SONES Gestion des véhicules'><CHOICES><CHOICE>Essence</CHOICE><CHOICE>Diesel</CHOICE></CHOICES></Field>"
+    }
+  ]
+  
+  

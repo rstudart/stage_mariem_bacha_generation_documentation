@@ -1,0 +1,12 @@
+{
+    "Name": "WorkFlowUserTask",
+    "Title": "Tache Utilisateur",
+    "Description": "",
+    "TemplateType": 107,
+    "ContentTypes": [ "Tache Utilisateur" ],
+    "RequiredFields": [  ],
+    "HiddenFields": [  ],
+    "NewFormFields": [  ],
+    "EditFormFields": [  ],
+    "DisplayFormFields": [  ]
+  }

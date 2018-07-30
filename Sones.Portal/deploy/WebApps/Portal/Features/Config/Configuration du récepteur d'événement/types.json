@@ -1,0 +1,14 @@
+﻿[
+  {
+    "Id": "0x0100ac9eddd332fb4f06ace7db6ef53395ee",
+    "Name": "Event Receiver",
+    "Group": "_CONFIG EventReceiver",
+    "Fields": [ "ListName", "SerializedItemAdded","SerializedItemAdding","SerializedItemDeleted","SerializedItemDeleting","SerializedItemUpdating","SerializedItemUpdated"]
+  },
+  {
+    "Id": "0x01000c1164ac628640aa902e7546d51c3083",
+    "Name": "Compteur",
+    "Group": "_CONFIG EventReceiver",
+    "Fields": [ "ListName", "Counter"]
+  }
+]

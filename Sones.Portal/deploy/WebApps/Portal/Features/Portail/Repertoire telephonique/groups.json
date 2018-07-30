@@ -1,0 +1,18 @@
+﻿[
+  { 
+    "Name": "Répertoire téléphonique SONES - Lecteurs", 
+    "Description": "Les membres de ce groupe on le droit de lecture à la liste Annuaire SONES", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin","G_RepSones_Lect"],
+    "Assignments": [
+                      {"ObjectType" : "List", "ObjectName" : "AnnuaireSONES", "Roles" : ["Read"] }
+                   ]  
+  }, 
+  { 
+    "Name": "Répertoire téléphonique SONES - Gestionnaires", 
+    "Description": "Les membres de ce groupe ont le droit de contribution à la liste Annuaire SONES", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin","G_RepSones_Gest"],
+    "Assignments": [
+                      {"ObjectType" : "List", "ObjectName" : "AnnuaireSONES", "Roles" : ["Contribute"] }
+                   ]  
+  } 
+]

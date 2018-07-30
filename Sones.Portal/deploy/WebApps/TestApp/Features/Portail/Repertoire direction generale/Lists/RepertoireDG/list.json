@@ -1,0 +1,12 @@
+﻿{
+  "Name": "RepertoireDG",
+  "Title": "Répertoire direction générale",
+  "Description": "répertoire des contacts de direction générale",
+  "TemplateType": 100,
+  "ContentTypes": [ "Contact direction générale" ],
+  "RequiredFields": [  ],
+  "HiddenFields": [  ],
+  "NewFormFields": [  ],
+  "EditFormFields": [  ],
+  "DisplayFormFields": [  ]
+}

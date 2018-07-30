@@ -1,0 +1,50 @@
+﻿[
+  {
+    "Id": "{E4FA3BA0-A5E7-4769-8158-D7EA1FD24EDE}",
+    "Name": "DateSimple",
+    "Group": "_SONES",
+    "Xml": "<Field ID='{E4FA3BA0-A5E7-4769-8158-D7EA1FD24EDE}' Name='DateSimple' DisplayName='Date' Foramt='DateOnly' Type='DateTime' Required='TRUE' Group='_SONES'><Default>[Now]</Default></Field>"
+  },
+  {
+    "Id": "{B770AA32-BEB1-4440-B87B-956AA4A715D6}",
+    "Name": "Destinataire",
+    "Group": "_SONES",
+    "Xml": "<Field ID='{B770AA32-BEB1-4440-B87B-956AA4A715D6}' Name='Destinataire' DisplayName='Destinataire' Type='User' UserSelectionMode='PeopleOnly' Required='TRUE' Group='_SONES'></Field>"
+  },
+  {
+    "Id": "{C346F91C-1752-4524-840D-BB9F2CCF9909}",
+    "Name": "Appelant",
+    "Group": "_SONES",
+    "Xml": "<Field ID='{C346F91C-1752-4524-840D-BB9F2CCF9909}' Name='Appelant' DisplayName='Appelant' Type='Text' Required='TRUE' MaxLength='100' Group='_SONES'></Field>"
+  },
+  {
+    "Id": "{C24BD2F0-C3C7-45F4-8532-440E8D8226F2}",
+    "Name": "Organisme",
+    "Group": "_SONES",
+    "Xml": "<Field ID='{C24BD2F0-C3C7-45F4-8532-440E8D8226F2}' Name='Organisme' DisplayName='Organisme' Type='Text' Required='FALSE' MaxLength='100' Group='_SONES'></Field>"
+  },
+  {
+    "Id": "{45261DC6-D6B2-4DB5-8B1A-E1737448FE07}",
+    "Name": "Telephone",
+    "Group": "_SONES",
+    "Xml": "<Field ID='{45261DC6-D6B2-4DB5-8B1A-E1737448FE07}' Name='Telephone' DisplayName='Téléphone' Type='Text' Required='TRUE' MaxLength='30' Group='_SONES'></Field>"
+  },
+  {
+    "Id": "{1700406B-45AD-4F03-837A-64290BAFD2E7}",
+    "Name": "Action",
+    "Group": "_SONES",
+    "Xml": "<Field ID='{1700406B-45AD-4F03-837A-64290BAFD2E7}' Name='Action' DisplayName='Action' Type='Choice' Required='FALSE' Group='_SONES'><CHOICES><CHOICE>a téléphoné</CHOICE><CHOICE>Est venu vous voir</CHOICE><CHOICE>Rappellera</CHOICE><CHOICE>Désire que vous alliez le voir</CHOICE><CHOICE>Demande que vous l'appeliez</CHOICE></CHOICES></Field>"
+  },
+  {
+    "Id": "{2A1B54B0-3D95-4676-A2A3-D950C550C484}",
+    "Name": "Urgent",
+    "Group": "_SONES",
+    "Xml": "<Field ID='{2A1B54B0-3D95-4676-A2A3-D950C550C484}' Name='Urgent' DisplayName='Urgent' Type='Boolean' Required='FALSE' Group='_SONES'></Field>"
+  },
+  {
+    "Id": "{0039450B-2620-4F43-896D-B9F21E6CEC26}",
+    "Name": "Message",
+    "Group": "_SONES",
+    "Xml": "<Field ID='{0039450B-2620-4F43-896D-B9F21E6CEC26}' Name='Message' DisplayName='Message' Type='Note' RichText='FALSE' NumLines='6' Required='FALSE' Group='_SONES'></Field>"
+  }
+]

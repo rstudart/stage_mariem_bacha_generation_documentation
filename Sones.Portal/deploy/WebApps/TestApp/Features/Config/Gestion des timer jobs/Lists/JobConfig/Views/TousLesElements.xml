@@ -1,0 +1,20 @@
+  <View Name="{0B0F31E7-DA3B-48DE-8941-1CC732C54096}" DefaultView="TRUE" MobileView="TRUE" MobileDefaultView="TRUE" Type="HTML" DisplayName="All Items" Url="/sites/config/Lists/JobConfig/AllItems.aspx" Level="1" BaseViewID="1" ContentTypeID="0x" ImageUrl="/_layouts/15/images/generic.png?rev=40">
+    <Query>
+      <OrderBy>
+          <FieldRef Name="JobName" />
+      </OrderBy>
+    </Query>
+    <ViewFields>
+      <FieldRef Name="JobName" />
+      <FieldRef Name="JobType" />
+      <FieldRef Name="JobStatut" />
+      <FieldRef Name="JobSchedule" />
+      <FieldRef Name="JobExecuted" />
+      <FieldRef Name="JobNextExecutionTime" />
+      <FieldRef Name="LastExecResult" />
+      <FieldRef Name="LastExecTime" />
+      <FieldRef Name="SerializedJobInfo" />
+    </ViewFields>
+    <RowLimit Paged="TRUE">30</RowLimit>
+    <Aggregations Value="Off" />
+  </View>

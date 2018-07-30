@@ -1,0 +1,26 @@
+﻿[
+  {
+    "Id": "0x0100579a615d5a1545aa8064f5c8f50ea71d",
+    "Name": "Demandes de fournitures",
+    "Group": "_SONES Demandes de fournitures de bureau",
+    "EditFormUrl":"/Pages/FournitureBureau.aspx",
+    "NewFormUrl":"/Pages/FournitureBureau.aspx",
+    "DisplayFormUrl":"/Pages/FournitureBureau.aspx",
+     "Fields": [
+      "Direction",
+      "CodeDirection",
+      "DateDemandeFournitureBureau",
+      "StatutDemandeFournitureBureau",
+      "SerializedArticlesFourniture"
+    ]
+  },
+  {
+    "Id": "0x010053ccfeacb5564aee88de9db9add836c1",
+    "Name": "Fournitures",
+    "Group": "_SONES Demandes de fournitures de bureau",
+    "Fields": [
+      "CodeArticleFournitureBureau",
+      "ArticleFournitureBureau"
+    ]
+  }
+]

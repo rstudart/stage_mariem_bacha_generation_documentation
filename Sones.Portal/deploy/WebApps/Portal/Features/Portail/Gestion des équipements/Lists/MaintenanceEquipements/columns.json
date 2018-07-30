@@ -1,0 +1,13 @@
+[
+    {
+      "Xml": "<Field ID='{5F02FBFE-A774-44C0-B6C7-05ED140C39BB}' Name='EquipementElectromecanique' DisplayName='Equipement' Type='Lookup' Required='TRUE' ShowField='LibelleEquipement' List='EquipementsElectromecaniques' Overwrite='TRUE' Group='_SONES Gestion des équipements'></Field>"
+    },
+    {
+      "Xml": "<Field ID='{0242348C-1F54-48FA-A3CF-016DDCB39FF3}' Name='TypeMaintenanceEquipement' DisplayName='Type opération' LinkToItem='TRUE' Type='Choice' Required='TRUE' Group='_SONES Gestion des équipements'><CHOICES><CHOICE>Maintenance</CHOICE><CHOICE>Réparation</CHOICE></CHOICES></Field>"
+    },
+    {
+      "Xml": "<Field ID='{05F298DC-14C5-4970-89F2-59BDCDF292F2}' Name='CoutMaintenanceEquipement' DisplayName='Coût' Type='Number' Decimals='0' Required='TRUE' Group='_SONES Gestion des équipements'></Field>"
+    }
+  ]
+  
+  

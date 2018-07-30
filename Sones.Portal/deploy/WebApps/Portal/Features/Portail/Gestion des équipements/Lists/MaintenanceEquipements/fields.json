@@ -1,0 +1,9 @@
+﻿[
+  {
+    "Xml": "<Field Type='Calculated' DisplayName='Année' Format='DateOnly' ResultType='Number' Name='Annee'><Formula>=YEAR(Date)</Formula></Field>"
+  },
+  {
+    "Xml": "<Field Type='Calculated' DisplayName='Mois' Format='DateOnly' ResultType='Text' Name='Mois'><Formula>=TEXT(Date;'MMMM')</Formula></Field>"
+  }
+]
+

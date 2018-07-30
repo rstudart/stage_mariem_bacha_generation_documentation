@@ -1,0 +1,16 @@
+  <View Name="{DC724DA7-39AF-481E-9E53-830CB60C9F53}" DefaultView="TRUE" MobileView="TRUE" MobileDefaultView="TRUE" Scope="Recursive" Type="HTML" DisplayName="Tous les éléments" Url="/sites/config/Lists/Employes/AllItems.aspx" Level="1" BaseViewID="1" ContentTypeID="0x" ImageUrl="/_layouts/15/images/generic.png?rev=40">
+    <Query>
+      <OrderBy>
+        <FieldRef Name="NomPrenom" />
+      </OrderBy>
+    </Query>
+    <ViewFields>
+      <FieldRef Name="NomPrenom" />
+      <FieldRef Name="Matricule" />
+      <FieldRef Name="LookUpDirection" />
+      <FieldRef Name="Emploi" />
+      <FieldRef Name="Employe" />
+    </ViewFields>
+    <RowLimit Paged="TRUE">30</RowLimit>
+    <Aggregations Value="Off" />
+  </View>

@@ -1,0 +1,23 @@
+  <View Name="{40D8AFFC-9861-4795-BAAE-B804278D9110}" Type="HTML" DisplayName="Par année" Url="/Lists/MaintenanceVehicules/ParAnnee.aspx" Level="1" BaseViewID="1" ContentTypeID="0x" ImageUrl="/_layouts/15/images/generic.png?rev=40">
+    <Query>
+      <GroupBy Collapse="TRUE" GroupLimit="30">
+        <FieldRef Name="Annee" />
+      </GroupBy>
+      <OrderBy>
+        <FieldRef Name="DateSimple" Ascending="FALSE" />
+        <FieldRef Name="Vehicule" />
+      </OrderBy>
+    </Query>
+    <ViewFields>
+      <FieldRef Name="Vehicule" />
+      <FieldRef Name="TypeMaintenanceVehicule" />
+      <FieldRef Name="DateSimple" />
+      <FieldRef Name="CoutMaintenanceVehicule" />
+      <FieldRef Name="Description" />
+      <FieldRef Name="Observation" />
+    </ViewFields>
+    <RowLimit Paged="TRUE">30</RowLimit>
+    <Aggregations Value="On">
+      <FieldRef Name="CoutMaintenanceVehicule" Type="SUM" />
+    </Aggregations>
+  </View>

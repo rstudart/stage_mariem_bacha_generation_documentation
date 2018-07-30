@@ -1,0 +1,122 @@
+﻿[
+  {
+    "Title": "Appels en absence",
+    "Header": "Appels et contacts",
+    "Url": "/Lists/AppelsEnAbsence",
+    "Audiance": [
+      "Appels en absence - Lecteurs",
+      "Appels en absence - Gestionnaires"
+    ]
+  },
+  {
+    "Title": "Répertoire téléphonique",
+    "Header": "Appels et contacts",
+    "Url": "/Lists/AnnuaireSONES",
+    "Audiance": [
+      "Répertoire téléphonique SONES - Lecteurs",
+      "Répertoire téléphonique SONES - Gestionnaires"
+    ]
+  },
+  {
+    "Title": "Répertoire DG",
+    "Header": "Appels et contacts",
+    "Url": "/Lists/RepertoireDG",
+    "Audiance": [
+      "Répertoire direction générale - Lecteurs",
+      "Répertoire direction générale - Gestionnaires"
+    ]
+  },
+  {
+    "Title": "Demandes de consommables",
+    "Header": "Demandes",
+    "Url": "/Lists/DemandeConsommable",
+    "Audiance": [
+      "Gestion des consommables - Demandeurs",
+      "Gestion des consommables - Gestionnaires"
+    ]
+  },
+  {
+    "Title": "Bons de commandes",
+    "Header": "Bons de commandes",
+    "Url": "/Lists/BonDeCommande",
+    "Audiance": [
+      "Bons de commandes - Secrétaires",
+      "Bons de commandes - Chefs du service des moyens généraux",
+      "Bons de commandes - Consultation",
+      "Bons de commandes - Gestionnaires"
+    ]
+  },
+  {
+    "Title": "Fournisseurs",
+    "Header": "Bons de commandes",
+    "Url": "/Lists/Fournisseurs",
+    "Audiance": [
+      "Bons de commandes - Gestionnaires"
+    ]
+  },
+  {
+    "Title": "Demandes",
+    "Header": "Demandes de fourniture",
+    "Url": "/Lists/DemandeFourniture",
+    "Audiance": [
+      "Demandes de fournitures de bureau - Secrétaires",
+      "Demandes de fournitures de bureau - Chefs des services généraux",
+      "Demandes de fournitures de bureau - Chefs de division achats",
+      "Demandes de fournitures de bureau - Directeurs",
+      "Demandes de fournitures de bureau - Gestionnaires"
+    ]
+  },
+  {
+    "Title": "Fournitures",
+    "Header": "Demandes de fourniture",
+    "Url": "/Lists/Fournitures",
+    "Audiance": [
+      "Demandes de fournitures de bureau - Gestionnaires"
+    ]
+  },
+  {
+    "Title": "Agréments",
+    "Header": "Gestion des projets",
+    "Url": "/Lists/Agrements",
+    "Audiance": [
+      "Gestion des agrément - Lecteurs",
+      "Gestion des agrément - Gestionnaires"
+    ]
+  },
+  {
+    "Title": "Véhicules",
+    "Header": "Gestion des véhicules",
+    "Url": "/Lists/Vehicules",
+    "Audiance": [
+      "Gestion des véhicules - Lecteurs",
+      "Gestion des véhicules - Gestionnaires"
+    ]
+  },
+  {
+    "Title": "Maintenance véhicules",
+    "Header": "Gestion des véhicules",
+    "Url": "/Lists/MaintenanceVehicules",
+    "Audiance": [
+      "Gestion des véhicules - Lecteurs",
+      "Gestion des véhicules - Gestionnaires"
+    ]
+  },
+  {
+    "Title": "Equipements éléctromécaniques",
+    "Header": "Gestion des équipements",
+    "Url": "/Lists/EquipementsElectromecaniques",
+    "Audiance": [
+      "Gestion des équipements - Lecteurs",
+      "Gestion des équipements - Gestionnaires"
+    ]
+  },
+  {
+    "Title": "Maintenance équipement",
+    "Header": "Gestion des équipements",
+    "Url": "/Lists/MaintenanceEquipements",
+    "Audiance": [
+      "Gestion des équipements - Lecteurs",
+      "Gestion des équipements - Gestionnaires"
+    ]
+  }
+]

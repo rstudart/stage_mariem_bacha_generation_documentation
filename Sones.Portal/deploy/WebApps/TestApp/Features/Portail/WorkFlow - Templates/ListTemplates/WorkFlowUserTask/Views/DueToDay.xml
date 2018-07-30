@@ -1,0 +1,26 @@
+  <View Name="{89923bb3-1125-4a3a-b992-d6d1905a4da7}" Type="HTML" DisplayName="Échéance aujourd'hui" Url="/Lists/UserTask/duetoday.aspx" Level="1" BaseViewID="2" ContentTypeID="0x" ImageUrl="/_layouts/15/images/issues.png?rev=40">
+    <Query>
+      <Where>
+        <Eq>
+          <FieldRef Name="DueDate" />
+          <Value Type="DateTime">
+            <Today />
+          </Value>
+        </Eq>
+      </Where>
+      <OrderBy>
+        <FieldRef Name="Priority" Ascending="FALSE" />
+        <FieldRef Name="ID" />
+      </OrderBy>
+    </Query>
+    <ViewFields>
+     <FieldRef Name="WFTaskLink" />
+      <FieldRef Name="Status" />
+      <FieldRef Name="AssignedTo" />
+      <FieldRef Name="Priority" />
+      <FieldRef Name="PercentComplete" />
+      <FieldRef Name="StartDate" />
+      <FieldRef Name="Body" />
+    </ViewFields>
+    <RowLimit Paged="TRUE">30</RowLimit>
+  </View>    

@@ -1,0 +1,41 @@
+[
+    {
+        "ListName": "BonDeCommande",
+        "SerializedItemAdding": [
+          {
+            "$type": "CounterGenerator",
+            "OutPutKey": "compteur"
+          },
+          {
+            "$type": "FieldSetter",
+            "Field": "NumeroBonDeCommande",
+            "StringFormat": "{FN-Year}-{CTX-compteur}"
+          }
+        ],
+        "SerializedItemUpdating": [
+          {
+            "$type": "FieldGetter",
+            "OutPutKey": "StateBefore",
+            "Field": "StatutBonDeCommande",
+            "Source": "Current"
+          },
+          {
+            "$type": "FieldGetter",
+            "OutPutKey": "StateAfter",
+            "Field": "StatutBonDeCommande",
+            "Source": "After"
+          },
+          {
+            "$type": "ConditionEvaluator",
+            "Expression": " ({CTX-StateBefore} <> {CTX-StateAfter} ) AND ({CTX-StateAfter}=\"Validé\")",
+            "OutPutKey": "Validated"
+          },
+          {
+            "$type": "SendAlert",
+            "AlertIdentifier": "Bon De Commande validé",
+            "UseCondition": true,
+            "ConditiontKey": "Validated"
+          }
+        ]
+    }
+]

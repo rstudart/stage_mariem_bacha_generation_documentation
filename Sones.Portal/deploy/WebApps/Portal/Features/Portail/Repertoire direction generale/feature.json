@@ -1,0 +1,5 @@
+﻿{
+  "Name": "Répertoire direction générale",
+  "DependentOn" : ["Colonnes de sites partagées du portail"],
+  "Site":"Portail"
+}

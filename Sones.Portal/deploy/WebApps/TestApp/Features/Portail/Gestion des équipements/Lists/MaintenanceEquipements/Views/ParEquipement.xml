@@ -1,0 +1,19 @@
+<View Name="{591FD90C-49B2-4F8A-9918-1C8749A5FAD0}" MobileView="TRUE" Type="HTML" DisplayName="Par équipement" Url="/Lists/MaintenanceEquipements/ParEquipement.aspx" Level="1" BaseViewID="1" ContentTypeID="0x" ImageUrl="/_layouts/15/images/generic.png?rev=40">
+  <Query>
+    <GroupBy Collapse="TRUE" GroupLimit="30">
+      <FieldRef Name="EquipementElectromecanique" />
+    </GroupBy>
+    <OrderBy>
+      <FieldRef Name="DateSimple" Ascending="FALSE" />
+    </OrderBy>
+  </Query>
+  <ViewFields>
+      <FieldRef Name="TypeMaintenanceEquipement" />
+      <FieldRef Name="DateSimple" />
+      <FieldRef Name="EquipementElectromecanique" />
+      <FieldRef Name="CoutMaintenanceEquipement" />
+      <FieldRef Name="Observation" />
+      <FieldRef Name="Description" />
+  </ViewFields>
+  <RowLimit Paged="TRUE">30</RowLimit>
+</View>

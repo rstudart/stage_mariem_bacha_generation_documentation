@@ -1,0 +1,14 @@
+[
+    {
+        "AlertIdentifier": "Bon De Commande validé",
+        "BodyTemplate": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\"> <title>Mail de notification</title> </head> <body> <div id=\"app\"></div><p> Bonjour ,</p><p> Le bon de commande <a href=\"{{ItemEditUrl}}\">{{NumeroBonDeCommande}}</a> a été valildé. </p><P>Ceci est un message automatique, veuillez ne pas répondre directement à ce message. </p></body></html>",
+        "ObjectTemplate": "Sones Portail : Bon De commande {{NumeroBonDeCommande}} validé",
+        "RecipientsGroups": "[\"Bons de commandes - Chefs du service des moyens généraux\"]",
+        "SerializedDataObjectConfig": {
+            "Fields": [
+                "NumeroBonDeCommande",
+                "ItemEditUrl"
+            ]
+        }
+    }
+]

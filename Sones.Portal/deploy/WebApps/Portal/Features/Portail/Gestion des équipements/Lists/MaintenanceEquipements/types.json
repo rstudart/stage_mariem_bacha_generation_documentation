@@ -1,0 +1,8 @@
+﻿[
+  {
+    "Id": "0x0100606C7A07ABB64C1FA4C5F3DD323D2EA1",
+    "Name": "Opération maintenance équipement",
+    "Group": "_SONES",
+    "Fields": [ "EquipementElectromecanique", "TypeMaintenanceEquipement", "DateSimple", "CoutMaintenanceEquipement", "Description", "Observation"  ]
+  }  
+]

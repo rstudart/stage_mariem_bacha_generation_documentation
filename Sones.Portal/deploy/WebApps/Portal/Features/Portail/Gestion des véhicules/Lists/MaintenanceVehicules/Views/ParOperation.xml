@@ -1,0 +1,23 @@
+<View Name="{0A6CC3BE-B845-464B-A66F-064C9531D3F1}" MobileView="TRUE" Type="HTML" DisplayName="Par opération" Url="/Lists/MaintenanceVehicules/ParOperation.aspx" Level="1" BaseViewID="1" ContentTypeID="0x" ImageUrl="/_layouts/15/images/generic.png?rev=40">
+  <Query>
+    <GroupBy Collapse="TRUE" GroupLimit="30">
+      <FieldRef Name="TypeMaintenanceVehicule" />
+    </GroupBy>
+    <OrderBy>
+      <FieldRef Name="DateSimple" Ascending="FALSE" />
+      <FieldRef Name="Vehicule" />
+    </OrderBy>
+  </Query>
+  <ViewFields>
+    <FieldRef Name="Vehicule" />
+    <FieldRef Name="TypeMaintenanceVehicule" />
+    <FieldRef Name="DateSimple" />
+    <FieldRef Name="CoutMaintenanceVehicule" />
+    <FieldRef Name="Description" />
+    <FieldRef Name="Observation" />
+  </ViewFields>
+  <RowLimit Paged="TRUE">30</RowLimit>
+  <Aggregations Value="On">
+    <FieldRef Name="CoutMaintenanceVehicule" Type="SUM" />
+  </Aggregations>
+</View>

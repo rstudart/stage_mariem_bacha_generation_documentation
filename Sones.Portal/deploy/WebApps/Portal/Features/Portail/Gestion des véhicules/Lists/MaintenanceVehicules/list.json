@@ -1,0 +1,13 @@
+﻿{
+  "Name": "MaintenanceVehicules",
+  "Title": "Maintenance véhicules",
+  "Description": "Liste des opérations de maintenance effectuées sur les véhicules",
+  "TemplateType": 100,
+  "DeployOrder":  2,
+  "ContentTypes": [ "Opération maintenance véhicule" ],
+  "RequiredFields": [ "TypeMaintenanceVehicule", "DateSimple", "Vehicule", "CoutMaintenanceVehicule" ],
+  "HiddenFields": [  ],
+  "NewFormFields": [  ],
+  "EditFormFields": [  ],
+  "DisplayFormFields": [  ]
+}

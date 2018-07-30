@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Code",
+  "Title": "Code",
+  "Description": "Code source du portail",
+  "TemplateType": 101,
+  "ContentTypes": [],
+  "DeployOrder":  1,
+  "ShowInSearchResults": false,
+  "Views": [],
+  "RequiredFields": [  ],
+  "HiddenFields": [  ],
+  "NewFormFields": [  ],
+  "EditFormFields": [  ],
+  "DisplayFormFields": [  ]
+}

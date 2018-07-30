@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Taches",
+  "Title": "Tâches",
+  "Description": "Liste des tâches du projet KMS3",
+  "TemplateType": 100,
+  "ContentTypes": [ "Tache" ],
+  "DeployOrder":  2,
+  "RequiredFields": [  ],
+  "HiddenFields": [  ],
+  "NewFormFields": [  ],
+  "EditFormFields": [  ],
+  "DisplayFormFields": [  ]
+}

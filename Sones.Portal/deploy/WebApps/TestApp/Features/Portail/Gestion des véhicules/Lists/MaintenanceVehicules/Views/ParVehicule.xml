@@ -1,0 +1,19 @@
+<View Name="{22C5244D-AE42-4AD3-8B02-E3C99F9732DF}" MobileView="TRUE" Type="HTML" DisplayName="Par véhicule" Url="/Lists/MaintenanceVehicules/ParVehicule.aspx" Level="1" BaseViewID="1" ContentTypeID="0x" ImageUrl="/_layouts/15/images/generic.png?rev=40">
+  <Query>
+    <GroupBy Collapse="TRUE" GroupLimit="30">
+      <FieldRef Name="Vehicule" />
+    </GroupBy>
+    <OrderBy>
+      <FieldRef Name="DateSimple" Ascending="FALSE" />
+    </OrderBy>
+  </Query>
+  <ViewFields>
+    <FieldRef Name="Vehicule" />
+    <FieldRef Name="TypeMaintenanceVehicule" />
+    <FieldRef Name="DateSimple" />
+    <FieldRef Name="CoutMaintenanceVehicule" />
+    <FieldRef Name="Description" />
+    <FieldRef Name="Observation" />
+  </ViewFields>
+  <RowLimit Paged="TRUE">30</RowLimit>
+</View>

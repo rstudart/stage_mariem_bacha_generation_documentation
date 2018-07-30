@@ -1,0 +1,18 @@
+﻿[
+  { 
+    "Name": "Répertoire direction générale - Lecteurs", 
+    "Description": "Les membres de ce groupe ont le droit de lecture à la liste Répertoire Direction générale", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin","G_RepDG_Lect"],
+    "Assignments": [
+                      {"ObjectType" : "List", "ObjectName" : "RepertoireDG", "Roles" : ["Read"] }
+                   ]  
+  }, 
+  { 
+    "Name": "Répertoire direction générale - Gestionnaires", 
+    "Description": "Les membres de ce groupe ont le droit de contribution à la liste Répertoire Direction générale", 
+    "Members" : ["oulimata.k.ngom", "youssouph.fall", "aydadmin","G_RepDG_Gest"],
+    "Assignments": [
+                      {"ObjectType" : "List", "ObjectName" : "RepertoireDG", "Roles" : ["Contribute"] }
+                   ]  
+  } 
+]

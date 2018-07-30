@@ -1,0 +1,15 @@
+{
+    "Name": "Fournitures",
+    "Title": "Fournitures",
+    "Description": "",
+    "TemplateType": 100,
+    "ContentTypes": [
+      "Fournitures"
+    ],
+    "Views": [],
+    "RequiredFields": [],
+    "HiddenFields": [],
+    "NewFormFields": [],
+    "EditFormFields": [],
+    "DisplayFormFields": []
+  }

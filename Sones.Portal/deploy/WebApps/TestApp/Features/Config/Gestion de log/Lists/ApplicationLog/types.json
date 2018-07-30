@@ -1,0 +1,8 @@
+﻿[
+  {
+    "Id": "0x0100E0105C3115D94DA4A982AE3EE20B4750",
+    "Name": "Log Entry",
+    "Group": "_CONFIG",
+    "Fields": [ "LogSource", "LogCategory", "LogLevel", "LogMessage" ]
+  }  
+]

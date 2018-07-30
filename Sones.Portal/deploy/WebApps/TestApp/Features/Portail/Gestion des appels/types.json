@@ -1,0 +1,8 @@
+﻿[
+  {
+    "Id": "0x0100D4B0B0E28C414F62984BCC361567110B",
+    "Name": "Appel",
+    "Group": "_SONES",
+    "Fields": [ "DateHeure", "Destinataire", "Appelant", "Organisme", "Telephone", "Action", "Urgent", "Message" ]
+  }
+]

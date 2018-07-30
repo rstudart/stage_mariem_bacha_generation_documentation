@@ -1,0 +1,18 @@
+[
+    {
+        "AlertIdentifier": "Appel en absence",
+        "BodyTemplate":  "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\"/> <title>Mail de notification</title> </head> <body> <p> Bonjour ,</p><p> Vous avez reçu un <a href=\"{{ItemDisplayUrl}}\"> appel manqué </a> &nbsp;{{#Urgent}}( Urgent ){{/Urgent}}{{#Appelant}}de &nbsp;{{Appelant}}{{/Appelant}}{{#Telephone}}&nbsp;{{#Telephone}}{{/Telephone}}{{#DateHeure}}&nbsp; le &nbsp;{{DateHeure}}{{/DateHeure}}</p>{{#Message}}<p> Message : &nbsp;{{Message}}</p>{{/Message}}{{^Message}}<p> L'appelant n'a pas laissé de message </p>{{/Message}}<P>Ceci est un message automatique, veuillez ne pas répondre directement à ce message. </p></body></html>",
+        "ObjectTemplate": "Sones Portail : Appel en absence {{#Appelant}} de {{Appelant}} {{/Appelant}} {{#Urgent}} ( Urgent ) {{/Urgent}}",
+        "RecipientsUsers": "[\"{CTX-Destinataire-LoginName}\"]",
+        "SerializedDataObjectConfig": {
+            "Fields": [
+                "Appelant",
+                "ItemDisplayUrl",
+                "Urgent",
+                "Telephone",
+                "DateHeure",
+                "Message"
+            ]
+        }
+    }
+]

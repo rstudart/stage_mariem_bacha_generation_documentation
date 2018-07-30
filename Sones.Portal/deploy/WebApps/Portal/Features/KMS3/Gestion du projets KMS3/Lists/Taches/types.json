@@ -1,0 +1,8 @@
+﻿[
+  {
+    "Id": "0x0108007CCBC8D3F40246DD9C4B04E947D1D682",
+    "Name": "Tache",
+    "Group": "_SONES",
+    "Fields": [ "TitreTache", "LotLookup", "ComposanteLookup", "AssignedTo", "DueDate", "Priority", "PercentComplete", "StatutTache" ]
+  }
+]

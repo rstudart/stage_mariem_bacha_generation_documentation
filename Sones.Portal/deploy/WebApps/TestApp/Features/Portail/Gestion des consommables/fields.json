@@ -1,0 +1,14 @@
+﻿[
+  {
+    "Xml": "<Field ID='{BC5B112F-7B63-49EA-AD43-4D649644B0C0}' Name='Demandeur' DisplayName='Demandeur' Type='User' LinkToItem='TRUE' UserSelectionMode='PeopleOnly' Required='TRUE' Group='_SONES Demandes de consommables'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{65A163DA-552B-4599-9607-E0DC7F6A301D}' Name='StatutDemandeConsommable' DisplayName='Statut' Type='Choice' Required='FALSE' Group='_SONES Demandes de consommables'><CHOICES><CHOICE>Soumise</CHOICE><CHOICE>Rejetée</CHOICE><CHOICE>Acceptée</CHOICE></CHOICES></Field>"
+  },
+  {
+    "Xml": "<Field ID='{0EC09DBD-0A4B-49F6-B42E-725EF7C63354}' Name='CouleurConsommable' DisplayName='Couleur' Type='Choice' Required='FALSE' Group='_SONES Demandes de consommables'><CHOICES><CHOICE>Noir</CHOICE><CHOICE>Cyan</CHOICE><CHOICE>Magenta</CHOICE><CHOICE>Jaune</CHOICE></CHOICES></Field>"
+  },
+  {
+    "Xml": "<Field ID='{F6E6E3D6-3781-48D7-B75F-0B4C8392B1ED}' Name='DateRemiseConsommable' DisplayName='Date de remise' Type='DateTime' Required='TRUE' Format='DateOnly' Group='_SONES Demandes de consommables' ><Default>[today]</Default></Field>"
+  }
+]

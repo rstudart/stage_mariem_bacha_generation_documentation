@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Parametres",
+  "Title": "Paramètres",
+  "Description": "Paramètres de configuration du portail",
+  "TemplateType": 100,
+  "ContentTypes": ["ConfigItem"],
+  "DeployOrder":  1,
+  "ShowInSearchResults": false,
+  "Views": [],
+  "RequiredFields": [ "Key" ],
+  "HiddenFields": [ "Title" ],
+  "NewFormFields": [  ],
+  "EditFormFields": [  ],
+  "DisplayFormFields": [  ]
+}

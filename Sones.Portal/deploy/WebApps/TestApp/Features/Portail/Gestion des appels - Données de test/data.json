@@ -1,0 +1,12 @@
+﻿{
+	"List" : "AppelsEnAbsence",
+	"Items": [
+              { "DateHeure" : "18/05/2018", "Destinataire" : "oulimata.k.ngom", "Appelant" : "Donald Duck", "Organisme" : "Warner", "Telephone" : "52258522366", "Action" : "Est venu vous voir", "Urgent" : "1", "Message" : "Call back asap please" },
+              { "DateHeure" : "17/05/2018", "Destinataire" : "oulimata.k.ngom", "Appelant" : "Donald Duck", "Organisme" : "Warner", "Telephone" : "25258522366", "Action" : "Est venu vous voir", "Urgent" : "1", "Message" : "Call back asap please" },
+              { "DateHeure" : "05/04/2018", "Destinataire" : "oulimata.k.ngom", "Appelant" : "Flying Buzz", "Organisme" : "Pixar", "Telephone" : "98258522366", "Action" : "Est venu vous voir", "Urgent" : "1", "Message" : "Call back asap please" },
+              { "DateHeure" : "15/04/2018", "Destinataire" : "oulimata.k.ngom", "Appelant" : "Donald Duck", "Organisme" : "Warner", "Telephone" : "71258522366", "Action" : "Est venu vous voir", "Urgent" : "1", "Message" : "Call back asap please" },
+              { "DateHeure" : "06/04/2018", "Destinataire" : "oulimata.k.ngom", "Appelant" : "Rango", "Organisme" : "Pixar", "Telephone" : "44258522366", "Action" : "Est venu vous voir", "Urgent" : "1", "Message" : "Call back asap please" },
+              { "DateHeure" : "02/04/2018", "Destinataire" : "oulimata.k.ngom", "Appelant" : "Donald Duck", "Organisme" : "Warner", "Telephone" : "31258522366", "Action" : "Est venu vous voir", "Urgent" : "1", "Message" : "Call back asap please" },
+              { "DateHeure" : "01/04/2018", "Destinataire" : "oulimata.k.ngom", "Appelant" : "Bugs Bunny", "Organisme" : "Disney", "Telephone" : "53258522366", "Action" : "Est venu vous voir", "Urgent" : "1", "Message" : "Call back asap please" }
+            ]
+}

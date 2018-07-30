@@ -1,0 +1,11 @@
+/lib
+/dist
+/node_modules
+/bundles
+*.sppkg
+*.tgz
+.ntvs_analysis.dat
+.vs
+bin
+obj
+.editorconfig

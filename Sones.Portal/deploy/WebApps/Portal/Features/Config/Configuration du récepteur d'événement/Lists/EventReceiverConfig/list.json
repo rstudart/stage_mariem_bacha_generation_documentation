@@ -1,0 +1,16 @@
+{
+    "Name": "EventReceiverConfig",
+    "Title": "Configuration de l'event Receiver",
+    "Description": "",
+    "TemplateType": 100,
+    "ContentTypes": [
+        "Event Receiver"
+    ],
+    "DeployOrder": 1,
+    "ShowInSearchResults": false,
+    "RequiredFields": [],
+    "HiddenFields": [],
+    "NewFormFields": [],
+    "EditFormFields": [],
+    "DisplayFormFields": []
+}

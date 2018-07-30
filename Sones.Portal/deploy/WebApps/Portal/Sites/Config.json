@@ -1,0 +1,34 @@
+﻿{
+  "Name": "Config",
+  "Description": "Site de configuration du portail. Destiné à l'usage des administrateurs uniquement",
+  "Url": "/sites/config",
+  "Locale": 1036,
+  "Template": "STS#1",
+  "Features": [ 
+                { "Enable" : "True", "Description": "SharePoint Server Standard Site Collection features", "Id": "b21b090c-c796-4b0f-ac0f-7ef1659c20ae" },
+                { "Enable" : "True", "Description": "SharePoint Server Publishing Infrastructure", "Id": "f6924d36-2fa8-4f0b-b16d-06b7250180fa"}
+              ],
+  "WebFeatures": [  
+                  { "Enable" : "True", "Description": "Team Collaboration Lists", "Id": "00bfea71-4ea5-48d4-a4ad-7ea5c011abe5" },
+                  { "Enable" : "True", "Description": "SharePoint Server Standard Site features", "Id": "99fe402e-89a0-45aa-9163-85342e865dc8" },
+                  { "Enable" : "False", "Description": "Minimal Download Strategy", "Id": "87294c72-f260-42f3-a41b-981a2ffce37a" }
+                ],
+  "CustomFeatures": [ "Roles et groupes du site config",
+                      "Entrepot de code", 
+                      "Barre de navigation",
+                      "Barre de navigation - Données",
+                      "Master page", 
+                      "Gestion des timer jobs",
+                      "Gestion des timer jobs - Données",
+                      "Configuration du récepteur d'événement",
+                      "Templates d'impression",
+                      "Employés",
+                      "Employés - Données liste directions",
+                      "Employés - Données liste employes",
+                      "Gestion des alertes",
+                      "Gestion de WorkFlow",
+                      "Gestion de log",
+                      "QuickLaunch Config"],
+  "OwnerLogin": "", 
+  "Delete": false
+}

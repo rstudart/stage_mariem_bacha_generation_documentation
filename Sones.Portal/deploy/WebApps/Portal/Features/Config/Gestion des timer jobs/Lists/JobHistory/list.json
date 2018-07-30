@@ -1,0 +1,17 @@
+{
+    "Name": "JobHistory",
+    "Title": "Historique des timer Jobs",
+    "Description": "Liste de l'historique d'execution des timer jobs",
+    "TemplateType": 100,
+    "ContentTypes": [
+      "Historique de timer jobs"
+    ],
+    "DeployOrder": 1,
+    "ShowInSearchResults": false,
+    "Views": [],
+    "RequiredFields": [],
+    "HiddenFields": [],
+    "NewFormFields": [],
+    "EditFormFields": [],
+    "DisplayFormFields": []
+  }

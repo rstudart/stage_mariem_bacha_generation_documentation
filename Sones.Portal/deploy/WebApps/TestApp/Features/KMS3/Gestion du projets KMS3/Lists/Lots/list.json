@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Lots",
+  "Title": "Lots",
+  "Description": "Liste des lots du projet KMS3",
+  "TemplateType": 100,
+  "ContentTypes": [ "Lot" ],
+  "DeployOrder":  1,
+  "RequiredFields": [  ],
+  "HiddenFields": [  ],
+  "NewFormFields": [  ],
+  "EditFormFields": [  ],
+  "DisplayFormFields": [  ]
+}

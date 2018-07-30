@@ -1,0 +1,15 @@
+﻿{
+  "Name": "AlertConfig",
+  "Title": "Configuration des alertes",
+  "Description": "Liste de configuration des alertes du portail",
+  "TemplateType": 100,
+  "ContentTypes": [ "Configuration des alertes" ],
+  "DeployOrder":  1,
+  "ShowInSearchResults": false,
+  "Views": [],
+  "RequiredFields": [  ],
+  "HiddenFields": [  ],
+  "NewFormFields": [  ],
+  "EditFormFields": [  ],
+  "DisplayFormFields": [  ]
+}

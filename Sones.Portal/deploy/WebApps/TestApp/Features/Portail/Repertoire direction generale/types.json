@@ -1,0 +1,8 @@
+﻿[
+  {
+    "Id": "0x0100C2D578438E3644E9AC52CC3C7A98A3F3",
+    "Name": "Contact direction générale",
+    "Group": "_SONES",
+    "Fields": [ "NomPrenom", "Structure", "FonctionContact", "Adresse", "TelephoneMobile", "TelephoneProfessionnel", "TelephoneDomicile", "Fax", "EmailProfessionnel", "EmailPersonnel"  ]
+  }
+]

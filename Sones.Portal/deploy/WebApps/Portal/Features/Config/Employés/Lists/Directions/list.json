@@ -1,0 +1,16 @@
+{
+    "Name": "Directions",
+    "Title": "Directions",
+    "Description": "",
+    "TemplateType": 100,
+    "ContentTypes": [
+        "Direction"
+    ],
+    "DeployOrder": 1,
+    "ShowInSearchResults": false,
+    "RequiredFields": [],
+    "HiddenFields": [],
+    "NewFormFields": [],
+    "EditFormFields": [],
+    "DisplayFormFields": []
+}

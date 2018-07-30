@@ -1,0 +1,15 @@
+  <View Name="{F381F534-B887-46E0-9A98-66784AA05FD4}" DefaultView="TRUE" MobileView="TRUE" MobileDefaultView="TRUE" Type="HTML" DisplayName="Tous les éléments" Url="/sites/config/Lists/JobHistory/AllItems.aspx" Level="1" BaseViewID="1" ContentTypeID="0x" ImageUrl="/_layouts/15/images/generic.png?rev=40">
+    <Query>
+      <OrderBy>
+        <FieldRef Name="Created" Ascending="FALSE" />
+      </OrderBy>
+    </Query>
+    <ViewFields>
+      <FieldRef Name="JobName" />
+      <FieldRef Name="LastExecResult" />
+      <FieldRef Name="LastExecTime" />
+      <FieldRef Name="Created" />
+    </ViewFields>
+    <RowLimit Paged="TRUE">30</RowLimit>
+    <Aggregations Value="Off" />
+  </View>

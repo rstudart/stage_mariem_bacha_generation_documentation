@@ -1,0 +1,28 @@
+[
+    {
+        "Id": "0x0108008a79bd1cf847412db105555017390dca",
+        "Name": "Tache Utilisateur",
+        "Group": "_SONES WorkFlow - Templates",
+        "Fields": [
+            "WFInstanceID",
+            "WFIdentifier",
+            "SerializedTaskInfo",
+            "SerializedItemInfo",
+            "WFTaskLink"
+        ]
+    },
+    {
+        "Id": "0x01007283dec8a3d64274a00f57261fe680ad",
+        "Name": "Historique de taches",
+        "Group": "_SONES WorkFlow - Templates",
+        "Fields": [
+            "WFInstanceID",
+            "WFIdentifier",
+            "WFModificationDate",
+            "WFEditionUser",
+            "WFItemOldState",
+            "WFItemNewState",
+            "WFNote"
+        ]
+    }
+]

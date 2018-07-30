@@ -1,0 +1,8 @@
+﻿[
+  {
+    "Id": "0x0100F209B16D46184546B9D7BE3C68E22CE5",
+    "Name": "Agrément",
+    "Group": "_SONES",
+    "Fields": [ "Nom", "Adresse", "DomaineActivite", "Telephone", "AdresseMail", "RegistreCommerce", "NINEA", "DateAgrement" ]
+  }
+]

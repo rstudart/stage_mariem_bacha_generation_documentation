@@ -1,0 +1,14 @@
+  <View Name="{130A0E05-55EE-4591-8FB0-E447E8E9BCA2}" DefaultView="TRUE" MobileView="TRUE" MobileDefaultView="TRUE" Type="HTML" DisplayName="Tous les éléments" Url="/sites/bonsdecommandes/Lists/Fournisseurs/AllItems.aspx" Level="1" BaseViewID="1" ContentTypeID="0x" ImageUrl="/_layouts/15/images/generic.png?rev=40">
+    <Query>
+      <OrderBy>
+        <FieldRef Name="ID" />
+      </OrderBy>
+    </Query>
+    <ViewFields>
+      <FieldRef Name="FournisseurName" />
+      <FieldRef Name="FournisseurAddress" />
+      <FieldRef Name="FournisseurPhone" />
+    </ViewFields>
+    <RowLimit Paged="TRUE">30</RowLimit>
+    <Aggregations Value="Off" />
+  </View>

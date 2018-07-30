@@ -1,0 +1,26 @@
+ <View Name="{527de398-b4df-406a-9ff6-ec063dbb88aa}" Type="HTML" DisplayName="Tâches actives" Url="/Lists/UserTask/active.aspx" Level="1" BaseViewID="3" ContentTypeID="0x" ImageUrl="/_layouts/15/images/issues.png?rev=40">
+    <Query>
+      <Where>
+        <Neq>
+          <FieldRef Name="Status" />
+          <Value Type="Text">Terminé</Value>
+        </Neq>
+      </Where>
+      <OrderBy>
+        <FieldRef Name="Priority" Ascending="FALSE" />
+        <FieldRef Name="DueDate" />
+        <FieldRef Name="ID" />
+      </OrderBy>
+    </Query>
+    <ViewFields>
+      <FieldRef Name="WFTaskLink" />
+      <FieldRef Name="AssignedTo" />
+      <FieldRef Name="Status" />
+      <FieldRef Name="Priority" />
+      <FieldRef Name="PercentComplete" />
+      <FieldRef Name="StartDate" />
+      <FieldRef Name="DueDate" />
+      <FieldRef Name="Body" />
+    </ViewFields>
+    <RowLimit Paged="TRUE">30</RowLimit>
+  </View>

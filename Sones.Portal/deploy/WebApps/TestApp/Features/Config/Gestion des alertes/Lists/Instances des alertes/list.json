@@ -1,0 +1,17 @@
+{
+    "Name": "AlertInstances",
+    "Title": "Instances des alertes",
+    "Description": "Liste des instances des alertes du portail",
+    "TemplateType": 100,
+    "ContentTypes": [ "Instance des alertes" ],
+    "DeployOrder":  2,
+    "ShowInSearchResults": false,
+    "Views": [],
+    "RequiredFields": [  ],
+    "HiddenFields": [  ],
+    "NewFormFields": [  ],
+    "EditFormFields": [  ],
+    "DisplayFormFields": [  ]
+  }
+  
+

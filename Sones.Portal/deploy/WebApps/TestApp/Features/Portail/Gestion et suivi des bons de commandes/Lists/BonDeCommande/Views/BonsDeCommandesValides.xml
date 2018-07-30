@@ -1,0 +1,24 @@
+  <View Name="{896d6b87-f30f-42a5-ba20-c81a53039703}" DefaultView="FALSE" MobileView="TRUE" Type="HTML" DisplayName="Bons de commandes validés" Url="/Lists/BonDeCommande/BonsDeCommandesValides.aspx" Level="1" BaseViewID="1" ContentTypeID="0x" ImageUrl="/_layouts/15/images/generic.png?rev=40">
+    <Query>
+      <Where>
+        <Eq>
+          <FieldRef Name="StatutBonDeCommande" />
+          <Value Type="Text">Validé</Value>
+        </Eq>
+      </Where>
+    </Query>
+    <ViewFields>
+      <FieldRef Name="NumeroBonDeCommande" />
+      <FieldRef Name="DateBonDeCommande" />
+      <FieldRef Name="DA" />
+      <FieldRef Name="Fournisseur" />
+      <FieldRef Name="MontantTTC" />
+      <FieldRef Name="MontantEnLettres" />
+      <FieldRef Name="MontantHTVA" />
+      <FieldRef Name="TVA" />
+      <FieldRef Name="TotalTVA" />
+      <FieldRef Name="Remarque" />
+    </ViewFields>
+    <RowLimit Paged="TRUE">30</RowLimit>
+    <Aggregations Value="Off" />
+  </View>

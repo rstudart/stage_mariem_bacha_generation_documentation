@@ -1,0 +1,8 @@
+﻿[
+  {
+    "Id": "0x010018AD6CB5AD4944A9B66AFD237A549C6B",
+    "Name": "Equipement électromécanique",
+    "Group": "_SONES",
+    "Fields": [ "LibelleEquipement", "MarqueEquipement", "AnneeMiseOperation" ]
+  } 
+]

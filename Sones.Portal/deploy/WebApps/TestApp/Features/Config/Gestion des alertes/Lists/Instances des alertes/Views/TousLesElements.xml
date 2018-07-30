@@ -1,0 +1,20 @@
+  <View Name="{A8C59AEF-D2BE-4CF1-8C49-B8A96BFAD65F}" DefaultView="TRUE" MobileView="TRUE" MobileDefaultView="TRUE" Type="HTML" DisplayName="Tous les éléments" Url="/sites/config/Lists/AlertInstances/AllItems.aspx" Level="1" BaseViewID="1" ContentTypeID="0x" ImageUrl="/_layouts/15/images/generic.png?rev=40">
+    <Query>
+      <OrderBy>
+        <FieldRef Name="ID" />
+      </OrderBy>
+    </Query>
+    <ViewFields>
+      <FieldRef Name="AlertIdentifier" />
+      <FieldRef Name="MailSent" />
+      <FieldRef Name="ObjectTemplate" />
+      <FieldRef Name="BodyTemplate" />
+      <FieldRef Name="SerializedDataObject" />
+      <FieldRef Name="Created" />
+      <FieldRef Name="Sent" />
+      <FieldRef Name="RecipientsGroups" />
+      <FieldRef Name="RecipientsUsers" />
+    </ViewFields>
+    <RowLimit Paged="TRUE">30</RowLimit>
+    <Aggregations Value="Off" />
+  </View>

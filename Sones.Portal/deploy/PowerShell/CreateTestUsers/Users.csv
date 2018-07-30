@@ -1,0 +1,28 @@
+Feature,Role,,GroupName,GroupDescription,UserName,UserDescription
+
+Portail_,Utilisateurs,,G_Portail_Utilisateurs,Groupe d'utilisateurs ayant accès au portail de la SONES,U_Portail_User,Utilisateur de test - Accès au portail
+Portail_,Admins,,G_Portail_Admins,Groupe d'utilisateurs ayant accès un droit d'administration sur le portail de la SONES,U_Portail_Admin,Utilisateur de test - Admin au portail
+Agre_,Lect,,G_Agre_Lect,Gestion des agréments - Lecteurs,U_Agre_Lect,Utilisateur de test - Gestion des agréments - Lecteurs
+Agre_,Gest,,G_Agre_Gest,Gestion des agréments - Gestionnaires,U_Agre_Gest,Utilisateur de test - Gestion des agréments - Gestionnaires
+Appels_,Standardist,,G_Appels_Standardist,Appels en absence - Standardistes,U_Appels_Standardist,Utilisateur de test - Appels en absence - Standardistes
+Appels_,Lect,,G_Appels_Lect,Appels en absence - Lecteurs,U_Appels_Lect,Utilisateur de test - Appels en absence - Lecteurs
+Appels_,Gest,,G_Appels_Gest,Appels en absence - Gestionnaires,U_Appels_Gest,Utilisateur de test - Appels en absence - Gestionnaires
+Consom_,Demandeurs,,G_Consom_Demandeurs,Gestion des consommables - Demandeurs,U_Consom_Demandeurs,Utilisateur de test - Gestion des consommables - Demandeurs
+Consom_,Gest,,G_Consom_Gest,Gestion des consommables - Gestionnaires,U_Consom_Gest,Utilisateur de test - Gestion des consommables - Gestionnaires
+Equip_,Lect,,G_Equip_Lect,Gestion des équipements - Lecteurs,U_Equip_Lect,Utilisateur de test - Gestion des équipements - Lecteurs
+Equip_,Gest,,G_Equip_Gest,Gestion des équipements - Gestionnaires,U_Equip_Gest,Utilisateur de test - Gestion des équipements - Gestionnaires
+Vehic_,Lect,,G_Vehic_Lect,Gestion des véhicules - Lecteurs,U_Vehic_Lect,Utilisateur de test - Gestion des véhicules - Lecteurs
+Vehic_,Gest,,G_Vehic_Gest,Gestion des véhicules - Gestionnaires,U_Vehic_Gest,Utilisateur de test - Gestion des véhicules - Gestionnaires
+Cmd_,Secretaires,,G_Cmd_Secretaires,Bons de commandes - Secrétaires,U_Cmd_Secretaires,Utilisateur de test - Bons de commandes - Secrétaires
+Cmd_,CS_MG,,G_Cmd_CS_MG,Bons de commandes - Chefs du service des moyens généraux,U_Cmd_CS_MG,Utilisateur de test - Bons de commandes - Chefs du service des moyens généraux
+Cmd_,Lect,,G_Cmd_Lect,Bons de commandes - Lecteurs,U_Cmd_Lect,Utilisateur de test - Bons de commandes - Lecteurs
+Cmd_,Gest,,G_Cmd_Gest,Bons de commandes - Gestionnaires,U_Cmd_Gest,Utilisateur de test - Bons de commandes - Gestionnaires
+Fournit_,Secretaire,,G_Fournit_Secretaire,Demandes de fournitures de bureau - Secrétaires,U_Fournit_Secretaire,Utilisateur de test - Demandes de fournitures de bureau - Secrétaires
+Fournit_,CS_Gener,,G_Fournit_CS_Gener,Demandes de fournitures de bureau - Chefs des services généraux,U_Fournit_CS_Gener,Utilisateur de test - Demandes de fournitures de bureau - Chefs des services généraux
+Fournit_,CD_Achats,,G_Fournit_CD_Achats,Demandes de fournitures de bureau - Chefs de division achats,U_Fournit_CD_Achats,Utilisateur de test - Demandes de fournitures de bureau - Chefs de division achats
+Fournit_,Directeurs,,G_Fournit_Directeurs,Demandes de fournitures de bureau - Directeurs,U_Fournit_Directeurs,Utilisateur de test - Demandes de fournitures de bureau - Directeurs
+Fournit_,Gest,,G_Fournit_Gest,Demandes de fournitures de bureau - Gestionnaires,U_Fournit_Gest,Utilisateur de test - Demandes de fournitures de bureau - Gestionnaires
+RepDG_,Lect,,G_RepDG_Lect,Répertoire direction générale - Lecteurs,U_RepDG_Lect,Utilisateur de test - Répertoire direction générale - Lecteurs
+RepDG_,Gest,,G_RepDG_Gest,Répertoire direction générale - Gestionnaires,U_RepDG_Gest,Utilisateur de test - Répertoire direction générale - Gestionnaires
+RepSones_,Lect,,G_RepSones_Lect,Répertoire téléphonique SONES - Lecteurs,U_RepSones_Lect,Utilisateur de test - Répertoire téléphonique SONES - Lecteurs
+RepSones_,Gest,,G_RepSones_Gest,Répertoire téléphonique SONES - Gestionnaires,U_RepSones_Gest,Utilisateur de test - Répertoire téléphonique SONES - Gestionnaires

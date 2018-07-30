@@ -1,0 +1,457 @@
+{
+	"List" : "Fournitures",
+	"Items": [
+				{
+					"CodeArticleFournitureBureau": "1",
+					"ArticleFournitureBureau": "Agrafeuses Jacky GM"
+				},
+				{
+					"CodeArticleFournitureBureau": "2",
+					"ArticleFournitureBureau": "Agrafeuses Jacky PM"
+				},
+				{
+					"CodeArticleFournitureBureau": "3",
+					"ArticleFournitureBureau": "Boîtes de Stylo bleu "
+				},
+				{
+					"CodeArticleFournitureBureau": "4",
+					"ArticleFournitureBureau": "Boites de Stylo noir"
+				},
+				{
+					"CodeArticleFournitureBureau": "5",
+					"ArticleFournitureBureau": "Boites de Stylo rouge"
+				},
+				{
+					"CodeArticleFournitureBureau": "6",
+					"ArticleFournitureBureau": "Blocs arlequin complet"
+				},
+				{
+					"CodeArticleFournitureBureau": "7",
+					"ArticleFournitureBureau": "Blocs notes GM"
+				},
+				{
+					"CodeArticleFournitureBureau": "8",
+					"ArticleFournitureBureau": "Blocs notes PM"
+				},
+				{
+					"CodeArticleFournitureBureau": "9",
+					"ArticleFournitureBureau": "Blocs avamo complet"
+				},
+				{
+					"CodeArticleFournitureBureau": "10",
+					"ArticleFournitureBureau": "Blocs post-it avec support"
+				},
+				{
+					"CodeArticleFournitureBureau": "11",
+					"ArticleFournitureBureau": "Boites d'archives PM"
+				},
+				{
+					"CodeArticleFournitureBureau": "12",
+					"ArticleFournitureBureau": "Boites d'archives GM"
+				},
+				{
+					"CodeArticleFournitureBureau": "13",
+					"ArticleFournitureBureau": "Boites de mouchoirs blancs"
+				},
+				{
+					"CodeArticleFournitureBureau": "14",
+					"ArticleFournitureBureau": "Boites de bracelets élastiques"
+				},
+				{
+					"CodeArticleFournitureBureau": "15",
+					"ArticleFournitureBureau": "paquets de trombones 25 mm (10 unités)"
+				},
+				{
+					"CodeArticleFournitureBureau": "16",
+					"ArticleFournitureBureau": "Paquets de trombones 32 mm (10 unités)"
+				},
+				{
+					"CodeArticleFournitureBureau": "17",
+					"ArticleFournitureBureau": "Paquets de trombones 33 mm (10 unités)"
+				},
+				{
+					"CodeArticleFournitureBureau": "18",
+					"ArticleFournitureBureau": "Boites recharges agrafes bébé"
+				},
+				{
+					"CodeArticleFournitureBureau": "19",
+					"ArticleFournitureBureau": "Boites recharges agrafes Jacky "
+				},
+				{
+					"CodeArticleFournitureBureau": "20",
+					"ArticleFournitureBureau": "Bombes insecticide"
+				},
+				{
+					"CodeArticleFournitureBureau": "21",
+					"ArticleFournitureBureau": "Bombes désodorisantes"
+				},
+				{
+					"CodeArticleFournitureBureau": "22",
+					"ArticleFournitureBureau": "Cahiers 200 pages GM "
+				},
+				{
+					"CodeArticleFournitureBureau": "23",
+					"ArticleFournitureBureau": "Cahiers 200 pages PM"
+				},
+				{
+					"CodeArticleFournitureBureau": "24",
+					"ArticleFournitureBureau": "Cahiers à spirales GM 200 p"
+				},
+				{
+					"CodeArticleFournitureBureau": "25",
+					"ArticleFournitureBureau": "Cahiers à spirales PM 200 p"
+				},
+				{
+					"CodeArticleFournitureBureau": "26",
+					"ArticleFournitureBureau": "Cahiers spirales GM 300 p"
+				},
+				{
+					"CodeArticleFournitureBureau": "27",
+					"ArticleFournitureBureau": "Chamoisines"
+				},
+				{
+					"CodeArticleFournitureBureau": "28",
+					"ArticleFournitureBureau": "Chemises à rabat élastique"
+				},
+				{
+					"CodeArticleFournitureBureau": "29",
+					"ArticleFournitureBureau": "Chemises à rabat élastique plastiques"
+				},
+				{
+					"CodeArticleFournitureBureau": "30",
+					"ArticleFournitureBureau": "Chemises à sangle"
+				},
+				{
+					"CodeArticleFournitureBureau": "31",
+					"ArticleFournitureBureau": "Chemises cartonnées "
+				},
+				{
+					"CodeArticleFournitureBureau": "32",
+					"ArticleFournitureBureau": "Classeurs chrono A/P "
+				},
+				{
+					"CodeArticleFournitureBureau": "33",
+					"ArticleFournitureBureau": "Classeurs suspendus"
+				},
+				{
+					"CodeArticleFournitureBureau": "34",
+					"ArticleFournitureBureau": "Colle blanche (bouteille)"
+				},
+				{
+					"CodeArticleFournitureBureau": "35",
+					"ArticleFournitureBureau": "Corbeille à papier poubelle"
+				},
+				{
+					"CodeArticleFournitureBureau": "36",
+					"ArticleFournitureBureau": "Corbeille à courrier plexi"
+				},
+				{
+					"CodeArticleFournitureBureau": "37",
+					"ArticleFournitureBureau": "Corbeille courrier en fer"
+				},
+				{
+					"CodeArticleFournitureBureau": "38",
+					"ArticleFournitureBureau": "Coupe papier"
+				},
+				{
+					"CodeArticleFournitureBureau": "39",
+					"ArticleFournitureBureau": "Couverture cartonnées"
+				},
+				{
+					"CodeArticleFournitureBureau": "40",
+					"ArticleFournitureBureau": "Boites crayons noirs (boites de 12)"
+				},
+				{
+					"CodeArticleFournitureBureau": "41",
+					"ArticleFournitureBureau": "Critérium 0"
+				},
+				{
+					"CodeArticleFournitureBureau": "42",
+					"ArticleFournitureBureau": "Dateur"
+				},
+				{
+					"CodeArticleFournitureBureau": "43",
+					"ArticleFournitureBureau": "Dévidoir scotch"
+				},
+				{
+					"CodeArticleFournitureBureau": "44",
+					"ArticleFournitureBureau": "Diluant pour blanco"
+				},
+				{
+					"CodeArticleFournitureBureau": "45",
+					"ArticleFournitureBureau": "Enveloppes 11x22 sans fenêtre sans entête "
+				},
+				{
+					"CodeArticleFournitureBureau": "46",
+					"ArticleFournitureBureau": "Enveloppes 11x22 à fenêtre sans entête"
+				},
+				{
+					"CodeArticleFournitureBureau": "48",
+					"ArticleFournitureBureau": "Enveloppes 11x16 sans entête"
+				},
+				{
+					"CodeArticleFournitureBureau": "49",
+					"ArticleFournitureBureau": "Boites de Feutres bleus (boite de 12)"
+				},
+				{
+					"CodeArticleFournitureBureau": "50",
+					"ArticleFournitureBureau": "Feutres noirs (boite de 12)"
+				},
+				{
+					"CodeArticleFournitureBureau": "51",
+					"ArticleFournitureBureau": "Feutres rouge (boite de 12)"
+				},
+				{
+					"CodeArticleFournitureBureau": "52",
+					"ArticleFournitureBureau": "Flacons Blanco (bouteille)"
+				},
+				{
+					"CodeArticleFournitureBureau": "53",
+					"ArticleFournitureBureau": "Flacons encre bleu (bouteille)"
+				},
+				{
+					"CodeArticleFournitureBureau": "54",
+					"ArticleFournitureBureau": "Flacons encre noir (bouteille)"
+				},
+				{
+					"CodeArticleFournitureBureau": "55",
+					"ArticleFournitureBureau": "Flacons encre rouge (bouteille)"
+				},
+				{
+					"CodeArticleFournitureBureau": "56",
+					"ArticleFournitureBureau": "Intercalaires (paquet)"
+				},
+				{
+					"CodeArticleFournitureBureau": "57",
+					"ArticleFournitureBureau": "Gomme blanche (boite de 30)"
+				},
+				{
+					"CodeArticleFournitureBureau": "58",
+					"ArticleFournitureBureau": "Manifold duplicata GM "
+				},
+				{
+					"CodeArticleFournitureBureau": "59",
+					"ArticleFournitureBureau": "Manifold duplicata PM "
+				},
+				{
+					"CodeArticleFournitureBureau": "60",
+					"ArticleFournitureBureau": "Marqueur bleu (boites)"
+				},
+				{
+					"CodeArticleFournitureBureau": "61",
+					"ArticleFournitureBureau": "Marqueur noir (boites)"
+				},
+				{
+					"CodeArticleFournitureBureau": "62",
+					"ArticleFournitureBureau": "Marqueur rouge (boites)"
+				},
+				{
+					"CodeArticleFournitureBureau": "63",
+					"ArticleFournitureBureau": "Marqueur tableau"
+				},
+				{
+					"CodeArticleFournitureBureau": "64",
+					"ArticleFournitureBureau": "Mouilleur (unité)"
+				},
+				{
+					"CodeArticleFournitureBureau": "65",
+					"ArticleFournitureBureau": "Otes agrafes (unité)"
+				},
+				{
+					"CodeArticleFournitureBureau": "66",
+					"ArticleFournitureBureau": "Paires de ciseaux Maped 17 cm"
+				},
+				{
+					"CodeArticleFournitureBureau": "67",
+					"ArticleFournitureBureau": "Parapheurs ministre 24 feuilles (couleur verte)"
+				},
+				{
+					"CodeArticleFournitureBureau": "68",
+					"ArticleFournitureBureau": "Perforeuse GM"
+				},
+				{
+					"CodeArticleFournitureBureau": "69",
+					"ArticleFournitureBureau": "Perforeuse PM"
+				},
+				{
+					"CodeArticleFournitureBureau": "70",
+					"ArticleFournitureBureau": "Pochettes kaki A5"
+				},
+				{
+					"CodeArticleFournitureBureau": "71",
+					"ArticleFournitureBureau": "Pochettes kaki GM A3 "
+				},
+				{
+					"CodeArticleFournitureBureau": "72",
+					"ArticleFournitureBureau": "Pochettes kaki A4 "
+				},
+				{
+					"CodeArticleFournitureBureau": "73",
+					"ArticleFournitureBureau": "Pot à stylo plexi "
+				},
+				{
+					"CodeArticleFournitureBureau": "74",
+					"ArticleFournitureBureau": "Pochettes lutin transparents (unités)"
+				},
+				{
+					"CodeArticleFournitureBureau": "75",
+					"ArticleFournitureBureau": "Porte tampon (boite)"
+				},
+				{
+					"CodeArticleFournitureBureau": "76",
+					"ArticleFournitureBureau": "Plumeaux (unité)"
+				},
+				{
+					"CodeArticleFournitureBureau": "77",
+					"ArticleFournitureBureau": "Punaise (boite)"
+				},
+				{
+					"CodeArticleFournitureBureau": "78",
+					"ArticleFournitureBureau": "Ramettes A3 "
+				},
+				{
+					"CodeArticleFournitureBureau": "79",
+					"ArticleFournitureBureau": "Ramettes de papier A4"
+				},
+				{
+					"CodeArticleFournitureBureau": "80",
+					"ArticleFournitureBureau": "Ramettes de papier couleur "
+				},
+				{
+					"CodeArticleFournitureBureau": "81",
+					"ArticleFournitureBureau": "Mines 0"
+				},
+				{
+					"CodeArticleFournitureBureau": "82",
+					"ArticleFournitureBureau": "Mines 0"
+				},
+				{
+					"CodeArticleFournitureBureau": "83",
+					"ArticleFournitureBureau": "Recharge post It"
+				},
+				{
+					"CodeArticleFournitureBureau": "84",
+					"ArticleFournitureBureau": "Recharge bloc arlequin"
+				},
+				{
+					"CodeArticleFournitureBureau": "85",
+					"ArticleFournitureBureau": "Registre 500 Pages "
+				},
+				{
+					"CodeArticleFournitureBureau": "86",
+					"ArticleFournitureBureau": "Registre 200 Pages"
+				},
+				{
+					"CodeArticleFournitureBureau": "87",
+					"ArticleFournitureBureau": "Registres 300 Pages "
+				},
+				{
+					"CodeArticleFournitureBureau": "88",
+					"ArticleFournitureBureau": "Registres courrier arrivée"
+				},
+				{
+					"CodeArticleFournitureBureau": "89",
+					"ArticleFournitureBureau": "Registres courrier départ"
+				},
+				{
+					"CodeArticleFournitureBureau": "90",
+					"ArticleFournitureBureau": "Règles graduées plates 30 cm"
+				},
+				{
+					"CodeArticleFournitureBureau": "91",
+					"ArticleFournitureBureau": "Réglettes pour reliure"
+				},
+				{
+					"CodeArticleFournitureBureau": "92",
+					"ArticleFournitureBureau": "Répertoire téléphonique"
+				},
+				{
+					"CodeArticleFournitureBureau": "93",
+					"ArticleFournitureBureau": "Rouleaux scotch PM"
+				},
+				{
+					"CodeArticleFournitureBureau": "94",
+					"ArticleFournitureBureau": "Sous chemises"
+				},
+				{
+					"CodeArticleFournitureBureau": "95",
+					"ArticleFournitureBureau": "Spirale d. 8 "
+				},
+				{
+					"CodeArticleFournitureBureau": "96",
+					"ArticleFournitureBureau": "Spirale d.10"
+				},
+				{
+					"CodeArticleFournitureBureau": "97",
+					"ArticleFournitureBureau": "Spirale d.12"
+				},
+				{
+					"CodeArticleFournitureBureau": "98",
+					"ArticleFournitureBureau": "Spirale d.16"
+				},
+				{
+					"CodeArticleFournitureBureau": "99",
+					"ArticleFournitureBureau": "Spirales d.18"
+				},
+				{
+					"CodeArticleFournitureBureau": "100",
+					"ArticleFournitureBureau": "Spirale d.20"
+				},
+				{
+					"CodeArticleFournitureBureau": "101",
+					"ArticleFournitureBureau": "Spirale d.22"
+				},
+				{
+					"CodeArticleFournitureBureau": "102",
+					"ArticleFournitureBureau": "Spirale d.25"
+				},
+				{
+					"CodeArticleFournitureBureau": "103",
+					"ArticleFournitureBureau": "Spirale d.28"
+				},
+				{
+					"CodeArticleFournitureBureau": "104",
+					"ArticleFournitureBureau": "Surligneurs (boites de 10 unités)"
+				},
+				{
+					"CodeArticleFournitureBureau": "105",
+					"ArticleFournitureBureau": "Taille crayon (unités)"
+				},
+				{
+					"CodeArticleFournitureBureau": "106",
+					"ArticleFournitureBureau": "Tampons encre bleu (bouteille)"
+				},
+				{
+					"CodeArticleFournitureBureau": "107",
+					"ArticleFournitureBureau": "Tampons encre rouge (bouteille)"
+				},
+				{
+					"CodeArticleFournitureBureau": "108",
+					"ArticleFournitureBureau": "Effaceur tableaux (unité)"
+				},
+				{
+					"CodeArticleFournitureBureau": "109",
+					"ArticleFournitureBureau": "Transparent pour reliure (paquet)"
+				},
+				{
+					"CodeArticleFournitureBureau": "110",
+					"ArticleFournitureBureau": "Organiseur de bureau"
+				},
+				{
+					"CodeArticleFournitureBureau": "111",
+					"ArticleFournitureBureau": "Rouleau traceur"
+				},
+				{
+					"CodeArticleFournitureBureau": "112",
+					"ArticleFournitureBureau": "Tableau PADEX à pied"
+				},
+				{
+					"CodeArticleFournitureBureau": "113",
+					"ArticleFournitureBureau": "Critérium 0"
+				},
+				{
+					"CodeArticleFournitureBureau": "114",
+					"ArticleFournitureBureau": "Cachets Trodat (unités)"
+				}
+			]
+}

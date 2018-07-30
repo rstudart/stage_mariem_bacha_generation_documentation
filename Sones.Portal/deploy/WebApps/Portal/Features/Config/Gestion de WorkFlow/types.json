@@ -1,0 +1,42 @@
+﻿[
+  {
+    "Id": "0x0100af66451813824dd0a0b9c9265e8d6572",
+    "Name": "WorkFlow Configuration",
+    "Group": "_CONFIG WorkFlow Configuration",
+    "Fields": [
+      "StatusFieldName",
+      "SerializedStatusTasks",
+      "WorkFlowIdentifier"
+    ]
+  },
+  {
+    "Id": "0x01009d618fe80233462995a21d5671d53c80",
+    "Name": "WorkFlow Instance",
+    "Group": "_CONFIG WorkFlow Configuration",
+    "Fields": [
+      "WorkFlowIdentifier",
+      "ListRootName",
+      "ListSiteUrl",
+      "ItemID",
+      "WFInitiator",
+      "WFStartDate",
+      "WFLastUpdate",
+      "WFState",
+      "WFItemState",
+      "WFTaskList",
+      "WFNote",
+      "WFHistoryList"
+    ]
+  },
+  {
+    "Id": "0x0100e29da641d1634d599dfbf44d89721110",
+    "Name": "WorkFlow Assignment",
+    "Group": "_CONFIG WorkFlow Configuration",
+    "Fields": [
+      "WorkFlowIdentifier",
+      "ListRootName",
+      "WFTaskList",
+      "WFHistoryList"
+        ]
+  }
+]

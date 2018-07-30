@@ -1,0 +1,44 @@
+﻿[
+  {
+    "Xml": "<Field ID='{2BBFE0A9-6C9F-479C-8B90-0B0AC3F65FCC}' Name='Direction' DisplayName='Direction' Type='Choice' Required='FALSE' Group='_SONES'><CHOICES><CHOICE>Coordonateur Technique</CHOICE><CHOICE>Direction du Capital Humain et des Moyens Généraux</CHOICE><CHOICE>Direction des Finances et de la Comptabilité</CHOICE><CHOICE>Direction Générale</CHOICE><CHOICE>Direction du Patrimoine et du Contrôle de l'Exploitation</CHOICE><CHOICE>Direction de la Planification et des Etudes</CHOICE><CHOICE>Direction des Travaux</CHOICE><CHOICE>Président du Conseil d'Administration</CHOICE><CHOICE>Secretariat Général</CHOICE><CHOICE>Unité de Gestion du Projet - KMS3</CHOICE><CHOICE>Salles de réunion</CHOICE></CHOICES></Field>"
+  },
+  {
+    "Xml": "<Field ID='{a7fbdb81-4272-4873-b637-018883bb4ab2}' Name='CodeDirection' DisplayName='Direction' Type='Choice' Required='FALSE' Group='_SONES'><CHOICES><CHOICE>CT</CHOICE><CHOICE>DCHMG</CHOICE><CHOICE>DFC</CHOICE><CHOICE>DG</CHOICE><CHOICE>DPCE</CHOICE><CHOICE>DPE</CHOICE><CHOICE>DTX</CHOICE><CHOICE>PCA</CHOICE><CHOICE>SGL</CHOICE><CHOICE>UGP - KMS3</CHOICE><CHOICE>Salles de réunion</CHOICE></CHOICES></Field>"
+  },
+  {
+    "Xml": "<Field ID='{84B9B0C0-D0D3-4C43-B54F-503A8BF7E1AC}' Name='FonctionEmploye' DisplayName='Fonction' Type='Text' Required='FALSE' Group='_SONES'></Field>"
+  }, 
+  {
+    "Xml": "<Field ID='{FADE1CC3-D04C-4177-B598-FC9B396F4E33}' Name='Matricule' DisplayName='Matricule' Type='Text' Required='FALSE' MaxLength='20' Group='_SONES'></Field>"
+  },  
+  {
+    "Xml": "<Field ID='{E8D122C1-2CF8-4CB4-8EFE-056B4A50F436}' Name='Batiment' DisplayName='Batiment' Type='Choice' Required='FALSE' Group='_SONES'><CHOICES><CHOICE>A</CHOICE><CHOICE>C</CHOICE></CHOICES></Field>"
+  },  
+  {
+    "Xml": "<Field ID='{4C50F318-4773-406B-BF17-15EEAC0C2E74}' Name='Etage' DisplayName='Etage' Type='Choice' Required='FALSE' Group='_SONES'><CHOICES><CHOICE>0</CHOICE><CHOICE>1</CHOICE><CHOICE>2</CHOICE><CHOICE>3</CHOICE></CHOICES></Field>"
+  }, 
+  {
+    "Xml": "<Field ID='{45261DC6-D6B2-4DB5-8B1A-E1737448FE07}' Name='Telephone' DisplayName='Téléphone' Type='Text' Required='FALSE' MaxLength='30' Group='_SONES'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{4DC38125-8BE4-4D93-92C5-071079B6CBAA}' Name='AdresseMail' DisplayName='E-Mail' Type='Text' Required='FALSE' MaxLength='100' Group='_SONES'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{15BA1E15-24D1-49CB-9B43-0DDD38810194}' Name='Adresse' DisplayName='Adresse' Type='Note' RichText='FALSE' NumLines='3' Required='FALSE' Group='_SONES_Rep_DG'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{F8F4F9A1-B5CB-4565-B803-0E9AEFD9C6AA}' Name='NomPrenom' DisplayName='Nom et Prénom' LinkToItem='TRUE' Type='Text' Required='FALSE' MaxLength='100' Group='_SONES'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{5DA2D03A-7103-4779-B16E-AAD76171230E}' Name='Nom' DisplayName='Nom' Type='Text' LinkToItem='TRUE' Required='FALSE' MaxLength='200' Group='_SONES'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{7126752D-0210-4364-A1BF-15384300F555}' Name='Observation' DisplayName='Observation' Type='Note' RichText='FALSE' NumLines='6' Required='FALSE' Group='_SONES'></Field>"
+  },
+  {
+    "Xml": "<Field ID='{9A92F4A9-6F7E-4A0A-A4EA-0D61A958A55F}' Name='DateSimple' DisplayName='Date' Type='DateTime' Required='FALSE' Format='DateOnly' Group='_SONES'><Default>[today]</Default></Field>"
+  },
+  {
+    "Xml": "<Field ID='{4BFF50CB-39AC-4076-BD96-C7200A9ED7B4}' Name='DateHeure' DisplayName='Date' Type='DateTime' Required='FALSE' Format='DateTime' Group='_SONES'><Default>[today]</Default></Field>"
+  }
+]

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "PAMG",
+  "Title": "Processus Approvisionnement et Moyens Généraux",
+  "Description": "",
+  "TemplateType": 101,
+  "ContentTypes": [],
+  "DeployOrder":  1,
+  "Views": [],
+  "RequiredFields": [  ],
+  "HiddenFields": [  ],
+  "NewFormFields": [  ],
+  "EditFormFields": [  ],
+  "DisplayFormFields": [  ]
+}
